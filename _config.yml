@@ -30,6 +30,7 @@ navbar-links:
     - Landslides: "landslides"
   Blog: ""
   Archive: "https://spamlab.github.io/tags/"
+  Subscribe: "subscribe"
   ?: "search"
   
 # Image to show in the navigation bar - image must be a square (width = height)
