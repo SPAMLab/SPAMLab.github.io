@@ -23,6 +23,7 @@ description: Spatial Analysis And Modelling Lab
 
 # List of links in the navigation bar
 navbar-links:
+  Publications: "publications"
   Projects:
     - Grants: "grants"
     #- Clastic Dikes: "clastic_dikes"
@@ -32,7 +33,6 @@ navbar-links:
     #- Dune Field: "dune_field"
     #- 3D Devil Cave: "devil_cave"
     #- Deforested Areas: "restoration"
-  Publications: "publications"
   About Us:
     - People: "people"
     - Collabs: "partners"
