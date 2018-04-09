@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPAMLabs's website is online
-subtitle: We finally have a website
+subtitle: We finally have a website!
 tags: [first,thanks]
 ---
 
