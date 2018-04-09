@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Clastic Dikes
+title: Landslides
 subtitle: SfM
 ---
 
-Clastic Dikes
+Landslides
