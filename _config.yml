@@ -31,7 +31,7 @@ navbar-links:
   Blog:
     - Posts: "blog"
     - Tags: "tags"
-  About: "about"
+  #About: "about"
   ?: "search"
   #Archive: "https://spamlab.github.io/tags/"
   #Subscribe: "subscribe"
