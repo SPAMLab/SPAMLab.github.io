@@ -1,35 +1,6 @@
 ---
-common-css:
-  - "/css/bootstrap.min.css"
-  - "/css/bootstrap-social.css"
-  - "/css/main.css"
-common-ext-css:
-  - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
-common-googlefonts:
-  - "Lora:400,700,400italic,700italic"
-  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
-common-js:
-  - "/js/jquery-1.11.2.min.js"
-  - "/js/bootstrap.min.js"
-  - "/js/main.js"
+title: SPAMLabs's website is online
+subtitle: We finally have a website
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
-  {% include head.html %}
-
-  <body>
-
-    {% include gtm_body.html %}
-  
-    {% include nav.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-  
-    {% include footer-scripts.html %}
-  
-  </body>
-</html>
+Thanks to [Dean Attali](http://deanattali.com), SPALab now has a website. This is still an early draft, and more sections and material will be added over the weeks to come. Thanks are extended to RECON ([The R Epidemics Consortium](http://www.repidemicsconsortium.org/)), since their site was used as an example to set up this one.
