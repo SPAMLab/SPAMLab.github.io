@@ -28,7 +28,9 @@ navbar-links:
     - Basalt Quarry: "garcia_quarry"
     - Landslides: "landslides"
   People: "people"
-  Blog: "blog"
+  Blog:
+    - Posts: "blog"
+    - Tags: "tags"
   About: "aboutus"
   ?: "search"
   #Archive: "https://spamlab.github.io/tags/"
