@@ -32,8 +32,10 @@ navbar-links:
     #- Dune Field: "dune_field"
     #- 3D Devil Cave: "devil_cave"
     #- Deforested Areas: "restoration"
-  People: "people"
-  Collab: "partners"
+  Publications: "publications"
+  About Us:
+    - People: "people"
+    - Collabs: "partners"
   Blog:
     - Posts: "blog"
     - Tags: "tags"
