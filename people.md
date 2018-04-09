@@ -27,8 +27,9 @@ Detecção e monitoramento de escorregamentos em encostas naturais a partir da u
 period: 2017-?  
 &nbsp;
 
-**Rafael**  
-project title: 
+**Rafael Walter de Albuquerque**  
+project title: Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process
+Aplicação de aeronaves remotamente pilotadas para avaliação e monitoramento de áreas em processo de recuperação ambiental
 period: 2018-? 
 &nbsp;
 
@@ -76,7 +77,3 @@ project title: Structure-from-Motion based structural analysis of clastic dikes 
 Análise estrutural de diques clásticos da Formação Corumbataí a partir de Structure-from-Motion  
 period: 2017
 &nbsp;
-
-
-
-
