@@ -29,9 +29,9 @@ navbar-links:
     - Landslides: "landslides"
   People: "people"
   Blog:
-    - Posts: "https://spamlab.github.io/blog/"
-    - Tags: "https://spamlab.github.io/tags/"
-  About: "aboutus"
+    - Posts: "blog"
+    - Tags: "tags"
+  About: "about"
   ?: "search"
   #Archive: "https://spamlab.github.io/tags/"
   #Subscribe: "subscribe"
