@@ -23,16 +23,16 @@ description: Spatial Analysis And Modelling Lab
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutus"
   Projects:
     - Clastic Dikes: "clastic_dikes"
     - Basalt Quarry: "garcia_quarry"
     - Landslides: "landslides"
   People: "people"
   Blog: ""
+  About: "aboutus"
+  ?: "search"
   #Archive: "https://spamlab.github.io/tags/"
   #Subscribe: "subscribe"
-  ?: "search"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
