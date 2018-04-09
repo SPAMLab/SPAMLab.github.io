@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Clastic Dikes
+title: Basalt Quarry
 subtitle: SfM
 ---
 
-Clastic Dikes
+Basalt Quarry
