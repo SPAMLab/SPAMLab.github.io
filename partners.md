@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collab
+title: Collabs
 subtitle: Our amazing friends
 published: true
 ---
