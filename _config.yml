@@ -28,9 +28,10 @@ navbar-links:
     - Clastic Dikes: "clastic_dikes"
     - Basalt Quarry: "garcia_quarry"
     - Landslides: "landslides"
-    - Dune Field: "dune_field"
-    - 3D Devil Cave: "devil_cave"
-    - Deforested Areas: "restoration"
+    - Risk Areas: "risk_areas"
+    #- Dune Field: "dune_field"
+    #- 3D Devil Cave: "devil_cave"
+    #- Deforested Areas: "restoration"
   People: "people"
   Collab: "partners"
   Blog:
