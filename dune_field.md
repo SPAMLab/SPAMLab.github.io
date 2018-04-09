@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Garopaba Dune Field
+title: Dune Field
 subtitle: SfM
 ---
 
