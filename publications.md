@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Articles, abstracts, presentations...
+subtitle: Trying not to perish
 published: true
 ---
 ## 2018  
