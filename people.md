@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: Everyone who works or has worked with us
+subtitle: Spammers united
 published: true
 ---
 
