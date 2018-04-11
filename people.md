@@ -16,7 +16,7 @@ You can find more about me at my [website](http://carlosgrohmann.com).
 &nbsp;
 
 ## PhD Students
-**Camila Duelis Viana**  
+**Camila Duelis Viana** ([github](https://github.com/cdviana))  
 Application of multi-scale photogrammetry in structural data collection  
 
 
