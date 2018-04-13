@@ -15,15 +15,6 @@ Camila is leading the project. She is responsible for generating the 3D models a
 For her monograph, Fernanda is working with an abandoned basalt quarry (now a city park). She will compare structural data obtained from the 3D models with those coleected in the field.  
 
 
-Preliminary results:  
-![mesh]({{site.baseurl}}/img/mesh.jpg)  
-
-![model]({{site.baseurl}}/img/model.jpg)  
-
-![texture]({{site.baseurl}}/img/texture.jpg)  
-
-
-
 
 
 
