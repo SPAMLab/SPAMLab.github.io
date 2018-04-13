@@ -26,8 +26,9 @@ navbar-links:
   Publications: "publications"
   Projects:
     - Grants: "grants"
+    #- Openstereo: "openstereo"
     #- Clastic Dikes: "clastic_dikes"
-    #- Basalt Quarry: "garcia_quarry"
+    - Automatic Fracture Identification: "autofrac"
     #- Landslides: "landslides"
     #- Risk Areas: "risk_areas"
     #- Dune Field: "dune_field"
