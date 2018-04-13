@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Automatic identification of geological structures in 3D models
+title: AutoFrac
+subtitle: Automatic identification of geological structures in 3D models
 published: true
 ---
 
