@@ -28,7 +28,7 @@ navbar-links:
     - Grants: "grants"
     #- Openstereo: "openstereo"
     #- Clastic Dikes: "clastic_dikes"
-    - Automatic Fracture Identification: "autofrac"
+    - AutoFrac: "autofrac"
     #- Landslides: "landslides"
     #- Risk Areas: "risk_areas"
     #- Dune Field: "dune_field"
