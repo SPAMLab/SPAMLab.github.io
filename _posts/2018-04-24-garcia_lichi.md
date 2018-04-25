@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: '"Garcia Garden" quarry '
-subtitle: 3D modeling a vertical wall with SfM and a UAV
+subtitle: 3D modeling of a vertical wall with SfM and a UAV
 tags:
   - wall
   - sfm
@@ -19,7 +19,8 @@ We started by placing three fixed points on the ground: one in front of the wall
 
 | ![totalstation]({{site.baseurl}}/img/total_station.jpg) |
 |:--:| 
-| *Location of dGPS, Total Station and points surveyed on the wall* |
+| *Location of dGPS, Total Station and points surveyed on the wall* |  
+
 &nbsp;
 
 &nbsp;
@@ -34,7 +35,8 @@ We planned a mission running parallel to the West wall with waypoints 8 meters a
 
 | ![gearth]({{site.baseurl}}/img/gearth_3d.png) |
 |:--:| 
-| *Missions planned with Litchi* |
+| *Missions planned with Litchi* |  
+
 &nbsp;
 
 &nbsp;
@@ -44,6 +46,7 @@ In the end, we collected about 450 pictures of the wall and processed with Photo
 |![solid]({{site.baseurl}}/img/garcia_high_solid.jpg)|
 |:--:| 
 | *3D model, solid view* |   
+
 &nbsp;
 
 &nbsp;
@@ -51,7 +54,8 @@ In the end, we collected about 450 pictures of the wall and processed with Photo
 
 | ![texture]({{site.baseurl}}/img/garcia_high_texture.jpg)|
 |:--:| 
-| *3D model, textured* |
+| *3D model, textured* |  
+
 &nbsp;
 
 &nbsp;
