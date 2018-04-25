@@ -20,8 +20,11 @@ We started by placing three fixed points on the ground: one in front of the wall
 | ![totalstation]({{site.baseurl}}/img/total_station.jpg) |
 |:--:| 
 | *Location of dGPS, Total Station and points surveyed on the wall* |
+&nbsp;
 
-The next step is to acquire images of the wall with the drone. And that's the tricky part. The DJI drones can be programed to fly autonomous missions, but most applications are designed to fly in a grid or cross-grid pattern, which will work fine if what you want is a 2D orthophoto or a 3D model of a landscape. 
+&nbsp;
+
+The next step was to acquire images of the wall with the drone. And that's the tricky part. The DJI drones can be programed to fly autonomous missions, but most applications are designed to fly in a grid or cross-grid pattern, which will work fine if what you want is a 2D orthophoto or a 3D model of a landscape. 
 
 In the case of a vertical wall, you can fly mannually, but that will result in longer flight times (and more battery consumption) and it's harder to ensure a proper overlapping of images. 
 
@@ -32,17 +35,24 @@ We planned a mission running parallel to the West wall with waypoints 8 meters a
 | ![gearth]({{site.baseurl}}/img/gearth_3d.png) |
 |:--:| 
 | *Missions planned with Litchi* |
+&nbsp;
 
+&nbsp;
 
 In the end, we collected about 450 pictures of the wall and processed with Photoscan Pro (with the 'high' setting). The results look really good, and we can see a lot of detail on the wall, including small fractures and some overhanging blocks. Now we need to use the Total Station points to georreference the model to real world coordinates and go back to the quarry to collect structural data (orientation) of faults and fractures using the traditional methods (compass/tape), so we can compare them with the same data extracted from the 3D model. 
 
 |![solid]({{site.baseurl}}/img/garcia_high_solid.jpg)|
 |:--:| 
-| *3D model, solid view* |  
+| *3D model, solid view* |   
+&nbsp;
 
+&nbsp;
 
 
 | ![texture]({{site.baseurl}}/img/garcia_high_texture.jpg)|
 |:--:| 
 | *3D model, textured* |
+&nbsp;
+
+&nbsp;
 
