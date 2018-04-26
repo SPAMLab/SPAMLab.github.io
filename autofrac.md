@@ -17,5 +17,5 @@ For her monograph, Fernanda is working with an abandoned basalt quarry (now a ci
 ### News:
 [[blog post](2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV
 
-
+<a href="{{ "foo" | 2018-04-24-garcia_lichi }}">Foo</a>
 
