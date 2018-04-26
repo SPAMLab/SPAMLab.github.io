@@ -15,6 +15,6 @@ Camila is leading the project. She is responsible for generating the 3D models a
 For her monograph, Fernanda is working with an abandoned basalt quarry (now a city park). She will compare structural data obtained from the 3D models with those coleected in the field.  
 
 ### News:
-[[blog post](_posts/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV
+[[blog post]({{site.url}}/_posts/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV
 
 
