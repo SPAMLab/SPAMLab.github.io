@@ -20,4 +20,4 @@ Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or
 
 See our project pages and blog posts for more details on each activity.
 
-The Lab hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and is coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).
+The Lab is hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and is coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).
