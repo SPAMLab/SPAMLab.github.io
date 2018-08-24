@@ -37,7 +37,7 @@ navbar-links:
   About Us:
     - People: "people"
     - Collabs: "partners"
-    - Social: "social_feed"
+    # - Social: "social_feed"
     - Tools: "tools"
   Blog:
     - Posts: "blog"
