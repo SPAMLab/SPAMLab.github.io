@@ -56,7 +56,7 @@ In the end, we collected about 450 pictures of the wall and processed with Photo
 |:--:| 
 | *3D model, textured* |  
 
-&nbsp;
+<!-- &nbsp;
 
 &nbsp;
-
+{% include share-buttons.html %} -->

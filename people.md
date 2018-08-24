@@ -16,6 +16,10 @@ You can find more about me at my [website](http://carlosgrohmann.com).
 &nbsp;
 
 ## PhD Students
+**Alynne Almeida Affonso**  
+High-resolution remote sensing of *igapó* forests in the Xingu River, eastern Amazonia - analysis of sedimentation patterns  
+
+
 **Camila Duelis Viana** ([github](https://github.com/cdviana))  
 Application of multi-scale photogrammetry in structural data collection  
 
@@ -26,6 +30,7 @@ Detection and monitoring of landslides on natural slopes from integrated applica
 
 **Rafael Walter de Albuquerque**  
 Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process  
+
 &nbsp;
 
 &nbsp;

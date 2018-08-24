@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grants
-subtitle: Where the money comes from
+subtitle: Putting taxpayers' money to good use
 ---
 
 **Application of high-resolution digital elevation models in geology and geomorphology.**  

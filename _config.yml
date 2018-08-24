@@ -32,11 +32,13 @@ navbar-links:
     #- Landslides: "landslides"
     #- Risk Areas: "risk_areas"
     #- Dune Field: "dune_field"
-    #- 3D Devil Cave: "devil_cave"
+    - 3D Cave: "cave_3d"
     #- Deforested Areas: "restoration"
   About Us:
     - People: "people"
     - Collabs: "partners"
+    - Social: "social_feed"
+    - Tools: "tools"
   Blog:
     - Posts: "blog"
     - Tags: "tags"
@@ -90,7 +92,7 @@ social-network-links:
   email: "spamlab.iee@gmail.com"
   # facebook: daattali
   github: spamlab
-  twitter: spamlab.iee
+  twitter: SPAM_Lab
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -247,6 +249,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-twitter-plugin
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

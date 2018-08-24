@@ -1,0 +1,12 @@
+brew install ruby
+brew install rbenv
+
+rbenv init
+
+gem install bundler jekyll
+
+bundle install
+
+bundle update
+
+
