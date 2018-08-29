@@ -16,7 +16,7 @@ Although the entire cave is over 7km long, only the first 600m are accessible by
 [![fullmap]({{site.baseurl}}/img/mapa_tapagem_full_1000px.jpg "Full cave map. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/mapa_tapagem_full.jpg)   
 *Full map of the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*
 
-[![touristic]({{site.baseurl}}/img/mapa_tapagem_turistico_1000px.jpg "Touristic sector map. Click to see larger image"){:width="550px"}]({{site.baseurl}}/img/mapa_tapagem_turistico.png)   
+[![touristic]({{site.baseurl}}/img/mapa_tapagem_turistico_1000px.jpg "Touristic sector map. Click to see larger image"){:width="550px"}]({{site.baseurl}}/img/mapa_tapagem_turistico.jpg)   
 *Touristic sector the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*
 
 
