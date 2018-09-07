@@ -26,14 +26,15 @@ navbar-links:
   Publications: "publications"
   Projects:
     - Grants: "grants"
-    #- Openstereo: "openstereo"
-    #- Clastic Dikes: "clastic_dikes"
     - AutoFrac: "autofrac"
+    - 3D Cave: "cave_3d"
+    - MeshStruct: "meshstruct"
+    #- Openstereo: "openstereo"
     #- Landslides: "landslides"
     #- Risk Areas: "risk_areas"
     #- Dune Field: "dune_field"
-    - 3D Cave: "cave_3d"
     #- Deforested Areas: "restoration"
+    #- 3D Karst: "peruacu"
   About Us:
     - People: "people"
     - Collabs: "partners"

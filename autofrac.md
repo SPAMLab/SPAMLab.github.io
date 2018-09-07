@@ -5,10 +5,14 @@ subtitle: Automatic identification of geological structures in 3D models
 published: true
 ---
 #### News:
-[[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV
+[[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV  
+&nbsp;
+&nbsp;
 
 #### About:
-In this project we use digital photogrammetry (SfM) with multiscale terrestrial and UAV images in various geological environments in order to extract brittle structures parameters (fractures and faults) of rock massifs, comparing with classic data sampling (scanlines, area sampling, circular window) assessing the limitations that may exist and proposing solutions. 
+In this project we use digital photogrammetry (SfM) with multiscale terrestrial and UAV images in various geological environments in order to extract brittle structures parameters (fractures and faults) of rock massifs, comparing with classic data sampling (scanlines, area sampling, circular window) assessing the limitations that may exist and proposing solutions.  
+&nbsp;
+&nbsp;
 
 #### Students:
 **Camila Duelis Viana (PhD)**  

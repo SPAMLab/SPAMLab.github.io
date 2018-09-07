@@ -4,7 +4,9 @@ title: 3D Cave
 subtitle: Measuring the underground, one billion points at a time
 ---
 #### News:
-[[blog post]({{site.url}}/2018-07-10-devils_cave)]: TLS mapping of Devil's Cave
+[[blog post]({{site.url}}/2018-07-10-devils_cave)]: TLS mapping of Devil's Cave  
+&nbsp;
+&nbsp;
 
 #### About:
 In this project, we are mapping the touristic sector of the "Devil's Cave" with [Terrestrial Laser Scanner](https://en.wikipedia.org/wiki/Laser_scanning){:target="_blank"}.
@@ -17,8 +19,9 @@ Although the entire cave is over 7km long, only the first 600m are accessible by
 *Full map of the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*
 
 [![touristic]({{site.baseurl}}/img/mapa_tapagem_turistico_1000px.jpg "Touristic sector map. Click to see larger image"){:width="550px"}]({{site.baseurl}}/img/mapa_tapagem_turistico.jpg)   
-*Touristic sector the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*
-
+*Touristic sector the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*  
+&nbsp;
+&nbsp;
 
 #### Students:
 **Gabriel Z. Sugiura (undergrad)**  
