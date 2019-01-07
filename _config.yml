@@ -250,6 +250,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  # - jekyll-target-blank
   # - jekyll-twitter-plugin
   
 # Beautiful Jekyll / Dean Attali

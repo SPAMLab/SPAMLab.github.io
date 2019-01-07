@@ -5,7 +5,7 @@ subtitle: Automatic identification of geological structures in 3D models
 published: true
 ---
 #### News:
-[[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV  
+[[blog post](/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV  
 &nbsp;
 &nbsp;
 
@@ -19,7 +19,7 @@ In this project we use digital photogrammetry (SfM) with multiscale terrestrial 
 Camila is leading the project. She is responsible for generating the 3D models and developing the code for automatic detection of faults and fractures. As part of her PhD duties, she is also involved with supervision of undergrad students.
 
 **Fernanda A. Ferretti (undergrad)**  
-For her monograph, Fernanda is working with an abandoned basalt quarry (now a city park). She will compare structural data obtained from the 3D models with those coleected in the field.  
+For her undergraduate degree monograph, Fernanda worked with an abandoned basalt quarry (now a city park). She used structural data obtained from the 3D models to evaluate the slope stability.  
 
 
 
