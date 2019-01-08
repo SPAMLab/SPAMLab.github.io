@@ -18,9 +18,14 @@ In this project we use digital photogrammetry (SfM) with multiscale terrestrial 
 **Camila Duelis Viana (PhD)**  
 Camila is leading the project. She is responsible for generating the 3D models and developing the code for automatic detection of faults and fractures. As part of her PhD duties, she is also involved with supervision of undergrad students.
 
-**Fernanda A. Ferretti (undergrad)**  
+**Fernanda A. Ferretti (undergrad 2018)**  
 For her undergraduate degree monograph, Fernanda worked with an abandoned basalt quarry (now a city park). She used structural data obtained from the 3D models to evaluate the slope stability.  
 
+
+&nbsp;
+&nbsp;
+#### Grant:
+[FAPESP #2016/06628-0](/grants#fapesp_tls) - **Application of high-resolution digital elevation models in geology and geomorphology.**  
 
 
 

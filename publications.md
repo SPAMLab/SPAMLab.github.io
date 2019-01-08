@@ -4,6 +4,10 @@ title: Publications
 subtitle: Trying not to perish
 published: true
 ---
+Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of publications, please refer to Prof. Grohmann's [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).
+
+
+
 ## 2019
 <a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2019. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
 [https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
@@ -31,3 +35,116 @@ Available at PeerJ Preprints  [https://doi.org/10.7287/peerj.preprints.27060v1](
 <a name="rse_tdx"></a>Grohmann, C.H., 2018. Evaluation of TanDEM-X DEMs on selected Brazilian sites: comparison with SRTM, ASTER GDEM and ALOS AW3D30. _Remote Sensing of Environment_, 212C:121-133.    
 [https://doi.org/10.1016/j.rse.2018.04.043](https://doi.org/10.1016/j.rse.2018.04.043)  
 Preprint available at [arXiv:1709.05016](https://arxiv.org/abs/1709.05016) [physics.geo-ph] (open access)
+
+
+&nbsp;
+## 2016 
+<a name="rauen2016"></a>Rauen, V.A.B., Grohmann, C.H., Goveia, S.S., Mioto, C.L., Marini, L.B., Paranhos Filho, A.C., Almeida, M.H.T., 2016. Geotecnologias na Determinação da Vulnerabilidade à Ocorrência de Vazamentos em Redes de Abastecimento de Água. _Geociências (São Paulo)_. 35:414-425  
+[http://www.revistageociencias.com.br](http://www.revistageociencias.com.br/35/volume35_3.html) (open access)  
+
+<a name="gdem_isprs"></a>Grohmann, C.H., 2016. Comparative Analysis of Global Digital Elevation Models and Ultra-Prominent Mountain Peaks. _ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences_. III-4:17-23  
+[http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016](http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016) (open access)  
+python script available on [GitHub](https://github.com/CarlosGrohmann/scripts_papers)  
+
+<a name="viana2016"></a>Viana, C.D., Endlein, A., Campanha, G.A.C., Grohmann, C.H., 2016. Algorithms for Extraction of Structural Attitudes from 3D Outcrop Models, _Computers & Geosciences_. 90:112-122
+[http://dx.doi.org/10.1016/j.cageo.2016.02.017](http://dx.doi.org/10.1016/j.cageo.2016.02.017)  
+
+
+&nbsp;
+## 2015 
+<a name="cageo_derivatives"></a>Grohmann, C.H., 2015. Effects of spatial resolution on slope and aspect derivation for regional-scale analysis. _Computers & Geosciences_. 77:111-117  
+[http://dx.doi.org/10.1016/j.cageo.2015.02.003](http://dx.doi.org/10.1016/j.cageo.2015.02.003)  
+python script available on [GitHub](https://github.com/CarlosGrohmann/scripts_papers)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6XC29) (open access)  
+
+
+&nbsp;
+## 2013 
+<a name="ijgis_editorial"></a>Grohmann, C.H., Miliaresis, G., 2013. Geological applications of digital terrain analysis. (Editorial, Special Issue – Geological applications of digital terrain analysis). _International Journal of Geographical Information Science_. 27:1403-1404  
+[http://dx.doi.org/10.1080/13658816.2013.772617](http://dx.doi.org/10.1080/13658816.2013.772617)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/HDM87) (open access)  
+
+<a name="geomorph_dunes"></a>Grohmann, C.H., Sawakuchi, A.O., 2013. Influence of cell size on volume calculation using digital terrain models: a case of coastal dune fields. _Geomorphology_. 180-181:130-136  
+[http://dx.doi.org/10.1016/j.geomorph.2012.09.012](http://dx.doi.org/10.1016/j.geomorph.2012.09.012)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/PR7UM) (open access)  
+
+
+&nbsp;
+## 2012 
+<a name="geousp_doc"></a>Grohmann, C.H., Riccomini, C., 2012. Análise digital de terreno e evolução de longo-termo de relevo do centro-leste brasileiro. _Geologia USP, Série Científica_. 12:129-150  
+[http://dx.doi.org/10.5327/Z1519-874X2012000200009](http://dx.doi.org/10.5327/Z1519-874X2012000200009) (open access)  
+Also available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/EKB4N) (open access)  
+
+
+&nbsp;
+## 2011 
+<a name="hess_isobase"></a>Grohmann, C.H., Riccomini, C., Chamani, M.A., 2011. Regional scale analysis of landform configuration with base-level (isobase) maps. _Hydrology and Earth System Sciences_. 15:1493-1504  
+[http://dx.doi.org/10.5194/hess-15-1493-2011](http://dx.doi.org/10.5194/hess-15-1493-2011) (open access)  
+
+<a name="ieee_roughness"></a>Grohmann, C.H., Smith, M.J., Riccomini, C., 2011. Multiscale Analysis of Topographic Surface Roughness in the Midland Valley, Scotland. _Geoscience and Remote Sensing, IEEE Transactions on_. 49:1200-1213  
+[http://dx.doi.org/10.1109/TGRS.2010.2053546](http://dx.doi.org/10.1109/TGRS.2010.2053546)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/2DSJN) (open access)  
+
+
+&nbsp;
+## 2009 
+<a name="cageo_mw"></a>Grohmann, C.H., Riccomini,C., 2009. Comparison of roving-window and search-window techniques for characterising landscape morphometry. _Computers & Geosciences_. 35:2164-2169  
+[http://dx.doi.org/10.1016/j.cageo.2008.12.014](http://dx.doi.org/10.1016/j.cageo.2008.12.014)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/X6BRZ) (open access)  
+
+
+&nbsp;
+## 2008 
+<a name="rga_srtm"></a>Grohmann, C.H., Riccomini, C., Steiner, S.S., 2008. Aplicações dos modelos de elevação SRTM em geomorfologia. _Revista Geográfica Acadêmica_ 2:73-83  
+[https://revista.ufrr.br/rga](https://revista.ufrr.br/rga/issue/view/176) (open access)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/AMN2T) (open access)  
+
+<a name="ijgis_krig"></a>Grohmann, C.H., Steiner, S.S., 2008. SRTM resample with Short Distance-Low Nugget Kriging. _International Journal of Geographical Information Science_, 22 (8):895-906.  
+[http://dx.doi.org/10.1080/13658810701730152](http://dx.doi.org/10.1080/13658810701730152)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/BG8A7) (open access)  
+
+
+&nbsp;
+## 2007 
+<a name="cageo_mapc"></a>Grohmann, C.H., Riccomini, C., Alves, F.M., 2007. SRTM-based morphometric analysis of the Poços de Caldas Alkaline Massif, southeastern Brazil. _Computers & Geosciences_, 33 (1):10-19.  
+[http://dx.doi.org/10.1016/j.cageo.2006.05.002](http://dx.doi.org/10.1016/j.cageo.2006.05.002)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/HZ4CT) (open access)  
+
+
+&nbsp;
+## 2006 
+<a name="rse_tdx"></a>Grohmann,C.H., 2006. Resampling SRTM 03”-data with kriging. _GRASS/OSGeo News_, 4:20-25.  
+[https://grass.osgeo.org/newsletter](http://grass.osgeo.org/newsletter/GRASS_OSGeo_News_vol4-roughness.pdf)  
+Available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/DBX3J) (open access)  
+
+<a name="rse_tdx"></a>Grohmann,C.H., 2006. r.roughness – a new tool for morphometric analysis in GRASS. _GRASS/OSGeo News_, 4:17-19.  
+[https://grass.osgeo.org/newsletter](http://grass.osgeo.org/newsletter/GRASS_OSGeo_News_vol4-srtm.pdf)  
+Available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/FSVMW) (open access)  
+
+
+&nbsp;
+## 2005 
+<a name="rse_tdx"></a>Grohmann, C.H., 2005. Trend-surfaces analysis of morphometric parameters: A case study in southeastern Brazil. _Computers & Geosciences_, 31 (8):1007-1014.   
+[http://dx.doi.org/10.1016/j.cageo.2005.02.011](http://dx.doi.org/10.1016/j.cageo.2005.02.011)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/9VU72) (open access)  
+
+
+&nbsp;
+## 2004 
+<a name="rse_tdx"></a>Grohmann, C.H. 2004. Morphometric analysis in Geographic Information Systems: applications of free software GRASS and R. _Computers & Geosciences_, 30 (9-10):1055-1067.  
+[http://dx.doi.org/10.1016/j.cageo.2004.08.002](http://dx.doi.org/10.1016/j.cageo.2004.08.002)  
+Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6VX7C) (open access)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+

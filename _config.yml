@@ -32,7 +32,7 @@ navbar-links:
     #- Openstereo: "openstereo"
     #- Landslides: "landslides"
     #- Risk Areas: "risk_areas"
-    #- Dune Field: "dune_field"
+    - Dune Field: "dune_field"
     #- Deforested Areas: "restoration"
     #- 3D Karst: "peruacu"
   About Us:
