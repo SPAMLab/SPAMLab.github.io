@@ -3,6 +3,11 @@ layout: page
 title: SPAMLab
 subtitle: Spatial Analysis And Modelling Lab
 published: true
+bigimg:
+  - "/img/mesh.jpg" : "3D mesh, basalt quarry wall"
+  - "/img/texture.jpg" : "3D model with texture, basalt quarry wall"
+  - "/img/diabo_captura_nuvem_super.jpg" : "Devil's Cave, LiDAR point cloud"
+  - "/img/diabo_captura_nuvem_limpa.jpg" : "Devil's Cave, LiDAR point cloud (clean)"
 ---
 
 Well, what’ve you got?
