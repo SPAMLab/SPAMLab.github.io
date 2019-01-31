@@ -9,9 +9,6 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## 2019
-<a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2019. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
-[https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
-
 <a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
 
 <a name="sbsr_cunha"></a>Garcia, G.P.B; Gomes, E.B.; Viana, C.D.; Grohmann, C.H., 2019. Comparing Terrestrial Laser Scanner and UAV-based photogrammetry to generate a landslide DEM. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.
@@ -26,6 +23,9 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 &nbsp;
 ## 2018 
+<a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2019. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
+[https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
+
 <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_  
 Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)
 

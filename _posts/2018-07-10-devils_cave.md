@@ -13,10 +13,10 @@ tags:
 
 On July 08-09-10 we had a great field trip to the Devil's Cave. The goal of this trip was to collect Terrestrial LiDAR (TLS) data of the touristic sector of the cave. 
 
-But before that, we needed to establish a series of fixed points with precise coordinates, which are used to georeference the cave point could to a real world coordinate system. We did this by occupying two positions with a [DGPS](https://en.wikipedia.org/wiki/Differential_GPS){:target="_blank"} and then by transporting the coordinates with classic surveying methods using a [Total Station](https://en.wikipedia.org/wiki/Total_station){:target="_blank"}. 
+But before that, we needed to establish a series of fixed points with precise coordinates, which are used to georeference the cave point could to a real world coordinate system. We did this by occupying two positions with a [DGPS](https://en.wikipedia.org/wiki/Differential_GPS) and then by transporting the coordinates with classic surveying methods using a [Total Station](https://en.wikipedia.org/wiki/Total_station). 
 
 
-This is something that has been in our minds for a long time, but only now we managed to get things going. Not only the park management is really interested in helping us (and all other scientists interested in working there), but we had just made a good contact with the [FARO](https://www.faro.com){:target="_blank"} company. FARO is a world leader in precise 3D measurements and they make a really nice and compact Laser Scanner. After an initial contact and a meeting at the Lab, FARO decided to help us in this project by sending a technician to the field trip to acquire the TLS data and give us a hands-on demonstration of the equipment in real-life conditions. (disclaimer: we are actively searching for funding to buy a laser scanner, but that doesn't mean we _need_ to buy from FARO or anyone else). 
+This is something that has been in our minds for a long time, but only now we managed to get things going. Not only the park management is really interested in helping us (and all other scientists interested in working there), but we had just made a good contact with the [FARO](https://www.faro.com) company. FARO is a world leader in precise 3D measurements and they make a really nice and compact Laser Scanner. After an initial contact and a meeting at the Lab, FARO decided to help us in this project by sending a technician to the field trip to acquire the TLS data and give us a hands-on demonstration of the equipment in real-life conditions. (disclaimer: we are actively searching for funding to buy a laser scanner, but that doesn't mean we _need_ to buy from FARO or anyone else). 
 
 We met with Adriano from FARO at the park and to our surprise he had taken not just one but two scanners with him! So we went to the cave for a quick reckon and to check how it would be better to set the scanners inside the cave. In the end, we positioned one scanner at the concrete pathway and the other close to the river or behind some large speleothem to avoid shadows in the final point cloud.
 
@@ -42,7 +42,7 @@ One image of particular interest is the "general view map". The software makes a
 [![overview]({{site.baseurl}}/img/diabo_captura_visao_geral.png "View from the top. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_captura_visao_geral.png)  
 *The 'general view' image from FARO Scene. Nice, right?*
 
-Just to make thing better, we stayed at the [Arapassu Inn](http://pousadacavernadodiabo.com.br){:target="_blank"}, a friendly and confortable place close to the city of Eldorado. 
+Just to make thing better, we stayed at the [Arapassu Inn](http://pousadacavernadodiabo.com.br), a friendly and confortable place close to the city of Eldorado. 
 
 
 [![pousada1]({{site.baseurl}}/img/diabo_pousada1.jpg "Arapassu Inn. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_pousada1.jpg)  
