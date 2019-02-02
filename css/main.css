@@ -662,6 +662,13 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+.table-borderless th,
+.table-borderless td,
+.table-borderless thead th,
+.table-borderless tbody + tbody {
+  border: 0;
+  border-top: hidden;
+}
 /* --- Code blocks --- */
 
 pre {
