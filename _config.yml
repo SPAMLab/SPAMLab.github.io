@@ -139,7 +139,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "spamlab"
 
 # Facebook App ID
 # fb_app_id: ""

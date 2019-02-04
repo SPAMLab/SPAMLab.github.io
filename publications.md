@@ -23,7 +23,7 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 &nbsp;
 ## 2018 
-<a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2019. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
+<a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
 [https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
 
 <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_  
