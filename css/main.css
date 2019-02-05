@@ -637,9 +637,9 @@ table tr {
   margin: 0;
   padding: 0;
 }
-table tr:nth-child(2n) {
+/*table tr:nth-child(2n) {
   background-color: #f8f8f8;
-}
+}*/
 table tr th {
   font-weight: bold;
   border: 1px solid #cccccc;
@@ -778,4 +778,9 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+/* circle clip image*/
+.img-circle {
+    border-radius: 50%;
 }

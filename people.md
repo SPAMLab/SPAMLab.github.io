@@ -6,48 +6,53 @@ published: true
 ---
 
 ### Prof. Carlos Henrique Grohmann
-I'm an Associate Professor (Geotechnologies) at the Institute of Energy and Environment, University of São Paulo, Brazil. My work is focused in Digital Terrain Analysis (Geomorphometry), free software (FOSS) and Remote Sensing.
 
-My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Lattes CV is available in [Portuguese](http://lattes.cnpq.br/5846052449613692) or in [English](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4769337Z5&idiomaExibicao=2). The Lattes Database is a Curriculum and institutions database of Science and Technology areas in Brazil. 
+| :---: | :--- |
+| ![](/img/people/doodle_crop25.jpg){:width="150px"} | I'm an Associate Professor (Geotechnologies) at the <br >Institute of Energy and Environment, University of São Paulo, Brazil. <br >My work is focused in Digital Terrain Analysis (Geomorphometry), <br >free software (FOSS) and Remote Sensing. |
+{: .table-borderless}
 
-You can find more about me at my [website](http://carlosgrohmann.com).
+My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Lattes CV is available in [Portuguese](http://lattes.cnpq.br/5846052449613692) or in [English](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4769337Z5&idiomaExibicao=2). The Lattes Database is a Curriculum and institutions database of Science and Technology areas in Brazil.You can find more about me at my [website](http://carlosgrohmann.com).
+
+
 &nbsp;
 
 &nbsp;
 
 ## PhD Students
-**Alynne Almeida Affonso**  
-High-resolution remote sensing of *igapó* forests in the Xingu River, eastern Amazonia - analysis of sedimentation patterns  
 
+| :---: | :--- |
+| ![](/img/spamlab_avatar.png){:.img-circle width="110px"} | **Alynne Almeida Affonso** - High-resolution remote sensing of *igapó* forests <br >in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. |
+| ![](/img/people/camila.jpg){:.img-circle width="110px"} | **Camila Duelis Viana** ([github](https://github.com/cdviana)) - Application of multi-scale photogrammetry <br >in structural data collection. |
+| ![](/img/people/guilherme.jpg){:.img-circle width="110px"} | **Guilherme Pereira Bento Garcia** - Detection and monitoring of landslides <br >on natural slopes from integrated application of multispectral images <br >and high-resolution elevation models. |
+| ![](/img/people/rafael.jpg){:.img-circle width="110px"} | **Rafael Walter de Albuquerque** - Remotely Piloted Aircrafts in assessment <br >and monitoring of areas in environmental recovery process. |
+{: .table-borderless}
 
-**Camila Duelis Viana** ([github](https://github.com/cdviana))  
-Application of multi-scale photogrammetry in structural data collection  
-
-
-**Guilherme Pereira Bento Garcia**  
-Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
-
-
-**Rafael Walter de Albuquerque**  
-Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process  
 
 &nbsp;
 
 &nbsp;
 
 ## Master's Students
-**Guilherme Iolino Troncon Guerra**  
-Spectroradiometric analysis applied to gold and base-metals mineralizations characterization in the Nova Brasilândia D’Oeste (Rondônia) region  
 
-**Luiz Fernando dos Santos**  
-Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
+| :---: | :--- |
+| ![](/img/spamlab_avatar.png){:.img-circle width="110px"} | **Guilherme Iolino Troncon Guerra** - Spectroradiometric analysis applied to <br >gold and base-metals mineralizations characterization in the Nova Brasilândia <br >D’Oeste (Rondônia) region. |
+| ![](/img/spamlab_avatar.png){:.img-circle width="110px"} | **Luiz Fernando dos Santos** - Application of High-resolution Digital Terrain Models <br >in slope stability and mass movement analysis. |
+{: .table-borderless}
+ 
 &nbsp;
 
 &nbsp;
 
 ## Undergrad Students
-**Jhesika Pena Gomes de Souza Silva**
-Generation of Digital Elevation Models of the Peruaçu National Park with orbital imagery
+
+| :---: | :--- |
+| ![](/img/people/francesco.jpg){:.img-circle width="110px"} | **Francesco Barale** - Generation of High-resolution Digital Elevation Models <br >of coastal enviroments from UAV data. |
+| ![](/img/spamlab_avatar.png){:.img-circle width="110px"} | **Jhesika Pena Gomes de Souza Silva** - Generation of Digital Elevation Models <br >of the Peruaçu National Park with orbital imagery. |
+{: .table-borderless}
+ 
+
+
+
 
 
 &nbsp;
