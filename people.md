@@ -21,7 +21,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 ## PhD Students
 
 | :---: | :--- |
-| ![](/img/spamlab_avatar.png){:.img-circle width="110px"} | **Alynne Almeida Affonso** - High-resolution remote sensing of *igapó* forests <br >in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. |
+| ![](/img/people/alynne.jpg){:.img-circle width="110px"} | **Alynne Almeida Affonso** - High-resolution remote sensing of *igapó* forests <br >in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. |
 | ![](/img/people/camila.jpg){:.img-circle width="110px"} | **Camila Duelis Viana** ([github](https://github.com/cdviana)) - Application of multi-scale photogrammetry <br >in structural data collection. |
 | ![](/img/people/guilherme.jpg){:.img-circle width="110px"} | **Guilherme Pereira Bento Garcia** - Detection and monitoring of landslides <br >on natural slopes from integrated application of multispectral images <br >and high-resolution elevation models. |
 | ![](/img/people/rafael.jpg){:.img-circle width="110px"} | **Rafael Walter de Albuquerque** - Remotely Piloted Aircrafts in assessment <br >and monitoring of areas in environmental recovery process. |
