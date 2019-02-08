@@ -71,8 +71,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/people/francesco.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>
-| ![](/img/people/francesco.jpg){:.img-circle width="110px"} | **Francesco Barale</b> - Generation of High-resolution Digital Elevation Models of coastal enviroments from UAV data. </td> 
+    <td width="83%"> <b>Francesco Barale</b> - Generation of High-resolution Digital Elevation Models of coastal environments from UAV data. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/spamlab_avatar.png" class="img-circle" width="99%"> </td>
