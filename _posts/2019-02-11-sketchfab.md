@@ -1,8 +1,7 @@
 ---
 layout: post
 published: true
-title: We are at Sketchfab!
-subtitle: 
+title: We’re on Sketchfab!
 tags:
   - 3D
   - sketchfab
