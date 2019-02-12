@@ -4,6 +4,7 @@ title: 3D Cave
 subtitle: Measuring the underground, one billion points at a time
 ---
 #### News:
+[[3D model](https://skfb.ly/6GY7n)] - A prelimiray 3D model of the cave (no textures) is now available at Sketchfab!   
 [[blog post](/2018-07-10-devils_cave)]: TLS mapping of Devil's Cave  
 &nbsp;
 &nbsp;
@@ -24,6 +25,21 @@ Although the entire cave is over 7km long, only the first 600m are accessible by
 <br/><br/>
 [![supercloud]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg "Point cloud. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg)   
 *Point cloud viewed from inside the cave*
+&nbsp;
+&nbsp;
+
+And here is an interactive 3D model of the cave (via sketchfab).  
+
+<!-- {: style="text-align:center"} -->
+<!-- [![outcrop](/img/outcrop_model_small.jpg "Outcrop model"){:width="700px"}](/img/outcrop_model_small.jpg)    -->
+<div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/7b1e567f63cb45579dacc1594e411bcd/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/caverna-do-diabo-devils-cave-7b1e567f63cb45579dacc1594e411bcd?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Caverna do Diabo (Devil&#39;s Cave)</a>
+    by <a href="https://sketchfab.com/spamlab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SPAMLab</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
 &nbsp;
 &nbsp;
 
