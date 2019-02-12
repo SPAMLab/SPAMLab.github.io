@@ -1,10 +1,11 @@
 ---
 layout: page
 title: 3D Cave
-subtitle: Measuring the underground, one billion points at a time
+subtitle: 'Measuring the underground, one billion points at a time'
+published: true
 ---
 #### News:
-[[3D model](https://skfb.ly/6GY7n)] - A prelimiray 3D model of the cave (no textures) is now available at Sketchfab!   
+[[3D model](https://skfb.ly/6GY7n)] - A preliminary 3D model of the cave (no textures) is now available at Sketchfab!   
 [[blog post](/2018-07-10-devils_cave)]: TLS mapping of Devil's Cave  
 &nbsp;
 &nbsp;
@@ -66,9 +67,3 @@ And here is an interactive 3D model of the cave (via sketchfab).
  -->
 
 <!-- {{site.url}} -->
-
-
-
-
-
-
