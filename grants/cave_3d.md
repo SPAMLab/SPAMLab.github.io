@@ -33,7 +33,9 @@ And here is an interactive 3D model of the cave (via sketchfab).
     by <a href="https://sketchfab.com/spamlab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SPAMLab</a>
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
-</div>
+</div>  
+
+<br/><br/>
 &nbsp;
 &nbsp;
 <!-- {: style="text-align:center"} -->
