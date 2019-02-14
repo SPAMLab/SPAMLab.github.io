@@ -38,7 +38,7 @@ And here is an interactive 3D model of the cave (via sketchfab).
 
 <br/><br/>  
 
-
+A 3D model of a large speleothem. 
 <div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/883eaba8de66490b871db09a7e313fff/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -49,6 +49,12 @@ And here is an interactive 3D model of the cave (via sketchfab).
 </div>  
 
 <br/><br/>  
+
+And a short video of the point cloud. 
+<iframe width="700" height="395" src="https://www.youtube.com/embed/m2YZiTzs0yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/><br/>  
+
 &nbsp;  
 &nbsp;  
 
