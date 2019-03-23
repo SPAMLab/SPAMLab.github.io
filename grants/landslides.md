@@ -18,12 +18,12 @@ We have a continuous interest in landslides, with students working on their char
 
 
 <!-- {: style="text-align:center"} -->
-[![perus]({{site.baseurl}}/img/perus_3d.png "3D risk area"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
+[![perus]({{site.baseurl}}/img/landslides/perus_3d.png "3D risk area"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
 *3D model of a landslide-risk area close to an urban area (made with UAV data)*  
 &nbsp;
 &nbsp;
 
-[![cunha]({{site.baseurl}}/img/cunha_point_clouds.jpg "3D - Cunha"){:width="700px"}]({{site.baseurl}}/img/cunha_point_clouds.jpg)   
+[![cunha]({{site.baseurl}}/img/landslides/cunha_point_clouds.jpg "3D - Cunha"){:width="700px"}]({{site.baseurl}}/img/cunha_point_clouds.jpg)   
 *3D models of a small landslide - left: terrestrial LiDAR; right: UAV data*  
 
 

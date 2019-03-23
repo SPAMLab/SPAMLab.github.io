@@ -41,9 +41,9 @@ Interactive 3D model of the outcrop (via sketchfab)
 <!-- https://github.com/mhayes/vue-twentytwenty -->
   <div id="app">
     <TwentyTwenty
-      before="{{site.baseurl}}/img/mesh.jpg"
+      before="{{site.baseurl}}/img/garcia_quarry/mesh.jpg"
       beforeLabel="Mesh"
-      after="{{site.baseurl}}/img/texture.jpg"
+      after="{{site.baseurl}}/img/garcia_quarry/texture.jpg"
       afterLabel="Textured" />
   </div>
   3D models of Garcia Garden Quarry (mesh / textured)

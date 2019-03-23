@@ -20,35 +20,35 @@ This is something that has been in our minds for a long time, but only now we ma
 
 We met with Adriano from FARO at the park and to our surprise he had taken not just one but two scanners with him! So we went to the cave for a quick reckon and to check how it would be better to set the scanners inside the cave. In the end, we positioned one scanner at the concrete pathway and the other close to the river or behind some large speleothem to avoid shadows in the final point cloud.
 
-[![set_tls]({{site.baseurl}}/img/diabo_set_two_tls.jpg "Two scanners!. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_set_two_tls.jpg)   
+[![set_tls]({{site.baseurl}}/img/tapagem/diabo_set_two_tls.jpg "Two scanners!. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_set_two_tls.jpg)   
 *Setting up the scanners at the cave entrance*
 
-[![ts_entrance]({{site.baseurl}}/img/diabo_tls_entrance.jpg "TLS ready to go. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_tls_entrance.jpg)   
+[![ts_entrance]({{site.baseurl}}/img/tapagem/diabo_tls_entrance.jpg "TLS ready to go. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_tls_entrance.jpg)   
 *TLS ready to go at the cave entrance*
 
-[![ts_inside]({{site.baseurl}}/img/diabo_ts_inside.jpg "Total Station inside the cave. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_ts_inside.jpg)   
+[![ts_inside]({{site.baseurl}}/img/tapagem/diabo_ts_inside.jpg "Total Station inside the cave. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_ts_inside.jpg)   
 *POV of the Total Station*
 
-[![tls_adriano]({{site.baseurl}}/img/diabo_tls_adriano.jpg "Adriano from FARO. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_tls_adriano.jpg)   
+[![tls_adriano]({{site.baseurl}}/img/tapagem/diabo_tls_adriano.jpg "Adriano from FARO. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_tls_adriano.jpg)   
 *Nothing like a happy surveyor!*
 
 After the field trip, Adriano's team at FARO started to work on processing, cleaning and merging all the 40 individual point clouds. They send us some of the raw data files so we could also play a bit with their software, [FARO Scene](https://www.faro.com/products/product-design/faro-scene/). The software is easy to use and we managed to get some really nice images of the point cloud.
 
-[![supercloud]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg "Point cloud. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg)   
+[![supercloud]({{site.baseurl}}/img/tapagem/diabo_captura_nuvem_super.jpg "Point cloud. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_captura_nuvem_super.jpg)   
 *Point cloud viewed from inside the cave*
 
 One image of particular interest is the "general view map". The software makes a view from the top but it removes the upper half (?) of the points, so we can see all the details of a plan view of the cave. We can't wait to have a full image to compare with the traditional speleological maps!
 
-[![overview]({{site.baseurl}}/img/diabo_captura_visao_geral.png "View from the top. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_captura_visao_geral.png)  
+[![overview]({{site.baseurl}}/img/tapagem/diabo_captura_visao_geral.png "View from the top. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_captura_visao_geral.png)  
 *The 'general view' image from FARO Scene. Nice, right?*
 
 Just to make thing better, we stayed at the [Arapassu Inn](http://pousadacavernadodiabo.com.br), a friendly and confortable place close to the city of Eldorado. 
 
 
-[![pousada1]({{site.baseurl}}/img/diabo_pousada1.jpg "Arapassu Inn. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_pousada1.jpg)  
+[![pousada1]({{site.baseurl}}/img/tapagem/diabo_pousada1.jpg "Arapassu Inn. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_pousada1.jpg)  
 *Arapassu Inn.*
 
-[![pousada2]({{site.baseurl}}/img/diabo_pousada2.jpg "Arapassu Inn. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_pousada2.jpg)  
+[![pousada2]({{site.baseurl}}/img/tapagem/diabo_pousada2.jpg "Arapassu Inn. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_pousada2.jpg)  
 *Arapassu Inn.*
 
 

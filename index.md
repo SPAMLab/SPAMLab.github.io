@@ -4,10 +4,10 @@ title: SPAMLab
 subtitle: Spatial Analysis And Modelling Lab
 published: true
 bigimg:
-  - "/img/mesh.jpg" : "3D mesh, basalt quarry wall"
-  - "/img/texture.jpg" : "3D model with texture, basalt quarry wall"
-  - "/img/diabo_captura_nuvem_super.jpg" : "Devil's Cave, LiDAR point cloud"
-  - "/img/diabo_captura_nuvem_limpa.jpg" : "Devil's Cave, LiDAR point cloud (clean)"
+  - "/img/garcia_quarry/mesh.jpg" : "3D mesh, basalt quarry wall"
+  - "/img/garcia_quarry/texture.jpg" : "3D model with texture, basalt quarry wall"
+  - "/img/tapagem/diabo_captura_nuvem_super.jpg" : "Devil's Cave, LiDAR point cloud"
+  - "/img/tapagem/diabo_captura_nuvem_limpa.jpg" : "Devil's Cave, LiDAR point cloud (clean)"
 ---
 
 The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  

@@ -19,7 +19,7 @@ The Devil's Cave, whose official name is "Tapagem Cave", was the first Brazilian
 Although the entire cave is over 7km long, only the first 600m are accessible by the pathways (this is what we call the 'touristic sector'). Recent policies implemented by the Park administration opened new 'adventure circuits' for tourism, stranding away from the concrete pathways and venturing into the 'river sector' or the 'Erectus Hall'.  
 <br/><br/>
 
-[![supercloud]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg "Point cloud. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/diabo_captura_nuvem_super.jpg)   
+[![supercloud]({{site.baseurl}}/img/tapagem/diabo_captura_nuvem_super.jpg "Point cloud. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/diabo_captura_nuvem_super.jpg)   
 *Point cloud viewed from inside the cave*  
 <br/><br/>
 
@@ -59,10 +59,10 @@ And a short video of the point cloud.
 &nbsp;  
 
 <!-- {: style="text-align:center"} -->
-[![fullmap]({{site.baseurl}}/img/mapa_tapagem_full_1000px.jpg "Full cave map. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/mapa_tapagem_full.jpg)   
+[![fullmap]({{site.baseurl}}/img/tapagem/mapa_tapagem_full_1000px.jpg "Full cave map. Click to see larger image"){:width="700px"}]({{site.baseurl}}/img/tapagem/mapa_tapagem_full.jpg)   
 *Full map of the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*  
 <br/><br/>
-[![touristic]({{site.baseurl}}/img/mapa_tapagem_turistico_1000px.jpg "Touristic sector map. Click to see larger image"){:width="550px"}]({{site.baseurl}}/img/mapa_tapagem_turistico.jpg)   
+[![touristic]({{site.baseurl}}/img/tapagem/mapa_tapagem_turistico_1000px.jpg "Touristic sector map. Click to see larger image"){:width="550px"}]({{site.baseurl}}/img/tapagem/mapa_tapagem_turistico.jpg)   
 *Touristic sector the Tapagem Cave [(SBE)](http://www.cavernas.org.br/sbenoticias/SBENoticias_005.pdf)*   
 <br/><br/>
 

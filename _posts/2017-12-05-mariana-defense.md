@@ -18,7 +18,7 @@ After a year of hard work both in the field and in the office, she made an excel
 Congratulations to Mariana, our newest Geologist!
 
 
-[![outcrop]({{site.baseurl}}/img/outcrop_model_small.jpg "Outcrop model"){:width="700px"}]({{site.baseurl}}/img/outcrop_model_small.jpg)   
+[![outcrop]({{site.baseurl}}/img/limeira/outcrop_model_small.jpg "Outcrop model"){:width="700px"}]({{site.baseurl}}/img/limeira/outcrop_model_small.jpg)   
 *Outcrop model generated in Mariana's project*
 
 
