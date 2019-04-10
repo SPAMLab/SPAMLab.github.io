@@ -5,9 +5,11 @@ subtitle: 'Measuring the underground, one billion points at a time'
 published: true
 ---
 #### News:
+[[video](https://youtu.be/giInjKLo17A)] - New video with the full point cloud (1 billion points)   
 [[3D model](https://skfb.ly/6GY7n)] - A simplified 3D model of the cave (no textures) is now available at Sketchfab!   
 [[3D model](https://skfb.ly/6GYwJ)] - A 3D model of a large speleothem is also available at Sketchfab!   
-[[blog post](/2018-07-10-devils_cave)]: TLS mapping of Devil's Cave  
+[[video](https://youtu.be/m2YZiTzs0yY)] - First video of the simplified point cloud (17 million points)   
+[[blog post](/2018-07-10-devils_cave)] - TLS mapping of Devil's Cave  
 &nbsp;
 &nbsp;
 
@@ -51,7 +53,7 @@ A 3D model of a large speleothem.
 <br/><br/>  
 
 And a short video of the point cloud. 
-<iframe width="700" height="395" src="https://www.youtube.com/embed/m2YZiTzs0yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giInjKLo17A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>  
 

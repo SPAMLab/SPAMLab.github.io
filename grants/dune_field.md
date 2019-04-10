@@ -4,6 +4,7 @@ title: Dune Field 3D
 subtitle: TLS and SfM in the sand
 ---
 #### News:  
+[[video](https://youtu.be/rATNm1UiQjc)] - Short video of our field trip   
 [[blog post](/2019-03-02-garopaba)]: Field trip to Garopaba
 &nbsp;
 &nbsp;
