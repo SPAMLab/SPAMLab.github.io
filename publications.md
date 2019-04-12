@@ -13,14 +13,16 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 *download:* [Presentation]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
 
 <a name="sbsr_cunha"></a>Garcia, G.P.B; Gomes, E.B.; Viana, C.D.; Grohmann, C.H., 2019. Comparing Terrestrial Laser Scanner and UAV-based photogrammetry to generate a landslide DEM. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR/Garcia_etal_2019_SBSR_tls_uav_landslide_paper.pdf)  
 
 <a name="sbsr_relogio"></a>Barale, F.; Grohmann, C.H., 2019. Photoscan x COLMAP: comparação entre DEMs gerados por Structure from Motion--Multi-View Stereo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR/Barale_Grohmann_2019_SBSR_photoscan_colmap_paper.pdf)  
 
 <a name="sbsr_car"></a>Albuquerque, R.W.; Ferreira, M.E.; Girão, V.J.; Balieiro, C.P.; Mansur, H.; Costa, J.V.S.; Grohmann, C.H., 2019. Comparação de RPAS e TOPODATA no mapeamento de regiões declivosas previstas no Cadastro Ambiental Rural. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
 
 <a name="sbsr_alturas"></a>Santos, L.F.; Grohmann, C.H., 2019. Processamento fotogramétrico digital por Structure from Motion de imagens obtidas em voos de diferentes alturas sobre o solo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
 *download:* [Poster]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf) 
-
 
 
 &nbsp;
