@@ -21,6 +21,21 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 &nbsp;
 
+## Post-Doc
+
+<table class="table-borderless" style="width:100%">
+  <tr>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Anderson Targino da Silva Ferreira</b> - Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters. </td> 
+  </tr>
+</table>
+
+
+
+&nbsp;
+
+&nbsp;
+
 ## PhD Students
 
 <table class="table-borderless" style="width:100%">
@@ -48,14 +63,13 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 ## Master's Students
 
-
 <table class="table-borderless" style="width:100%">
   <tr>
-    <td width="17%"> <img src="/img/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Guilherme Iolino Troncon Guerra</b> - Spectroradiometric analysis applied to gold and base-metals mineralizations characterization in the Nova Brasilândia D’Oeste (Rondônia) region. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Luiz Fernando dos Santos</b> - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis. </td> 
   </tr>
 </table>
@@ -71,10 +85,10 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/people/francesco.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Francesco Barale</b> - Generation of High-resolution Digital Elevation Models of coastal environments from UAV data. </td> 
+    <td width="83%"> <b>Francesco Barale</b> - Landslide modelling with Terrestrial Laser Scanner. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Jhesika Pena Gomes de Souza Silva</b> - Generation of Digital Elevation Models of the Peruaçu National Park with orbital imagery. </td> 
   </tr>
 </table>
