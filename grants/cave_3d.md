@@ -5,6 +5,7 @@ subtitle: 'Measuring the underground, one billion points at a time'
 published: true
 ---
 #### News:
+[[blog post](/2019-07-16-tapagem_fapesp)] - 3D cave project featured in FAPESP News  
 [[video](https://youtu.be/giInjKLo17A)] - New video with the full point cloud (1 billion points)   
 [[3D model](https://skfb.ly/6GY7n)] - A simplified 3D model of the cave (no textures) is now available at Sketchfab!   
 [[3D model](https://skfb.ly/6GYwJ)] - A 3D model of a large speleothem is also available at Sketchfab!   

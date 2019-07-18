@@ -7,8 +7,13 @@ published: true
 Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of publications, please refer to Prof. Grohmann's [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).
 
 
-
 ## 2019
+
+<a name="jsames_karst"></a>Garcia. G.P.B., Grohmann C.H., 2019. DEM-based geomorphological mapping and landforms characterization of a tropical karst environment in southeastern Brazil.  
+_Journal of South American Earth Sciences_, 93:14-22.  
+[https://doi.org/10.1016/j.jsames.2019.04.013](https://doi.org/10.1016/j.jsames.2019.04.013)  
+Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)
+
 <a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
 *download:* [Presentation]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
 
@@ -30,8 +35,8 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 <a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
 [https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
 
-<a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_  
-Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)
+<!-- <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_   -->
+<!-- Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access) -->
 
 <a name="gmorph"></a>Grohmann, C.H.; Viana, C.D.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes based on Structure from Motion/Multi-View Stereo. _Geomorphometry 2018 Conference_. Boulder, CO.  
 Available at PeerJ Preprints  [https://doi.org/10.7287/peerj.preprints.27060v1](https://doi.org/10.7287/peerj.preprints.27060v1) (open access)
