@@ -22,7 +22,8 @@ IPT – Institute for Technological Research
 [![Ecosystem Dynamics Observatory](/img/logos/ecodyn_logo.png "Ecosystem Dynamics Observatory"){:width="290px"}](http://tscanada.wixsite.com/ecodyn)  
 Ecosystem Dynamics Observatory (UNESP)  
 <br/><br/>
-
+[Laboratório de Espectrometria Gama e Luminescência – Legal](http://sites.igc.usp.br/emu/sistema-de-datacao/)
+<br/><br/>
 
 
 <!-- <div style="display:block;text-align:center">
