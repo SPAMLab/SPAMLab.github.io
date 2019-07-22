@@ -75,7 +75,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Amanda Mendes de Sousa</b> - XXXXXXXXXXX. </td> 
+    <td width="83%"> <b>Amanda Mendes de Sousa</b> - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
