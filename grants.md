@@ -29,7 +29,6 @@ PIs: Cristina Miyaky, IB-USP + Ana Carolina Carnaval, CUNY
 
 
 &nbsp;
-
 &nbsp;
 
 ### **Past**
