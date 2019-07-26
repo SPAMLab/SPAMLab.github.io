@@ -24,7 +24,7 @@ GIS routines often demands converting raster data to vector data.
 <br>
 
 
-When working with QGIS and after obtaining a shapefile from raster data, not rarely that vector file contains invalid geometries, what makes some GIS operations not possible anymore.
+When working with QGIS and after obtaining a shapefile from raster data, not rarely that vector file contains invalid geometries, what makes some GIS operations not possible anymore. 
 
 Ok. I Always solved this issue using GRASS v.clean tool on QGIS processing toolbox. Though yesterday I spent a few hours to fix a shapefile with invalid geometry. In my case, I obtained a vector from raster data. Then I was trying to use this vector as a mask to extract data from another raster.  
 
@@ -126,4 +126,3 @@ On the “Clip raster by mask layer” window, select your raster as input data 
 
 
 Now that your shapefile's geometry is fixed you can continue your work from where it stopped! Hope this post helps!
-
