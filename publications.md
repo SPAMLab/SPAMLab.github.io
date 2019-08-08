@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Papers
 subtitle: Trying not to perish
 published: true
 ---

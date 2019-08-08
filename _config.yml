@@ -23,7 +23,9 @@ description: Spatial Analysis And Modelling Lab
 
 # List of links in the navigation bar
 navbar-links:
-  Publications: "publications"
+  Publications: 
+    - Papers: "publications"
+    - Datasets: "datasets"
   Projects:
     - Grants: "grants"
     - AutoFrac: "grants/autofrac"
