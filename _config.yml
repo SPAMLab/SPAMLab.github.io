@@ -38,6 +38,8 @@ navbar-links:
     #- Deforested Areas: "restoration"
     #- 3D Karst: "peruacu"
     - MeshStruct: "grants/meshstruct"
+  Outreach:
+    - Videos: "outreach/videos"
   About Us:
     - People: "people"
     - Collabs: "collabs"
