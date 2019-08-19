@@ -18,6 +18,8 @@ Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or
 
 See our project pages and blog posts for more details on each activity.  
 
+Follow us on [Twitter](https://twitter.com/SPAM_Lab), [Instagram](https://www.instagram.com/spamlab.iee/), [YouTube](https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKeNdBQ) and [GitHub](https://github.com/spamlab).  
+
 <br><br>  
 
 #### SPAM?
