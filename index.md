@@ -12,11 +12,11 @@ bigimg:
 
 The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  
 
-Here we do all kinds of Spatial Analysis, including basic GIS stuff, Remote Sensing and Digital Terrain Analysis.
+Here we do all kinds of Spatial Analysis, including GIS, Remote Sensing and Digital Terrain Analysis.
 
-Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or _drones_) and Terrestrial Laser Scanner (TLS, LiDAR) in characterizing features of geological or geomorphological interest, such as landslides, dune fields or geological structures in outcrops (dikes, fractures, faults etc); characterization of mineralizations based on spectrometry; restoration of deforested areas and 3D modelling of caves.   
+Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or _drones_) and Terrestrial Laser Scanner (TLS, LiDAR) in characterizing features of geological or geomorphological interest, such as 3D modelling of caves, landslides, dune fields or geological structures in outcrops (dikes, fractures, faults etc); restoration of deforested areas and evaluation of hydroelectric power plants impact on the environment.   
 
-See our project pages and blog posts for more details on each activity.  
+See our projects pages and blog posts for more details on each activity.  
 
 Follow us on [Twitter](https://twitter.com/SPAM_Lab), [Instagram](https://www.instagram.com/spamlab.iee/), [YouTube](https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKeNdBQ) and [GitHub](https://github.com/spamlab).  
 

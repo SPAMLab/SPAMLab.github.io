@@ -25,16 +25,22 @@ This is a non-extensive list of the software we are using at the lab, in no part
 
 [LasTools](https://rapidlasso.com/lastools/)
 
-[LibLAS](https://liblas.org)
-
 [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) 
 
 [Whitebox Tools](http://www.uoguelph.ca/~hydrogeo/WhiteboxTools/index.html) 
 
+[OpenDroneMap](https://www.opendronemap.org)
+
+[LibLAS](https://liblas.org)
+
+[PDAL](https://pdal.io/)
+
+[GDAL](https://gdal.org)
+
 
 ## Proprietary Software
 
-[Agisoft Photoscan](http://www.agisoft.com)
+[Agisoft Metashape](http://www.agisoft.com)
 
 [Faro Scene](https://www.faro.com/products/product-design/faro-scene/)
 
@@ -42,6 +48,7 @@ This is a non-extensive list of the software we are using at the lab, in no part
 
 [Spectra Precision Survey Office](http://www.spectraprecision.com/eng/survey-office.html)
 
+[LasTools](https://rapidlasso.com/lastools/)
 
 <!-- 
 ![]({{site.baseurl}}/img/logos/WhiteboxGATLogo.png){:height="26px" width="60px"}   -->

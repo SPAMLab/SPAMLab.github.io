@@ -4,8 +4,8 @@ title: Papers
 subtitle: Trying not to perish
 published: true
 ---
-Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of publications, please refer to Prof. Grohmann's [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).
-
+Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).  
+&nbsp;&nbsp;
 
 ## 2019
 
@@ -27,7 +27,7 @@ Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https:
 *download:* [Paper]({{site.baseurl}}/pub/SBSR/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
 
 <a name="sbsr_alturas"></a>Santos, L.F.; Grohmann, C.H., 2019. Processamento fotogramétrico digital por Structure from Motion de imagens obtidas em voos de diferentes alturas sobre o solo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Poster]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf) 
+*download:* [Poster]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf)  
 
 
 &nbsp;

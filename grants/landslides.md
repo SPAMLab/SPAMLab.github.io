@@ -36,6 +36,8 @@ We have a continuous interest in landslides, with students working on their char
 
 **Luiz Fernando dos Santos** (MSc) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
 
+**Francesco Barale (undergrad)** - Modelling of a small landslide with Terrstrial Laser Scanner.
+
 **Elton Barbosa Gomes** (undergrad 2018) - Stability analysis of mass movement-prone areas based on High-resolution Digital Terrain Models   
 
 **Vitor Batista dos Santos** (undergrad 2018) - Analysis and 3D modelling of landslides by terrestrial LiDAR and Structure-from-Motion   

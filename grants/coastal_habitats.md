@@ -20,10 +20,10 @@ This project will be developed in collaboration with Profs. Gustavo Fernandes Ca
 *DTM of the Garopaba Dune Field* (image created with [Planlauf Terrain](https://planlaufterrain.com))  
  -->
 
-&nbsp;
+<!-- &nbsp;
 &nbsp;
 #### Spammers:
-**Francesco Barale (undergrad)** - Generation of High-resolution Digital Elevation Models of coastal environments from UAV data.
+**Francesco Barale (undergrad)** - Generation of High-resolution Digital Elevation Models of coastal environments from UAV data. -->
 
 
 &nbsp;

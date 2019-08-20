@@ -5,8 +5,29 @@ subtitle: Our amazing friends
 published: true
 ---
 
+[The Lecours Lab (Un. Florida)](https://www.thelecourslab.org)  
 
-{: style="text-align:center"}
+[Marine Meiofauna Research Group (Unifesp Santos)](http://fonsecagfc.wixsite.com/np-meiofauna)  
+
+[L-GEO - Geology Lab of the School of Technology (Unicamp)](https://wordpress.ft.unicamp.br/bernardotf/l-geo/)  
+
+[IPT – Institute for Technological Research](https://www.ipt.br/en/)  
+
+[EcoDyn - Ecosystem Dynamics Observatory (UNESP)](http://tscanada.wixsite.com/ecodyn)  
+
+[Legal - Laboratório de Espectrometria Gama e Luminescência](http://sites.igc.usp.br/emu/sistema-de-datacao/)
+
+[LTG - Laboratório de Topografia e Geodesia (POLI-USP)](https://ltgwebmstr.wixsite.com/ltgptr)
+
+
+
+
+
+
+
+
+
+<!-- {: style="text-align:center"}
 [![The Lecours Lab](/img/logos/lecours.png "The Lecours Lab"){:width="290px" text-align:"center"}](https://www.thelecourslab.org)  
 The Lecours Lab (Un. Florida)  
 <br/><br/>
@@ -25,7 +46,7 @@ Ecosystem Dynamics Observatory (UNESP)
 [Laboratório de Espectrometria Gama e Luminescência – Legal](http://sites.igc.usp.br/emu/sistema-de-datacao/)
 <br/><br/>
 
-
+ -->
 <!-- <div style="display:block;text-align:center">
   <a href="https://www.thelecourslab.org" rel="noopener noreferrer" target="_blank"><img src="/img/lecours.png" width="290" /></a><br>
   The Lecours Lab (Un. Florida)<br><br><br><br>
