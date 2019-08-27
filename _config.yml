@@ -30,16 +30,16 @@ navbar-links:
     - Grants: "grants"
     - Map: "map/map"
     - '': ''
-    - AutoFrac: "grants/autofrac"
-    - 3D Cave: "grants/cave_3d"
-    #- Openstereo: "openstereo"
     - Landslides: "grants/landslides"
-    #- Risk Areas: "risk_areas"
-    - 3D Dune: "grants/dune_field"
-    - CostalHabs: "grants/coastal_habitats"
-    #- Deforested Areas: "restoration"
-    #- 3D Karst: "peruacu"
+    #- Geological Risk: "risk_areas"
+    - AutoFrac: "grants/autofrac"
     - MeshStruct: "grants/meshstruct"
+    - Cave 3D (TLS): "grants/cave_3d_tapagem"
+    # - Cave 3D (SfM): "grants/cave_3d_peruacu"
+    - Coastal Dunes: "grants/dune_field"
+    - Coastal Habitats: "grants/coastal_habitats"
+    #- Deforested Areas: "restoration"
+    - Openstereo: "https://github.com/spamlab-iee/os"
   Outreach:
     - Videos: "outreach/videos"
   About Us:
@@ -56,6 +56,7 @@ navbar-links:
   #Archive: "https://spamlab.github.io/tags/"
   #Subscribe: "subscribe"
   
+
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/logos/spamlab_avatar.png"

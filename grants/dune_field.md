@@ -15,7 +15,13 @@ Back in 2010 we acquired an airborne LiDAR survey of the Garopaba Dune Field, lo
 Now we want to go back and create new DTM, this time using [TLS](https://en.wikipedia.org/wiki/Laser_scanning) and [SfM-MVS](https://en.wikipedia.org/wiki/Structure_from_motion). With the new models, we will be able to see if there was any change in sand volume and determine the migration rate of this dune field.   
 
 <!-- The challenge here is the SfM-MVS part. The dunes are very homogeneous, both in terms of texture and of spectral response. We will try to use images acquired at different times of the day to see if the changes in illumination will provide enough features  -->
-<br/><br/>
+<br/>
+
+Video - Garopaba fieldwork 
+<iframe width="700" height="395" src="https://www.youtube.com/embed/rATNm1UiQjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<br/>
 
 <div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/e977906ca63b4ddb912ee4974ba54df0/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

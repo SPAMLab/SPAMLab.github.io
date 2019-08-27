@@ -75,13 +75,13 @@ For a more immersive experience, there's a full-screen version <a href="/map_ful
             },
             pointToLayer: function (feature, latlng) {
                 return L.circleMarker(latlng, {
-                radius: 3,
+                radius: 5,
                 Label: getColor(feature.properties.Title), 
                 fillColor: getColor(feature.properties.category), 
                 color: "#000",
                 weight: 0.5,
                 opacity: 0.8,
-                fillOpacity: 0.8,})
+                fillOpacity: 0.7,})
             },
         });
         geoJsonLayer.addTo(map);
