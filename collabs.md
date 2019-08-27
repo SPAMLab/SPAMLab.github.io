@@ -11,6 +11,8 @@ published: true
 
 [L-GEO - Geology Lab of the School of Technology (Unicamp)](https://wordpress.ft.unicamp.br/bernardotf/l-geo/)  
 
+[Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
+
 [IPT – Institute for Technological Research](https://www.ipt.br/en/)  
 
 [EcoDyn - Ecosystem Dynamics Observatory (UNESP)](http://tscanada.wixsite.com/ecodyn)  

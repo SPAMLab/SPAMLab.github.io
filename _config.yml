@@ -28,6 +28,8 @@ navbar-links:
     - Datasets: "datasets"
   Projects:
     - Grants: "grants"
+    - Map: "map/map"
+    - '': ''
     - AutoFrac: "grants/autofrac"
     - 3D Cave: "grants/cave_3d"
     #- Openstereo: "openstereo"

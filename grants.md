@@ -22,6 +22,12 @@ period: 2019-2024
 funding: FAPESP ([2018/15613-1](https://bv.fapesp.br/en/auxilios/103793/topographic-construction-along-the-northeastern-andes-and-the-origin-of-the-transcontinental-amazon/))  
 PI: Mauricio Parra Amézquita, IEE-USP  
 
+<a name="fapesp_pire"></a>**PIRE: climate research education in the Americas using tree-ring speleothem examples (PIRE-CREATE).**  
+period: 2017-2022  
+funding: FAPESP ([2017/50085-3 ](http://www.bv.fapesp.br/en/auxilios/82209/dimensions-us-biota-sao-paulo-a-multidisciplinary-framework-for-biodiversity-prediction-in-the-braz/))  
+PIs: Francisco William da Cruz Junior, IGc-USP + Mathias Vuille, UAlbany  
+Collab: [Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
+
 <a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
 period: 2017-2019  
 funding: FAPESP ([2013/50297-0](http://www.bv.fapesp.br/en/auxilios/82209/dimensions-us-biota-sao-paulo-a-multidisciplinary-framework-for-biodiversity-prediction-in-the-braz/))  

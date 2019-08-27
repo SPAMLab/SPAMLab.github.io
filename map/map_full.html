@@ -1,0 +1,76 @@
+
+<!-- JQuery -->
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+<!-- Leaflet stuff -->
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<!-- Leaflet Label plugin -->
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.css' rel='stylesheet' />
+
+<!--settings for full-screen map, from: http://bl.ocks.org/d3noob/7654694 -->
+<style>
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100%;
+}
+</style>
+
+
+<!-- LeafLet map props
+<style type="text/css">
+#map { height: 100%; width: 100%;}
+</style>-->
+
+<!-- LeafLet map  - relative link -->
+<div id="map"></div>
+<!-- places.geojson -->
+<link rel="points" type="application/json" href='{{site.baseurl}}/map/spam_places.geojson'>
+<!-- <script src='places.geojson' type="text/javascript"></script> -->
+
+<script>
+    // create map
+    var map = L.map('map').setView([-15, -55], 4);
+    // MapBox Terrain - zooms 5-18
+    MBTerrain = L.tileLayer('http://{s}.tiles.mapbox.com/v3/carlosgrohmann.ibb4756i/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            minZoom: 2,
+            attribution: '&copy; Tiles Courtesy of <a href="https://www.mapbox.com" title="MapBox" target="_blank">MapBox</a>',
+            }).addTo(map);                
+    // color itens coording to properties
+    function getColor(category) {
+        return category == "airport"  ?   '#002E63' : 
+               category == "place"    ?   '#FF7E00' :
+                                         '#000';
+    }
+    // Attaching a GeoJSON file with relative link from: http://lyzidiamond.com/posts/osgeo-august-meeting/
+      $.getJSON($('link[rel="points"]').attr("href"), function(data) {
+        var geoJsonLayer = L.geoJson(data, {
+            onEachFeature: function (feature, layer) {
+                // var content = '<b>' + feature.properties.Title + '<\/b>';
+                var desc = feature.properties.Title
+                // layer.bindPopup(content)
+                layer.bindLabel(desc)
+            },
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, {
+                radius: 3,
+                Label: getColor(feature.properties.Title), 
+                fillColor: getColor(feature.properties.category), 
+                // alternative one-liner from: 
+                // http://blog.thematicmapping.org/2012/10/mapping-new-zealand-where-are-hot-and.html
+                //fillColor: (feature.properties.category === 'place') ? '#FF7E00' : '#002E63',
+                color: "#000",
+                weight: 0.5,
+                opacity: 0.8,
+                fillOpacity: 0.8,})
+            },
+        });
+        geoJsonLayer.addTo(map);
+      });
+</script>
