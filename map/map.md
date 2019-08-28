@@ -7,22 +7,22 @@ published: true
 Map created with <a href="http://leafletjs.com" target="_blank">Leaflet</a>, using base layer data from <a href="https://www.mapbox.com" target="_blank">MapBox</a>.
 There's a <a href="https://carlosgrohmann.com/blog/making-a-where-ive-been-map-with-leaflet/" target="_blank">blog post</a> explaining how to make this map.
 
-For a more immersive experience, there's a full-screen version <a href="/map_full.html" target="_blank">here</a> (opens in a new tab/window).
+For a more immersive experience, there's a full-screen version <a href="{{site.baseurl}}/map/map_full.html" target="_blank">here</a> (opens in a new tab/window).
 &nbsp;
 &nbsp;
 <div>
 <!-- <h4>Where we go to work while you're at the beach</h4> -->
 
 <!-- JQuery -->
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="{{site.baseurl}}/map/jquery-1.10.2.min.js"></script>
 
 <!-- Leaflet stuff -->
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<link rel="stylesheet" href="{{site.baseurl}}/map/leaflet.css" />
+<script src="{{site.baseurl}}/map/leaflet.js"></script>
 
 <!-- Leaflet Label plugin -->
-<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-label/v0.2.1/leaflet.label.css' rel='stylesheet' />
+<script src='{{site.baseurl}}/map/leaflet.label.js'></script>
+<link href='{{site.baseurl}}/map/leaflet.label.css' rel='stylesheet' />
 
 <!-- /* LeafLet map props*/ -->
 <style type="text/css">
