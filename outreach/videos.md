@@ -13,16 +13,28 @@ We'll keep this page updated with all the videos, in reverse chronological order
 
 &nbsp;&nbsp;
 
+Sensoriamento Remoto no estudo de deslizamentos de terra   
+<iframe width="700" height="395" src="https://www.youtube.com/embed/vgR69PpUadk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Comparativo de inventários de deslizamentos de terra  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/Qq0pb4fWxaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Uso de drones em recuperação florestal  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/OvqemJBT_L4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 Garopaba dune field - fieldwork with Laser Scanner and UAV   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rATNm1UiQjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/rATNm1UiQjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Devil's Cave - Second video with the full point cloud (1 billion points)   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giInjKLo17A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/giInjKLo17A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Devil's Cave - First video of the simplified point cloud (17 million points)   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m2YZiTzs0yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="395" src="https://www.youtube.com/embed/m2YZiTzs0yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
