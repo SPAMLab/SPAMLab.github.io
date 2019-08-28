@@ -135,11 +135,11 @@ For a more immersive experience, there's a full-screen version <a href="{{site.b
     var baseLayers = {
         "MapBox Terrain": gmbt,
         "OpenTopo Map": otopo, 
-        "OpenStreetMap_Mapnik": osm, 
-        "Esri_WorldStreetMap": ewsm,
-        "Esri_WorldTopoMap": ewtm,
-        "Esri_WorldImagery": ewim,
-        "Esri_WorldShadedRelief": ewsr
+        "OpenStreetMap Mapnik": osm, 
+        "Esri WorldStreetMap": ewsm,
+        "Esri WorldTopoMap": ewtm,
+        "Esri WorldImagery": ewim,
+        "Esri WorldShadedRelief": ewsr
     };
 
     var overlays = {
