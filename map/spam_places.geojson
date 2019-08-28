@@ -27,7 +27,7 @@
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Landslides",
-"Proj_title": "Modelling a smal landslide with SfM and TLS", 
+"Proj_title": "Analisis and Modelling of a smal landslide with SfM and TLS", 
 "Proj_person": "Mariana B.B. da Silva (undergrad Geology 2019)", 
 "Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
 "geometry": { "type": "Point", "coordinates": [ -45.032177, -23.069672 ] } },
