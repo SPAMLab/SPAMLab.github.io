@@ -10,7 +10,7 @@ tags:
   - fapesp
 ---
 
-Our [3D cave]({{site.baseurl}}{% link grants/cave_3d.md %}) project was featured in a news article by FAPESP Agency!  
+Our [3D cave]({{site.baseurl}}{% link grants/cave_3d_tapagem.md %}) project was featured in a news article by FAPESP Agency!  
 They made a cool video of interviews mixed with some of the videos we made of the laser scan data. 
 
 Click [here](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/) to read the news article with the video.
