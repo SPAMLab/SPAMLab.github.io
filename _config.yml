@@ -35,7 +35,7 @@ navbar-links:
     - AutoFrac: "grants/autofrac"
     - MeshStruct: "grants/meshstruct"
     - Cave 3D (TLS): "grants/cave_3d_tapagem"
-    # - Cave 3D (SfM): "grants/cave_3d_peruacu"
+    #- Cave 3D (SfM): "grants/cave_3d_peruacu"
     - Coastal Dunes: "grants/dune_field"
     - Coastal Habitats: "grants/coastal_habitats"
     #- Deforested Areas: "restoration"

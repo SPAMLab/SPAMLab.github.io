@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Landslides
-subtitle: SfM
+subtitle: 
 ---
 <!-- #### News: -->
 <!-- [[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV -->
@@ -32,6 +32,13 @@ We have a continuous interest in landslides, with students working on their char
 &nbsp;
 &nbsp;
 #### Spammers:
+
+**Helen Cristina Dias** (PhD) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models  
+
+**Amanda Mendes de Sousa** (MSc) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas  
+
+**Lucas Pedrosa Soares** (MSc) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning  
+
 **Guilherme Pereira Bento Garcia** (PhD) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
 
 **Luiz Fernando dos Santos** (MSc) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
