@@ -48,10 +48,17 @@
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Landslides",
-"Proj_title": "Landslide susceptibility from UAV-based SfM in urban areas", 
+"Proj_title": "Landslide susceptibility from UAV-based SfM in urban areas (area 1)", 
 "Proj_person": "Amanda M. de Sousa (MSc student)", 
 "Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
-"geometry": { "type": "Point", "coordinates": [ 0, 0 ] } },
+"geometry": { "type": "Point", "coordinates": [ -46.687267, -23.448685 ] } },
+
+{ "type": "Feature", "properties": {"category": "research", 
+"Theme": "Landslides",
+"Proj_title": "Landslide susceptibility from UAV-based SfM in urban areas (area 2)", 
+"Proj_person": "Amanda M. de Sousa (MSc student)", 
+"Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
+"geometry": { "type": "Point", "coordinates": [ -46.508941, -23.616111 ] } },
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Landslides",
