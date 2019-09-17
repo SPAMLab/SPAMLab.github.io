@@ -78,8 +78,8 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Amanda Mendes de Sousa</b> - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Lucas Pedrosa Soares</b> - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. </td> 
+    <td width="17%"> <img src="/img/people/lucas.png" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
