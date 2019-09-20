@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets
-subtitle: talk is cheap. show me the data
+subtitle: Talk is cheap. Show me the data
 published: true
 ---
 Grohmann, C.H., 2019. Lagoinha Landslide, São Paulo State, Brazil. TLS point cloud.  

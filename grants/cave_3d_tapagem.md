@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D Cave
+title: Devil's Cave 3D
 subtitle: 'Measuring the underground, one billion points at a time'
 published: true
 ---

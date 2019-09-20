@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social
-subtitle: Sharing is caring
+subtitle: Because sharing is caring
 published: true
 ---
 ## Instagram

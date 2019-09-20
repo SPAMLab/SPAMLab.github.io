@@ -7,6 +7,12 @@ published: true
 
 [The Lecours Lab (Un. Florida)](https://www.thelecourslab.org)  
 
+[Geomorphometry & Hydrogeomatics Research Group (Un. Guelph)](https://jblindsay.github.io/ghrg/research_group.html)
+
+[Z_GIS - Centre of Competence for Geoinformatics (Un. Salzburg)](http://zgis.at/)
+
+[CPRM - Geological Survey of Brazil](https://www.cprm.gov.br/en/)
+
 [Marine Meiofauna Research Group (Unifesp Santos)](http://fonsecagfc.wixsite.com/np-meiofauna)  
 
 [L-GEO - Geology Lab of the School of Technology (Unicamp)](https://wordpress.ft.unicamp.br/bernardotf/l-geo/)  

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dune Field 3D
-subtitle: TLS and SfM in the sand
+title: Dune Field 4D
+subtitle: Drones and Lasers in the sand
 ---
 #### News:  
 [[video](https://youtu.be/rATNm1UiQjc)] - Short video of our field trip   

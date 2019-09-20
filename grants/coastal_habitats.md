@@ -35,7 +35,6 @@ This project will be developed in collaboration with Profs. Gustavo Fernandes Ca
 &nbsp;
 &nbsp;
 #### Collabs:
+[Marine Meiofauna Research Group](http://fonsecagfc.wixsite.com/np-meiofauna) (Unifesp Santos)  
 
-[**Marine Meiofauna Research Group**](http://fonsecagfc.wixsite.com/np-meiofauna) (Unifesp Santos)  
-
-[**The Lecours Lab**](https://www.thelecourslab.org)  
+[The Lecours Lab](https://www.thelecourslab.org)  
