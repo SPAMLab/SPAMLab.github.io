@@ -8,6 +8,11 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 &nbsp;&nbsp;
 
 ## 2019
+<a name="isrm_rough"></a>Viana C.D., Endlein A., Grohmann, C.H., Monticelli J.P., Campanha, G.A.C., 2019. SfM-MVS digital models applied to rock surface roughness. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:560-566. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
+*download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_SfM_Surface.pdf) 
+
+<a name="isrm_slope"></a>Viana C.D., Grohmann, C.H., Monticelli J.P., Garcia, G.P.B., Albuquerque. R.W., Cacciari, P.P., Futai, M.M., 2019. Slope stability assessment based on a digital outcrop model: A case-study at Jardim Garcia quarry. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:3604-3611. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
+*download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_PedreiraGarcia.pdf) 
 
 <a name="jsames_karst"></a>Garcia. G.P.B., Grohmann C.H., 2019. DEM-based geomorphological mapping and landforms characterization of a tropical karst environment in southeastern Brazil.  
 _Journal of South American Earth Sciences_, 93:14-22.  
@@ -15,19 +20,19 @@ _Journal of South American Earth Sciences_, 93:14-22.
 Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)
 
 <a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Presentation]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
+*download:* [Presentation]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
 
 <a name="sbsr_cunha"></a>Garcia, G.P.B; Gomes, E.B.; Viana, C.D.; Grohmann, C.H., 2019. Comparing Terrestrial Laser Scanner and UAV-based photogrammetry to generate a landslide DEM. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR/Garcia_etal_2019_SBSR_tls_uav_landslide_paper.pdf)  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Garcia_etal_2019_SBSR_tls_uav_landslide_paper.pdf)  
 
 <a name="sbsr_relogio"></a>Barale, F.; Grohmann, C.H., 2019. Photoscan x COLMAP: comparação entre DEMs gerados por Structure from Motion--Multi-View Stereo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR/Barale_Grohmann_2019_SBSR_photoscan_colmap_paper.pdf)  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Barale_Grohmann_2019_SBSR_photoscan_colmap_paper.pdf)  
 
 <a name="sbsr_car"></a>Albuquerque, R.W.; Ferreira, M.E.; Girão, V.J.; Balieiro, C.P.; Mansur, H.; Costa, J.V.S.; Grohmann, C.H., 2019. Comparação de RPAS e TOPODATA no mapeamento de regiões declivosas previstas no Cadastro Ambiental Rural. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
 
 <a name="sbsr_alturas"></a>Santos, L.F.; Grohmann, C.H., 2019. Processamento fotogramétrico digital por Structure from Motion de imagens obtidas em voos de diferentes alturas sobre o solo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Poster]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf)  
+*download:* [Poster]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf)  
 
 
 &nbsp;

@@ -45,7 +45,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Camila Duelis Viana</b> (<a href="https://github.com/cdviana">github</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
+    <td width="83%"> <b>Camila Duelis Viana</b> (<a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/guilherme.jpg" class="img-circle" width="99%"> </td>
