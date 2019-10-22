@@ -9,7 +9,8 @@ We have a [Youtube channel](https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKe
 
 If you've ever been to the bottomless pit of procrastination also know as YouTube, you probably already know the drill: subscribe and click the bell to receive notifications of new videos.  
 
-We'll keep this page updated with all the videos, in reverse chronological order. Scroll down to go back in time.    
+We'll keep this page updated with all the videos (including those not made by us, but about our projects), in reverse chronological order. Scroll down to go back in time.    
+
 
 &nbsp;&nbsp;
 
@@ -24,6 +25,9 @@ Comparativo de inventários de deslizamentos de terra
 Uso de drones em recuperação florestal  
 <iframe width="700" height="395" src="https://www.youtube.com/embed/OvqemJBT_L4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
+Pesquisadores realizam mapeamento 3D da Caverna do Diabo (by [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/))   
+<iframe width="700" height="395" src="https://www.youtube.com/embed/GAReBMfJetY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Garopaba dune field - fieldwork with Laser Scanner and UAV   
 <iframe width="700" height="395" src="https://www.youtube.com/embed/rATNm1UiQjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
