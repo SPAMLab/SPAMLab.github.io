@@ -7,24 +7,27 @@ published: true
 Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).  
 &nbsp;&nbsp;
 
-##2020
+## 2020
 
 <a name="isprs_garopaba"></a>Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Dune migration and volume change from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo.  
 _Submitted for revision_  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
+<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2020. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
+
+
 &nbsp;
 ## 2019
+<a name="jsames_karst"></a>Garcia. G.P.B., Grohmann C.H., 2019. DEM-based geomorphological mapping and landforms characterization of a tropical karst environment in southeastern Brazil.  
+_Journal of South American Earth Sciences_, 93:14-22.  
+[https://doi.org/10.1016/j.jsames.2019.04.013](https://doi.org/10.1016/j.jsames.2019.04.013)  
+Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)  
+
 <a name="isrm_rough"></a>Viana C.D., Endlein A., Grohmann, C.H., Monticelli J.P., Campanha, G.A.C., 2019. SfM-MVS digital models applied to rock surface roughness. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:560-566. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
 *download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_SfM_Surface.pdf) 
 
 <a name="isrm_slope"></a>Viana C.D., Grohmann, C.H., Monticelli J.P., Garcia, G.P.B., Albuquerque. R.W., Cacciari, P.P., Futai, M.M., 2019. Slope stability assessment based on a digital outcrop model: A case-study at Jardim Garcia quarry. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:3604-3611. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
 *download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_PedreiraGarcia.pdf) 
-
-<a name="jsames_karst"></a>Garcia. G.P.B., Grohmann C.H., 2019. DEM-based geomorphological mapping and landforms characterization of a tropical karst environment in southeastern Brazil.  
-_Journal of South American Earth Sciences_, 93:14-22.  
-[https://doi.org/10.1016/j.jsames.2019.04.013](https://doi.org/10.1016/j.jsames.2019.04.013)  
-Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)
 
 <a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
 *download:* [Presentation]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
@@ -155,17 +158,4 @@ Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/9VU72
 <a name="rse_tdx"></a>Grohmann, C.H. 2004. Morphometric analysis in Geographic Information Systems: applications of free software GRASS and R. _Computers & Geosciences_, 30 (9-10):1055-1067.  
 [http://dx.doi.org/10.1016/j.cageo.2004.08.002](http://dx.doi.org/10.1016/j.cageo.2004.08.002)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6VX7C) (open access)  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
