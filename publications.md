@@ -159,16 +159,3 @@ Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/9VU72
 [http://dx.doi.org/10.1016/j.cageo.2004.08.002](http://dx.doi.org/10.1016/j.cageo.2004.08.002)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6VX7C) (open access)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
