@@ -25,11 +25,10 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 <table class="table-borderless" style="width:100%">
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/anderson.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Anderson Targino da Silva Ferreira</b> (<a href="http://lattes.cnpq.br/2987031006640819">Lattes CV</a>) - Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters. </td> 
   </tr>
 </table>
-
 
 
 &nbsp;
@@ -45,18 +44,18 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr> 
   <tr>
     <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Camila Duelis Viana</b> (<a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
+    <td width="83%"> <b>Camila Duelis Viana</b> (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/guilherme.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Guilherme Pereira Bento Garcia</b> (<a href="http://lattes.cnpq.br/8143036335035110">Lattes CV</a>) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/helen.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Helen Cristina Dias</b> (<a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/marcia.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Márcia Valadares dos Santos</b> (<a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
   </tr>
   <tr>
@@ -74,7 +73,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 <table class="table-borderless" style="width:100%">
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/amanda.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Amanda Mendes de Sousa</b>  (<a href="http://lattes.cnpq.br/1341083329457480">Lattes CV</a>) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
   </tr>
   <tr>
@@ -101,7 +100,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Francesco Barale</b> (<a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - Modelling a smal landslide at USP campus with TLS. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/marianabb.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Mariana B.B. da Silva</b> (<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>) - Analisis and Modelling of a smal landslide with SfM and TLS. </td> 
   </tr>
 </table>
