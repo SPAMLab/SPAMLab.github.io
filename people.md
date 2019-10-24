@@ -100,7 +100,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Francesco Barale</b> (<a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - Modelling a smal landslide at USP campus with TLS. </td> 
   </tr>
   <tr>
-    <td width="17%"> <img src="/img/people/marianabb.jpg" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/marianabb2.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Mariana B.B. da Silva</b> (<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>) - Analisis and Modelling of a smal landslide with SfM and TLS. </td> 
   </tr>
 </table>
