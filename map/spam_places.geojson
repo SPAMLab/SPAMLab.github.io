@@ -6,6 +6,13 @@
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Landslides",
+"Proj_title": "SfM-MVS and LiDAR modelling of the Toque-Toque landslide", 
+"Proj_person": "Guilherme P.B. Garcia (PhD student)", 
+"Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
+"geometry": { "type": "Point", "coordinates": [ -45.501128, -23.836675 ] } },
+
+{ "type": "Feature", "properties": {"category": "research", 
+"Theme": "Landslides",
 "Proj_title": "Scar Identification by Remote Sensing of Vegetation", 
 "Proj_person": "Guilherme P.B. Garcia (PhD student)", 
 "Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
@@ -185,6 +192,13 @@
 "Proj_person": "Anderson T.S. Ferreira (post-doc)", 
 "Proj_link": "https://spamlab.github.io/grants/" }, 
 "geometry": { "type": "Point", "coordinates": [  -46.220110, -23.985771 ] } },
+
+{ "type": "Feature", "properties": {"category": "research", 
+"Theme": "GIS/Remote Sensing, SfM-MVS, Sedimentology",
+"Proj_title": "Spatio-Temporal analysis of the Garopaba Dune Field, SC", 
+"Proj_person": "Carlos H. Grohmann", 
+"Proj_link": "https://spamlab.github.io/grants/dune_field/" }, 
+"geometry": { "type": "Point", "coordinates": [  -48.635340, -28.003412 ] } },
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Sedimentology/Stratigraphy",
