@@ -26,7 +26,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/people/anderson.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Anderson Targino da Silva Ferreira</b> (<a href="http://lattes.cnpq.br/2987031006640819">Lattes CV</a>) - Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters. </td> 
+    <td width="83%"> <b>Anderson Targino da Silva Ferreira</b> (<a href="http://orcid.org/0000-0002-0440-6273">ORCiD</a> | <a href="http://lattes.cnpq.br/2987031006640819">Lattes CV</a>) - Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters. </td> 
   </tr>
 </table>
 
@@ -56,11 +56,11 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/marcia.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Márcia Valadares dos Santos</b> (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
+    <td width="83%"> <b>Márcia Valadares dos Santos</b> (<a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/rafael.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Rafael Walter de Albuquerque</b> (<a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment <br >and monitoring of areas in environmental recovery process. </td> 
+    <td width="83%"> <b>Rafael Walter de Albuquerque</b> (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment <br >and monitoring of areas in environmental recovery process. </td> 
   </tr>    
 </table>
 
@@ -78,11 +78,11 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/lucas.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. </td> 
+    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Luiz Fernando dos Santos</b>  (<a href="http://lattes.cnpq.br/9493267099200912">Lattes CV</a>) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis. </td> 
+    <td width="83%"> <b>Luiz Fernando dos Santos</b>  (<a href="http://orcid.org/0000-0003-2165-8058">ORCiD</a> | <a href="http://lattes.cnpq.br/9493267099200912">Lattes CV</a>) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis. </td> 
   </tr>
 </table>
 
@@ -97,7 +97,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/people/francesco.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Francesco Barale</b> (<a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - Modelling a smal landslide at USP campus with TLS. </td> 
+    <td width="83%"> <b>Francesco Barale</b> (<a href="http://orcid.org/0000-0002-2527-3617">ORCiD</a> | <a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - Modelling a smal landslide at USP campus with TLS. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/marianabb2.jpg" class="img-circle" width="99%"> </td>
