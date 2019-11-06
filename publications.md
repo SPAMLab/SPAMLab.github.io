@@ -23,6 +23,9 @@ _Journal of South American Earth Sciences_, 93:14-22.
 [https://doi.org/10.1016/j.jsames.2019.04.013](https://doi.org/10.1016/j.jsames.2019.04.013)  
 Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)  
 
+<a name="cbe_tapagem"></a>Grohmann, C.H., Zacharias, G.S., Garcia, G.P.B, Barale, F., Almeida, F.V., Arnone, I.S., 2019. Mapeamento e modelagem 3D do setor turístico da Caverna do Diabo (SP) com Laser Scanner: resultados preliminares. In:_35 Congresso Brasileiro de Espeleologia_, Bonito,MS.
+*download:* [paper](http://www.cavernas.org.br/anais35cbe/35cbe_201-206.pdf)  
+
 <a name="isrm_rough"></a>Viana C.D., Endlein A., Grohmann, C.H., Monticelli J.P., Campanha, G.A.C., 2019. SfM-MVS digital models applied to rock surface roughness. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:560-566. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
 *download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_SfM_Surface.pdf) 
 
