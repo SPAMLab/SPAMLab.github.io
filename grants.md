@@ -28,10 +28,10 @@ funding: FAPESP ([2017/50085-3](http://www.bv.fapesp.br/en/auxilios/82209/dimens
 PIs: Francisco William da Cruz Junior, IGc-USP + Mathias Vuille, UAlbany  
 Collab: [Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
 
-<a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
-period: 2017-2019  
-funding: FAPESP ([2013/50297-0](http://www.bv.fapesp.br/en/auxilios/82209/dimensions-us-biota-sao-paulo-a-multidisciplinary-framework-for-biodiversity-prediction-in-the-braz/))  
-PIs: Cristina Miyaky, IB-USP + Ana Carolina Carnaval, CUNY  
+<a name="fapesp_core"></a>**Sea-level changes and global monsoon system: clues from marine cores in Brazil.**  
+period: 2019-2024  
+funding: FAPESP ([2016/24946-9](https://bv.fapesp.br/en/auxilios/104457/sea-level-changes-and-global-monsoon-system-clues-from-marine-cores-in-brazil/))  
+PI: Luigi Jovane, IO-USP  
 
 
 &nbsp;
@@ -54,6 +54,11 @@ PI: Bernardo Tavares Freitas, Unicamp
 period: 2012-2018  
 funding: FAPESP ([2012/50260-6](http://www.bv.fapesp.br/en/auxilios/55077/structure-and-evolution-of-the-amazonian-biota-and-its-environment-an-integrative-approach/))  
 PIs: Lucia Lohmann, IB-USP + Joel Cracraft, AMNH  
+
+<a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
+period: 2017-2019  
+funding: FAPESP ([2013/50297-0](http://www.bv.fapesp.br/en/auxilios/82209/dimensions-us-biota-sao-paulo-a-multidisciplinary-framework-for-biodiversity-prediction-in-the-braz/))  
+PIs: Cristina Miyaky, IB-USP + Ana Carolina Carnaval, CUNY  
 
 <a name="fapesp_lidar"></a>**Digital terrain analysis and remote sensing applied to geomorphometric characterization of landforms**  
 period:2010-2013  

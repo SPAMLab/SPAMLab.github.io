@@ -17,7 +17,7 @@ Just a little preview for your enjoyment:
 <div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/b8e339a519d04b948a54396d547941fa/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/b8e339a519d04b948a54396d547941fa?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Clastic Dykes Paraná Basin</a>
+    <a href="https://sketchfab.com/models/b8e339a519d04b948a54396d547941fa?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Clastic Dykes - Paraná Basin</a>
     by <a href="https://sketchfab.com/spamlab?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">SPAMLab</a>
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>

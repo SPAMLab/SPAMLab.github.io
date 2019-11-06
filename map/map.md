@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Map
-subtitle: 
+subtitle: Our research areas
 published: true
 ---
 Map created with <a href="http://leafletjs.com" target="_blank">Leaflet</a>, using base layer data from <a href="https://www.mapbox.com" target="_blank">MapBox</a>.

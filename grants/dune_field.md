@@ -23,7 +23,7 @@ Video - Garopaba fieldwork
 
 <br/>
 
-<div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/e977906ca63b4ddb912ee4974ba54df0/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/e977906ca63b4ddb912ee4974ba54df0/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/garopaba-dune-field-dunas-do-siriu-e977906ca63b4ddb912ee4974ba54df0?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Garopaba Dune Field (Dunas do Siriú)</a>
