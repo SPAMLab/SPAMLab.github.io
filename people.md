@@ -74,11 +74,11 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <img src="/img/people/amanda.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Amanda Mendes de Sousa</b>  (<a href="http://lattes.cnpq.br/1341083329457480">Lattes CV</a>) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
+    <td width="83%"> <b>Amanda Mendes de Sousa</b>  (<a href="http://orcid.org/0000-0003-2264-5531">ORCiD</a> | <a href="http://lattes.cnpq.br/1341083329457480">Lattes CV</a>) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/lucas.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> scholarship: FAPESP grant #2019/17555-1</td> 
+    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> scholarship: FAPESP grant [#2019/17555-1](https://bv.fapesp.br/49430)</td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
