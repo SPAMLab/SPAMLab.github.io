@@ -60,7 +60,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/rafael.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Rafael Walter de Albuquerque</b> (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment <br >and monitoring of areas in environmental recovery process. </td> 
+    <td width="83%"> <b>Rafael Walter de Albuquerque</b> (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process. </td> 
   </tr>    
 </table>
 
@@ -78,7 +78,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/lucas.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> scholarship: FAPESP grant [#2019/17555-1](https://bv.fapesp.br/49430)</td> 
+    <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> scholarship: FAPESP grant <a href="https://bv.fapesp.br/49430">#2019/17555-1</a> </td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>

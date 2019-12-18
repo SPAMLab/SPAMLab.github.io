@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets
-subtitle: Talk is cheap. Show me the data
+subtitle: Talk is cheap. Show us the data
 published: true
 ---
 Grohmann, C.H., Garcia, G.P.B., Affonso, A.A., Albuquerque, R.W., 2019. Garopaba Dune Field, Santa Catarina State, Brazil. TLS point cloud.  
