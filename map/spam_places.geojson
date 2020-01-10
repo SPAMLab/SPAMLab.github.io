@@ -177,7 +177,7 @@
 "Proj_title": "Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process (area 2).", 
 "Proj_person": "Rafael W. de Albuquerque (PhD student)", 
 "Proj_link": "https://spamlab.github.io/grants/" }, 
-"geometry": { "type": "Point", "coordinates": [ -64.862747, 9.571706 ] } },
+"geometry": { "type": "Point", "coordinates": [ -64.862747, -9.571706 ] } },
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "GIS/Remote Sensing - Environment",
