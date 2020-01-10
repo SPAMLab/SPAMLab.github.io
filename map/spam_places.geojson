@@ -170,21 +170,14 @@
 "Proj_title": "Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process (area 1).", 
 "Proj_person": "Rafael W. de Albuquerque (PhD student)", 
 "Proj_link": "https://spamlab.github.io/grants/" }, 
-"geometry": { "type": "Point", "coordinates": [ 0, 0 ] } },
+"geometry": { "type": "Point", "coordinates": [ -46.990729, -22.739555 ] } },
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "GIS/Remote Sensing - Environment",
 "Proj_title": "Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process (area 2).", 
 "Proj_person": "Rafael W. de Albuquerque (PhD student)", 
 "Proj_link": "https://spamlab.github.io/grants/" }, 
-"geometry": { "type": "Point", "coordinates": [ 0, 0 ] } },
-
-{ "type": "Feature", "properties": {"category": "research", 
-"Theme": "GIS/Remote Sensing - Environment",
-"Proj_title": "Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process (area 3).", 
-"Proj_person": "Rafael W. de Albuquerque (PhD student)", 
-"Proj_link": "https://spamlab.github.io/grants/" }, 
-"geometry": { "type": "Point", "coordinates": [ 0, 0 ] } },
+"geometry": { "type": "Point", "coordinates": [ -64.862747, 9.571706 ] } },
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "GIS/Remote Sensing - Environment",
