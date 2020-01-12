@@ -52,7 +52,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/helen.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Helen Cristina Dias</b> (<a href="http://orcid.org/0000-0002-5006-7006">ORCiD</a> | <a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. <br> scholarship: FAPESP grant #2019/17261-8 </td> 
+    <td width="83%"> <b>Helen Cristina Dias</b> (<a href="http://orcid.org/0000-0002-5006-7006">ORCiD</a> | <a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. <br> scholarship: FAPESP grant <a href="https://bv.fapesp.br/49547">#2019/17261-8</a>a></td> 
   </tr>
   <tr>
     <td width="17%"> <img src="/img/people/marcia.jpg" class="img-circle" width="99%"> </td>
