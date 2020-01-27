@@ -4,7 +4,7 @@ title: Papers
 subtitle: Trying not to perish
 published: true
 ---
-Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/publications/).  
+Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/pages/publications/).  
 &nbsp;&nbsp;
 
 ## 2020
