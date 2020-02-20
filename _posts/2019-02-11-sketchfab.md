@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: We’re on Sketchfab!
+permalink: /blog/sketch_fab/
 tags:
   - 3D
   - sketchfab

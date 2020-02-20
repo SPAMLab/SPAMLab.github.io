@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Fixing invalid geometry Shapefiles obtained by Rasters
 subtitle: by Rafael W. Albuquerque, PhD candidate
+permalink: /blog/fix_geom/
 <!-- subtitle: Rastered polygons -->
 tags:
   - raster

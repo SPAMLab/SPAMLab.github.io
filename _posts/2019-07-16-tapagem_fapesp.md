@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: FAPESP News
+permalink: /blog/fapesp_tap3d/
 tags:
   - youtube
   - videos

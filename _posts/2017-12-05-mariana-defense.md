@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Mariana presents her Bachelor degree final paper
+permalink: /blog/mariana_bsc/
 subtitle: 
 tags:
   - defense

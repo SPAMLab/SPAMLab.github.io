@@ -3,6 +3,7 @@ layout: post
 published: true
 title: '"Garcia Garden" quarry '
 subtitle: 3D modeling of a vertical wall with SfM and a UAV
+permalink: /blog/garcia_quarry/
 tags:
   - wall
   - sfm

@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Camila's website and blog
+permalink: /blog/cviana_blog/
 tags:
   - student
   - blog

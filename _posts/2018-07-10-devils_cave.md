@@ -3,6 +3,7 @@ layout: post
 published: true
 title: TLS mapping of Devil's Cave
 subtitle: Shooting lasers at speleothems
+permalink: /blog/tap3d_trip/
 tags:
   - cave
   - tls

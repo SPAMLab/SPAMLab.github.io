@@ -2,6 +2,7 @@
 layout: post
 title: SPAMLabs's website is online
 subtitle: We finally have a website!
+permalink: /blog/first_post/
 tags: [first,thanks]
 ---
 

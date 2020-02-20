@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Lucas' website and blog
+permalink: /blog/lucas_blog/
 tags:
   - student
   - blog
