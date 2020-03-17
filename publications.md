@@ -13,9 +13,9 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H., 2020(?) - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
 _Submitted for revision_  
 
-<a name="landslides_guilherme"></a>
+<!-- <a name="landslides_guilherme"></a>
 Garcia, G.P.B.\*, Grohmann, C.H., Martinioni, T.H., Bortolucci, L. 2020(?) - Automatic landslide identification based on vegetation indices and terrain attributes: a case study in Southeastern Brazil.  
-_Submitted for revision_  
+_Submitted for revision_   -->
 
 <a name="isprs_garopaba"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Dune migration and volume change from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo.  
