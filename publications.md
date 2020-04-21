@@ -18,11 +18,15 @@ Garcia, G.P.B.\*, Grohmann, C.H., Martinioni, T.H., Bortolucci, L. 2020(?) - Aut
 _Submitted for revision_   -->
 
 <a name="isprs_garopaba"></a>
-Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stere.  
+Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
 _Submitted for revision_  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2020. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
+
+
+<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_  
+
 
 
 &nbsp;
