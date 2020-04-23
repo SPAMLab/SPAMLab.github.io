@@ -65,12 +65,12 @@ For a more immersive experience, there's a full-screen version <a href="{{site.b
     });
 
 
-    // MapBox Terrain - zooms 5-18
-    MBTerrain = L.tileLayer('http://{s}.tiles.mapbox.com/v3/carlosgrohmann.ibb4756i/{z}/{x}/{y}.png', {
-            maxZoom: 18,
-            minZoom: 0,
-            attribution: '&copy; Tiles Courtesy of <a href="https://www.mapbox.com" title="MapBox" target="_blank">MapBox</a>',
-    });  
+    // // MapBox Terrain - zooms 5-18
+    // MBTerrain = L.tileLayer('http://{s}.tiles.mapbox.com/v3/carlosgrohmann.ibb4756i/{z}/{x}/{y}.png', {
+    //         maxZoom: 18,
+    //         minZoom: 0,
+    //         attribution: '&copy; Tiles Courtesy of <a href="https://www.mapbox.com" title="MapBox" target="_blank">MapBox</a>',
+    // });  
 
     // color itens acording to properties
     function getColor(category) {
@@ -122,18 +122,16 @@ For a more immersive experience, there's a full-screen version <a href="{{site.b
         ewsm = Esri_WorldStreetMap,
         ewtm = Esri_WorldTopoMap,
         ewim = Esri_WorldImagery,
-        ewsr = Esri_WorldShadedRelief,
-        gmbt = MBTerrain;
+        ewsr = Esri_WorldShadedRelief;
 
 
     var map = L.map('map', {
         center: [-15, -55],
         zoom: 4,
-        layers: [gmbt, places]
+        layers: [ewsm, places]
     });
 
     var baseLayers = {
-        "MapBox Terrain": gmbt,
         "OpenTopo Map": otopo, 
         "OpenStreetMap Mapnik": osm, 
         "Esri WorldStreetMap": ewsm,
