@@ -7,7 +7,7 @@ published: true
 Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/pages/publications/).  
 &nbsp;&nbsp;
 
-## 2020
+## in revision
 
 <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H., 2020(?) - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
@@ -22,11 +22,12 @@ Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian 
 _Submitted for revision_  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
-<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2020. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 
+## 2020
 
 <a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_  
 
+<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2020. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 
 
 &nbsp;
