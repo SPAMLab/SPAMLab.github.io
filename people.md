@@ -80,11 +80,12 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="17%"> <img src="/img/people/lucas.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Lucas Pedrosa Soares</b> (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> scholarship: FAPESP grant <a href="https://bv.fapesp.br/49430">#2019/17555-1</a> </td> 
   </tr>
-  <tr>
+</table>
+
+ <!--  <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Luiz Fernando dos Santos</b>  (<a href="http://orcid.org/0000-0003-2165-8058">ORCiD</a> | <a href="http://lattes.cnpq.br/9493267099200912">Lattes CV</a>) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis. </td> 
-  </tr>
-</table>
+  </tr> -->
 
  
 &nbsp;
@@ -129,6 +130,8 @@ Spectroradiometric analysis applied to gold and base-metals mineralizations char
 
 **Jhesika Pena Gomes de Souza Silva** (undergrad 2018-2019)  
 Generation of Digital Elevation Models of the Peruaçu National Park with orbital imagery  
+
+**Luiz Fernando dos Santos** (MSc 2016-2020) (<a href="http://orcid.org/0000-0003-2165-8058">ORCiD</a> | <a href="http://lattes.cnpq.br/9493267099200912">Lattes CV</a>) Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
 
 **Mariana dos Santos Toledo Busarello** (undergrad 2017)  
 Structure-from-Motion based structural analysis of clastic dikes of the Corumbataí Formation  
