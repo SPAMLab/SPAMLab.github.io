@@ -25,8 +25,13 @@ The initial results are encouraging, and we hope to be able to go back for more 
 *Dense point cloud*  
 <br/><br/>
 
+&nbsp;&nbsp;
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="700" height="400" src="https://sketchfab.com/models/a873f750875d4f37a3784ffddc9f5abc/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+<br/>3D model (via sketchfab)
+</div>
 
-
+&nbsp;
 &nbsp;
 &nbsp;
 #### Grant:
