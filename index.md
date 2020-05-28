@@ -8,6 +8,7 @@ bigimg:
   - "/img/garcia_quarry/texture.jpg" : "3D model with texture, basalt quarry wall"
   - "/img/tapagem/diabo_captura_nuvem_super.jpg" : "Devil's Cave, LiDAR point cloud"
   - "/img/tapagem/diabo_captura_nuvem_limpa.jpg" : "Devil's Cave, LiDAR point cloud (clean)"
+  - "/img/pmsp_laz/potree1.jpg" : "Sao Paulo City, Brazil, Airborne LiDAR point cloud"
 ---
 
 The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  
