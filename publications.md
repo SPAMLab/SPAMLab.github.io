@@ -9,25 +9,32 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 ## in revision
 
-<a name="pellets_anderson"></a>
+<!-- <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H., 2020(?) - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
-_Submitted for revision_  
-
-<!-- <a name="landslides_guilherme"></a>
-Garcia, G.P.B.\*, Grohmann, C.H., Martinioni, T.H., Bortolucci, L. 2020(?) - Automatic landslide identification based on vegetation indices and terrain attributes: a case study in Southeastern Brazil.  
 _Submitted for revision_   -->
 
-<a name="isprs_garopaba"></a>
+<!-- <a name="landslides_helen_msc"></a>
+Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C. - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil. _Submitted for revision_  -->
+
+<a name="lucas_unet"></a>
+Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  
+_Submitted for revision_  
+Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  
+
+<a name="garopaba_sfm"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
 _Submitted for revision_  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
 
+## 2021
+<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
+
+
+&nbsp;
 ## 2020
 <a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_  
 [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
-
-<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2020. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 
 
 &nbsp;
@@ -176,3 +183,9 @@ Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/9VU72
 [http://dx.doi.org/10.1016/j.cageo.2004.08.002](http://dx.doi.org/10.1016/j.cageo.2004.08.002)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6VX7C) (open access)  
 
+
+
+
+<!-- <a name="landslides_guilherme"></a>
+Garcia, G.P.B.\*, Grohmann, C.H., Martinioni, T.H., Bortolucci, L. 2020(?) - Automatic landslide identification based on vegetation indices and terrain attributes: a case study in Southeastern Brazil.  
+_Submitted for revision_   -->
