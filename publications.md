@@ -9,7 +9,7 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 ## in revision
 <a name="pellets_anderson"></a>
-Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H., 2020(?) - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
+Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H. - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
 _Submitted for revision_  
 
 <a name="landslides_helen_msc"></a>
@@ -21,10 +21,7 @@ Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Ev
 _Submitted for revision_  
 Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  
 
-<a name="garopaba_sfm"></a>
-Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
-_Submitted for revision_  
-Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
+
 
 &nbsp;
 ## 2021
@@ -33,8 +30,19 @@ Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [phys
 
 &nbsp;
 ## 2020
+<a name="garopaba_sfm"></a>
+Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
+_Computers & Geosciences_  
+[http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569)  
+Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
+
 <a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_  
 [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
+
+<a name="garopaba_gmorph"></a>
+Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stere.  
+_Proceedings of the Geomorphometry 2020 conference_  
+[http://doi.org/10.30437/Geomorphometry2020](http://doi.org/10.30437/Geomorphometry2020)  
 
 
 &nbsp;
