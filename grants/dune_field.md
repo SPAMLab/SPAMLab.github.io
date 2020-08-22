@@ -4,6 +4,9 @@ title: Dune Field 4D
 subtitle: Drones and Lasers in the sand
 ---
 #### News:  
+
+[[publication](/publications/index.html#garopaba_cageo)]: Paper published in [_Computers & Geosciences_](http://doi.org/10.1016/j.cageo.2020.104569)  (also availabe as a preprint at [arXiv](https://arxiv.org/abs/1910.06186))  
+[[publication](/publications/index.html#garopaba_gmorph)]: Extended abstract published in the proceeding of [_Geomorphometry2020_](http://doi.org/10.30437/Geomorphometry2020_30)  
 [[video](https://youtu.be/rATNm1UiQjc)] - Short video of our field trip   
 [[blog post](/2019-03-02-garopaba)]: Field trip to Garopaba
 &nbsp;

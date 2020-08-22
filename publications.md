@@ -30,13 +30,13 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 
 &nbsp;
 ## 2020
-<a name="garopaba_sfm"></a>
+<a name="garopaba_cageo"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
 _Computers & Geosciences_, 143:104569  
 [http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569)  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
-<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_  
+<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_, 8:207-223  
 [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
 
 <a name="garopaba_gmorph"></a>
@@ -79,7 +79,7 @@ Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https:
 
 &nbsp;
 ## 2018 
-<a name="bjgeo"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
+<a name="bjgeo_camila"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
 [https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
 
 <!-- <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_   -->
