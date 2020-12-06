@@ -134,11 +134,15 @@ Modelling a smal landslide at USP campus with TLS
 
 **Guilherme Iolino Troncon Guerra** (MSc 2017-2019) (<a href="http://lattes.cnpq.br/7286539851867175">Lattes CV</a>)  
 Spectroradiometric analysis applied to gold and base-metals mineralizations characterization in the Nova Brasilândia D’Oeste (Rondônia) region  
+PDF available at the [USP Digital Library of Theses and Dissertations](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-03082020-100748/pt-br.php)  
+https://doi.org/10.11606/D.44.2019.tde-03082020-100748  
 
 **Jhesika Pena Gomes de Souza Silva** (undergrad 2018-2019)  
 Generation of Digital Elevation Models of the Peruaçu National Park with orbital imagery  
 
 **Luiz Fernando dos Santos** (MSc 2016-2020) (<a href="http://orcid.org/0000-0003-2165-8058">ORCiD</a> \|<a href="http://lattes.cnpq.br/9493267099200912">Lattes CV</a>) Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
+PDF available at the [USP Digital Library of Theses and Dissertations](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-25082020-090103/pt-br.php)  
+https://doi.org/10.11606/D.44.2020.tde-25082020-090103  
 
 **Mariana dos Santos Toledo Busarello** (undergrad 2017)  
 Structure-from-Motion based structural analysis of clastic dikes of the Corumbataí Formation  

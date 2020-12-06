@@ -8,8 +8,8 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 &nbsp;&nbsp;
 
 ## in revision
-<a name="pellets_anderson"></a>
-Ferreira, A.T.S., Ribeiro, M.C.H, Grohmann, C.H. - Plastic pellets in sandy beaches: mechanisms and deposition indicators.  
+<a name="landslides_helen_pca5017"></a>
+Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
 _Submitted for revision_  
 
 <a name="landslides_helen_msc"></a>
@@ -25,6 +25,12 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 
 &nbsp;
 ## 2021
+<a name="pellets_anderson"></a>
+Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H. - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
+_Marine Environmental Research_, in press.  
+[https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219)  
+
+
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 
 
