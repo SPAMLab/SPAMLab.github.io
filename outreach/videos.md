@@ -14,6 +14,11 @@ We'll keep this page updated with all the videos (including those not made by us
 
 &nbsp;&nbsp;
 
+MS GRSS IEEE Student Chapter - UAV Remote Sensing  
+With the participacion of our PhD student Camila Viana!  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/2XxpQG-p5Yk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 GGEO Live - 3D Cave Mapping  
 <iframe width="700" height="395" src="https://www.youtube.com/embed/U73C-In4dfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

@@ -41,9 +41,9 @@ We have a continuous interest in landslides, with students working on their char
 
 **Guilherme Pereira Bento Garcia** (PhD) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
 
-**Luiz Fernando dos Santos** (MSc) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
+**Luiz Fernando dos Santos** (MSc 2017-2020) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
 
-**Francesco Barale (undergrad)** - Modelling of a small landslide with Terrstrial Laser Scanner.
+**Francesco Barale** (undergrad 2019) - Modelling of a small landslide with Terrstrial Laser Scanner.
 
 **Elton Barbosa Gomes** (undergrad 2018) - Stability analysis of mass movement-prone areas based on High-resolution Digital Terrain Models   
 
