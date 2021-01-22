@@ -10,9 +10,7 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 ## in revision
 
-<a name="crateras_caio"></a>
-Villaça, C.V.N., Crósta, A.P., Grohmann, C.H., - Morphometric analysis of Pluto’s impact craters.  
-_Submitted for revision_  
+
 
 
 <a name="praias_natal_pca5017"></a>
@@ -40,6 +38,12 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 
 &nbsp;
 ## 2021
+<a name="crateras_caio"></a>
+Villaça, C.V.N., Crósta, A.P., Grohmann, C.H., - Morphometric analysis of Pluto’s impact craters.  
+_Remote Sensing_, 13:377.  
+[https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377)  
+
+
 <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H. - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
 _Marine Environmental Research_, 163:105219.  
