@@ -20,6 +20,7 @@ _Submitted for revision_
 <a name="alynne_pca5017"></a>
 Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
 _Submitted for revision_  
+Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
 
 <a name="landslides_helen_pca5017"></a>
 Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
@@ -65,7 +66,7 @@ Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [phys
 [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
 
 <a name="garopaba_gmorph"></a>
-Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stere.  
+Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo.  
 _Proceedings of the Geomorphometry 2020 conference_  
 [http://doi.org/10.30437/Geomorphometry2020](http://doi.org/10.30437/Geomorphometry2020)  
 

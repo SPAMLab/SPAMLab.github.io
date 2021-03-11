@@ -5,7 +5,7 @@ subtitle: Science at 30,000 words per second
 published: true
 ---
 ## Videos
-We have a [Youtube channel](https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKeNdBQ)!
+We have a [Youtube channel](https://www.youtube.com/c/SPAMLabUSP)!
 
 If you've ever been to the bottomless pit of procrastination also know as YouTube, you probably already know the drill: subscribe and click the bell to receive notifications of new videos.  
 
@@ -13,6 +13,10 @@ We'll keep this page updated with all the videos (including those not made by us
 
 
 &nbsp;&nbsp;
+
+Como funciona a revisão de um artigo científico?  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/Q8c5bVG7fn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 MS GRSS IEEE Student Chapter - UAV Remote Sensing  
 With the participacion of our PhD student Camila Viana!  
@@ -60,3 +64,4 @@ Devil's Cave - First video of the simplified point cloud (17 million points)
 
 
 
+<!-- (https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKeNdBQ)! -->
