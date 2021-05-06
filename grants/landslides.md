@@ -33,13 +33,15 @@ We have a continuous interest in landslides, with students working on their char
 &nbsp;
 #### Spammers:
 
-**Helen Cristina Dias** (PhD) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models  
-
 **Amanda Mendes de Sousa** (MSc) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas  
 
-**Lucas Pedrosa Soares** (MSc) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning  
-
 **Guilherme Pereira Bento Garcia** (PhD) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
+
+**Helen Cristina Dias** (PhD) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models  
+
+**Rebeca Durço Coelho** (PhD) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration  
+
+**Lucas Pedrosa Soares** (MSc) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning  
 
 **Luiz Fernando dos Santos** (MSc 2017-2020) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
 
@@ -53,6 +55,8 @@ We have a continuous interest in landslides, with students working on their char
 &nbsp;
 #### Grants:
 [CNPq #423481/2018-5.](/grants#cnpq_uav) - **UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
+
+[FAPESP #2019/26568-0](/grants#fapesp_landslides) - **High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
 
 [FAPESP #2016/06628-0](/grants#fapesp_tls) - **Application of high-resolution digital elevation models in geology and geomorphology.**  
 

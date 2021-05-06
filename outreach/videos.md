@@ -14,6 +14,18 @@ We'll keep this page updated with all the videos (including those not made by us
 
 &nbsp;&nbsp;
 
+3 dicas de ouro para SIG!  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/Tt7cx2Oazj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Submissão de artigo no OJS (Publicando ciência #3)  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/6OAXx7KFxs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+Preparando a submissão do artigo (Publicando ciência #2)  
+<iframe width="700" height="395" src="https://www.youtube.com/embed/cDS1_q8FxLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 Como funciona a revisão de um artigo científico?  
 <iframe width="700" height="395" src="https://www.youtube.com/embed/Q8c5bVG7fn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

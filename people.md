@@ -59,6 +59,10 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Márcia Valadares dos Santos</b> (<a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
   </tr>
   <tr>
+    <td width="17%"> <img src="/img/people/rebeca.jpeg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Rebeca Durço Coelho</b> (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. </td> 
+  </tr>    
+  <tr>
     <td width="17%"> <img src="/img/people/rafael.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Rafael Walter de Albuquerque</b> (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process. </td> 
   </tr>    

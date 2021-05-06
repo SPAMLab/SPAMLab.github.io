@@ -9,9 +9,9 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## in revision
-
-
-
+<a name="lucas_himalaia"></a>
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
+_Submitted for revision_  
 
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
@@ -26,10 +26,6 @@ Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/
 Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
 _Submitted for revision_  
 
-<a name="landslides_helen_msc"></a>
-Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C. - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
-_Submitted for revision_  
-
 <a name="lucas_unet"></a>
 Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  
 _Submitted for revision_  
@@ -39,17 +35,19 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 
 &nbsp;
 ## 2021
+<a name="landslides_helen_msc"></a>
+Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
+_Natural Hazards_, [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
+
 <a name="crateras_caio"></a>
-Villaça, C.V.N., Crósta, A.P., Grohmann, C.H., - Morphometric analysis of Pluto’s impact craters.  
+Villaça, C.V.N., Crósta, A.P., Grohmann, C.H.,2021 - Morphometric analysis of Pluto’s impact craters.  
 _Remote Sensing_, 13:377.  
 [https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377)  
 
-
 <a name="pellets_anderson"></a>
-Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H. - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
+Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H., 2021 - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
 _Marine Environmental Research_, 163:105219.  
 [https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219)  
-
 
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 
