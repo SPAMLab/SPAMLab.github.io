@@ -35,6 +35,10 @@ Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess
 
 &nbsp;
 ## 2021
+<a name="protocol_rafael"></a>
+Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
+Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest. _Remote Sensing_, 13(12):2401. [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401)  
+
 <a name="landslides_helen_msc"></a>
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
 _Natural Hazards_, [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
@@ -50,6 +54,7 @@ _Marine Environmental Research_, 163:105219.
 [https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219)  
 
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
+([link](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges))  
 
 
 &nbsp;

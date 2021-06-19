@@ -3,9 +3,13 @@ layout: page
 title: Landslides
 subtitle: 
 ---
-<!-- #### News: -->
+#### News:
+[[publication](/pages/publications/index.html#landslides_helen_msc)]: Paper published in [_Natural Hazards_](https://doi.org/10.1007/s11069-021-04676-y)  
+[[publication](/pages/publications/index.html#isl_helen)]: Paper presented at the [_XIII International Symposium on Landslides_](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges)  
 <!-- [[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV -->
 
+
+&nbsp;
 #### About:
 Landslides are common geological phenomena in high-relief areas, occurring across a range of spatial and temporal scales, and are considered the main erosive process in the geomorphological evolution of such areas.  
 
@@ -54,14 +58,18 @@ We have a continuous interest in landslides, with students working on their char
 &nbsp;
 &nbsp;
 #### Grants:
-[CNPq #423481/2018-5.](/grants#cnpq_uav) - **UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
+[FAPESP #2019/26568-0](/pages/grants#fapesp_landslides) - **High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
 
-[FAPESP #2019/26568-0](/grants#fapesp_landslides) - **High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
+[CNPq #423481/2018-5.](/pages/grants#cnpq_uav) - **UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
 
-[FAPESP #2016/06628-0](/grants#fapesp_tls) - **Application of high-resolution digital elevation models in geology and geomorphology.**  
+[FAPESP #2016/06628-0](/pages/grants#fapesp_tls) - **Application of high-resolution digital elevation models in geology and geomorphology.**  
 
 
 &nbsp;
 &nbsp;
 #### Collabs:
 [**IPT – Institute for Technological Research**](https://www.ipt.br/en/)  
+
+[**Z_GIS - Centre of Competence for Geoinformatics (Un. Salzburg)**](http://zgis.at/)  
+
+[**Geomorphometry & Hydrogeomatics Research Group (Un. Guelph)**](https://jblindsay.github.io/ghrg/research_group.html)
