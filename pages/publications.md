@@ -10,34 +10,30 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 ## in revision
 <a name="lucas_himalaia"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
-_Submitted for revision_  
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.   
 
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
-_Submitted for revision_  
 
 <a name="alynne_pca5017"></a>
 Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
-_Submitted for revision_  
 Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
 
 <a name="landslides_helen_pca5017"></a>
 Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
-_Submitted for revision_  
 
 <a name="lucas_unet"></a>
-Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes  
-_Submitted for revision_  
-Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  
+Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes.  
+Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access) 
 
-
+<a name="cuha_guilherme"></a> 
+Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
 
 &nbsp;
 ## 2021
 <a name="protocol_rafael"></a>
 Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
-Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest. _Remote Sensing_, 13(12):2401. [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401)  
+Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest. _Remote Sensing_, 13(12):2401. [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
 
 <a name="landslides_helen_msc"></a>
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
@@ -46,7 +42,7 @@ _Natural Hazards_, [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/
 <a name="crateras_caio"></a>
 Villaça, C.V.N., Crósta, A.P., Grohmann, C.H.,2021 - Morphometric analysis of Pluto’s impact craters.  
 _Remote Sensing_, 13:377.  
-[https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377)  
+[https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377) (open access)    
 
 <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H., 2021 - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
@@ -71,7 +67,7 @@ Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [phys
 <a name="garopaba_gmorph"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo.  
 _Proceedings of the Geomorphometry 2020 conference_  
-[http://doi.org/10.30437/Geomorphometry2020](http://doi.org/10.30437/Geomorphometry2020)  
+[http://doi.org/10.30437/Geomorphometry2020](http://doi.org/10.30437/Geomorphometry2020) (open access)   
 
 
 &nbsp;
