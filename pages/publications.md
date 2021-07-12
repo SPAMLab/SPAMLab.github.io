@@ -31,13 +31,22 @@ Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial L
 
 &nbsp;
 ## 2021
+<a name="demix_isprs"></a>
+Strobl, P.A., Bielski, C., Guth, P.L., Grohmann, C.H., Muller, J.-P., López-Vázquez, C., Gesch, D.B., Amatulli, G., Riazanoff, S., and Carabajal, C., 2021 - The Digital Elevation Model Intercomparison EXperiment DEMIX, a community-based approach at global DEM benchmarking.  
+Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2021, 395–400  
+[https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021](https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021)  
+(open access)  
+
 <a name="protocol_rafael"></a>
 Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
-Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest. _Remote Sensing_, 13(12):2401. [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
+Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest.  
+_Remote Sensing_, 13(12):2401.  
+[https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
 
 <a name="landslides_helen_msc"></a>
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
-_Natural Hazards_, [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
+_Natural Hazards_  
+[https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
 
 <a name="crateras_caio"></a>
 Villaça, C.V.N., Crósta, A.P., Grohmann, C.H.,2021 - Morphometric analysis of Pluto’s impact craters.  
@@ -61,7 +70,8 @@ _Computers & Geosciences_, 143:104569
 [http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569)  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
-<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon. _Journal of Unmanned Vehicle Systems_, 8:207-223  
+<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon.  
+_Journal of Unmanned Vehicle Systems_, 8:207-223  
 [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
 
 <a name="garopaba_gmorph"></a>
