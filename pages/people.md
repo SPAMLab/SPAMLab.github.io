@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: Spammers united
+subtitle: Spammers assembled
 published: true
 ---
 
@@ -104,7 +104,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 &nbsp;
 
-## Undergrad Students
+<!-- ## Undergrad Students
 
 
 <table class="table-borderless" style="width:100%">
@@ -112,7 +112,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="17%"> <img src="/img/people/marianabb2.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Mariana B.B. da Silva</b> (<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>) - Analisis and Modelling of a smal landslide with SfM and TLS. </td> 
   </tr>
-</table>
+</table> -->
 
 
 
@@ -182,6 +182,11 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     </td>
 </tr>
 
+
+  <tr>
+    <td width="17%"> <img src="/img/people/marianabb2.jpg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Mariana B.B. da Silva</b> (<a href="http://lattes.cnpq.br/6596101972048688">Lattes CV</a>) - Analysis and Modeling of a small landslide with SfM and TLS. </td> 
+  </tr>
 
 <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
