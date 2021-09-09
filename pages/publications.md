@@ -31,6 +31,11 @@ Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial L
 
 &nbsp;
 ## 2021
+<a name="demix_sg1_terms"></a>
+Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
+_Remote Sensing_, 13(18):3581.  
+[https://doi.org/10.3390/rs13183581](https://doi.org/10.3390/rs13183581) (open access)    
+
 <a name="demix_isprs"></a>
 Strobl, P.A., Bielski, C., Guth, P.L., Grohmann, C.H., Muller, J.-P., López-Vázquez, C., Gesch, D.B., Amatulli, G., Riazanoff, S., and Carabajal, C., 2021 - The Digital Elevation Model Intercomparison EXperiment DEMIX, a community-based approach at global DEM benchmarking.  
 Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2021, 395–400  
