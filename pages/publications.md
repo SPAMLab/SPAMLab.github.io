@@ -31,6 +31,12 @@ Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial L
 
 &nbsp;
 ## 2021
+<a name="helen_inventory_geosc"></a>
+Dias, H.C., Hölbling, D., Grohmann, C.H., 2021 -  Landslide Susceptibility Mapping in Brazil: A Review.  
+_Geosciences_, 11(10):425.  
+[https://doi.org/10.3390/geosciences11100425](https://doi.org/10.3390/geosciences11100425) (open access)    
+
+
 <a name="demix_sg1_terms"></a>
 Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
 _Remote Sensing_, 13(18):3581.  
