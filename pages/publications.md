@@ -9,81 +9,83 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## in revision
+<a name="alynne_pca5017"></a>
+Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
+Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
+
+<a name="cuha_guilherme"></a> 
+Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
+
 <a name="lucas_himalaia"></a>
 Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.   
 
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
 
-<a name="alynne_pca5017"></a>
-Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
-Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
-
-<a name="landslides_helen_pca5017"></a>
-Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslides recognition using SVM, Random Forest and Maximum Likelihood on high-resolution satellite images: case study in Itaóca, southeastern Brazil.  
-
 <a name="lucas_unet"></a>
 Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes.  
 Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access) 
 
-<a name="cuha_guilherme"></a> 
-Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
+
+
+
+
 
 &nbsp;
 ## 2021
-<a name="helen_inventory_geosc"></a>
-Dias, H.C., Hölbling, D., Grohmann, C.H., 2021 -  Landslide Susceptibility Mapping in Brazil: A Review.  
-_Geosciences_, 11(10):425.  
-[https://doi.org/10.3390/geosciences11100425](https://doi.org/10.3390/geosciences11100425) (open access)    
-
-
-<a name="demix_sg1_terms"></a>
-Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
-_Remote Sensing_, 13(18):3581.  
-[https://doi.org/10.3390/rs13183581](https://doi.org/10.3390/rs13183581) (open access)    
-
-<a name="demix_isprs"></a>
-Strobl, P.A., Bielski, C., Guth, P.L., Grohmann, C.H., Muller, J.-P., López-Vázquez, C., Gesch, D.B., Amatulli, G., Riazanoff, S., and Carabajal, C., 2021 - The Digital Elevation Model Intercomparison EXperiment DEMIX, a community-based approach at global DEM benchmarking.  
-Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2021, 395–400  
-[https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021](https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021)  
-(open access)  
-
 <a name="protocol_rafael"></a>
 Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
 Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest.  
 _Remote Sensing_, 13(12):2401.  
 [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
+<a name="landslides_helen_pca5017"></a>
+Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslide recognition using SVM, Random Forest, and Maximum Likelihood classifiers on high-resolution satellite images: A case study of Itaóca, southeastern Brazil. _Brazilian Journal of Geology_, 51(4):839-852.  
+[http://dx.doi.org/10.1590/2317-4889202120200105](http://dx.doi.org/10.1590/2317-4889202120200105) (open access)  
+
+<a name="helen_inventory_geosc"></a>
+Dias, H.C., Hölbling, D., Grohmann, C.H., 2021 -  Landslide Susceptibility Mapping in Brazil: A Review.  
+_Geosciences_, 11(10):425.  
+[https://doi.org/10.3390/geosciences11100425](https://doi.org/10.3390/geosciences11100425) (open access)    
 
 <a name="landslides_helen_msc"></a>
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
 _Natural Hazards_  
 [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
-
-<a name="crateras_caio"></a>
-Villaça, C.V.N., Crósta, A.P., Grohmann, C.H.,2021 - Morphometric analysis of Pluto’s impact craters.  
-_Remote Sensing_, 13:377.  
-[https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377) (open access)    
+<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
+([link](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges))  
 
 <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H., 2021 - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
 _Marine Environmental Research_, 163:105219.  
 [https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219)  
 
-<a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
-([link](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges))  
+<a name="demix_sg1_terms"></a>
+Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
+_Remote Sensing_, 13(18):3581.  
+[https://doi.org/10.3390/rs13183581](https://doi.org/10.3390/rs13183581) (open access)    
+<a name="demix_isprs"></a>
+Strobl, P.A., Bielski, C., Guth, P.L., Grohmann, C.H., Muller, J.-P., López-Vázquez, C., Gesch, D.B., Amatulli, G., Riazanoff, S., and Carabajal, C., 2021 - The Digital Elevation Model Intercomparison EXperiment DEMIX, a community-based approach at global DEM benchmarking.  
+Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2021, 395–400  
+[https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021](https://doi.org/10.5194/isprs-archives-XLIII-B4-2021-395-2021)  
+(open access)  
+
+<a name="crateras_caio"></a>
+Villaça, C.V.N., Crósta, A.P., Grohmann, C.H.,2021 - Morphometric analysis of Pluto’s impact craters.  
+_Remote Sensing_, 13:377.  
+[https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377) (open access)    
 
 
 &nbsp;
 ## 2020
+<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon.  
+_Journal of Unmanned Vehicle Systems_, 8:207-223  
+[https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
+
 <a name="garopaba_cageo"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
 _Computers & Geosciences_, 143:104569  
 [http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569)  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
-
-<a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon.  
-_Journal of Unmanned Vehicle Systems_, 8:207-223  
-[https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
 
 <a name="garopaba_gmorph"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Coastal dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion-Multi View Stereo.  
@@ -93,13 +95,28 @@ _Proceedings of the Geomorphometry 2020 conference_
 
 &nbsp;
 ## 2019
+<a name="sbsr_car"></a>Albuquerque, R.W.; Ferreira, M.E.; Girão, V.J.; Balieiro, C.P.; Mansur, H.; Costa, J.V.S.; Grohmann, C.H., 2019. Comparação de RPAS e TOPODATA no mapeamento de regiões declivosas previstas no Cadastro Ambiental Rural. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
+
+<a name="sbsr_relogio"></a>Barale, F.; Grohmann, C.H., 2019. Photoscan x COLMAP: comparação entre DEMs gerados por Structure from Motion--Multi-View Stereo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Barale_Grohmann_2019_SBSR_photoscan_colmap_paper.pdf)  
+
 <a name="jsames_karst"></a>Garcia. G.P.B., Grohmann C.H., 2019. DEM-based geomorphological mapping and landforms characterization of a tropical karst environment in southeastern Brazil.  
 _Journal of South American Earth Sciences_, 93:14-22.  
 [https://doi.org/10.1016/j.jsames.2019.04.013](https://doi.org/10.1016/j.jsames.2019.04.013)  
 Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access)  
 
+<a name="sbsr_cunha"></a>Garcia, G.P.B; Gomes, E.B.; Viana, C.D.; Grohmann, C.H., 2019. Comparing Terrestrial Laser Scanner and UAV-based photogrammetry to generate a landslide DEM. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Garcia_etal_2019_SBSR_tls_uav_landslide_paper.pdf)  
+
 <a name="cbe_tapagem"></a>Grohmann, C.H., Zacharias, G.S., Garcia, G.P.B, Barale, F., Almeida, F.V., Arnone, I.S., 2019. Mapeamento e modelagem 3D do setor turístico da Caverna do Diabo (SP) com Laser Scanner: resultados preliminares. In:_35 Congresso Brasileiro de Espeleologia_, Bonito,MS.
 *download:* [paper](http://www.cavernas.org.br/anais35cbe/35cbe_201-206.pdf)  
+
+<a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Presentation]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
+
+<a name="sbsr_alturas"></a>Santos, L.F.; Grohmann, C.H., 2019. Processamento fotogramétrico digital por Structure from Motion de imagens obtidas em voos de diferentes alturas sobre o solo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
+*download:* [Poster]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf)  
 
 <a name="isrm_rough"></a>Viana C.D., Endlein A., Grohmann, C.H., Monticelli J.P., Campanha, G.A.C., 2019. SfM-MVS digital models applied to rock surface roughness. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:560-566. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
 *download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_SfM_Surface.pdf) 
@@ -107,27 +124,10 @@ Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https:
 <a name="isrm_slope"></a>Viana C.D., Grohmann, C.H., Monticelli J.P., Garcia, G.P.B., Albuquerque. R.W., Cacciari, P.P., Futai, M.M., 2019. Slope stability assessment based on a digital outcrop model: A case-study at Jardim Garcia quarry. In: Fontoura, Rocca & Pavón Mendoza (Eds) _Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers: Proceedings of the 14th International Congress on Rock Mechanics and Rock Engineering (ISRM 2019)_, September 13-18, 2019, Foz do Iguassu, Brazil. p.:3604-3611. ISBN 978-0-367-42284-4. Book available from [CRC Press](https://www.crcpress.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367422844)  
 *download:* [Poster]({{site.baseurl}}/pub/ISRM2019/ISRM2019_Poster_PedreiraGarcia.pdf) 
 
-<a name="sbsr_litchi"></a>Grohmann, C.H.; Viana, C.D.; Garcia, G.P.B; Albuquerque, R.W.; Barale, F.; Ferretti, F.A., 2019. Semi-Automatic UAV-based SfM survey of vertical surfaces. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Presentation]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_presentation.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Grohmann_etal_2019_SBSR_sfm_vertical_surfaces_litchi_paper.pdf)  
-
-<a name="sbsr_cunha"></a>Garcia, G.P.B; Gomes, E.B.; Viana, C.D.; Grohmann, C.H., 2019. Comparing Terrestrial Laser Scanner and UAV-based photogrammetry to generate a landslide DEM. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Garcia_etal_2019_SBSR_tls_uav_landslide_paper.pdf)  
-
-<a name="sbsr_relogio"></a>Barale, F.; Grohmann, C.H., 2019. Photoscan x COLMAP: comparação entre DEMs gerados por Structure from Motion--Multi-View Stereo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Barale_Grohmann_2019_SBSR_photoscan_colmap_paper.pdf)  
-
-<a name="sbsr_car"></a>Albuquerque, R.W.; Ferreira, M.E.; Girão, V.J.; Balieiro, C.P.; Mansur, H.; Costa, J.V.S.; Grohmann, C.H., 2019. Comparação de RPAS e TOPODATA no mapeamento de regiões declivosas previstas no Cadastro Ambiental Rural. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
-
-<a name="sbsr_alturas"></a>Santos, L.F.; Grohmann, C.H., 2019. Processamento fotogramétrico digital por Structure from Motion de imagens obtidas em voos de diferentes alturas sobre o solo. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
-*download:* [Poster]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_poster.pdf) | [Paper]({{site.baseurl}}/pub/SBSR2019/Santos_Grohmann_2019_SBSR_vant_alturas_voos_paper.pdf)  
 
 
 &nbsp;
 ## 2018 
-<a name="bjgeo_camila"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
-[https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
-
 <!-- <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_   -->
 <!-- Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access) -->
 
@@ -138,15 +138,17 @@ Available at PeerJ Preprints  [https://doi.org/10.7287/peerj.preprints.27060v1](
 [https://doi.org/10.1016/j.rse.2018.04.043](https://doi.org/10.1016/j.rse.2018.04.043)  
 Preprint available at [arXiv:1709.05016](https://arxiv.org/abs/1709.05016) [physics.geo-ph] (open access)
 
+<a name="bjgeo_camila"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
+[https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
 
 &nbsp;
 ## 2016 
-<a name="rauen2016"></a>Rauen, V.A.B., Grohmann, C.H., Goveia, S.S., Mioto, C.L., Marini, L.B., Paranhos Filho, A.C., Almeida, M.H.T., 2016. Geotecnologias na Determinação da Vulnerabilidade à Ocorrência de Vazamentos em Redes de Abastecimento de Água. _Geociências (São Paulo)_. 35:414-425  
-[http://www.revistageociencias.com.br](http://www.revistageociencias.com.br/35/volume35_3.html) (open access)  
-
 <a name="gdem_isprs"></a>Grohmann, C.H., 2016. Comparative Analysis of Global Digital Elevation Models and Ultra-Prominent Mountain Peaks. _ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences_. III-4:17-23  
 [http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016](http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016) (open access)  
 python script available on [GitHub](https://github.com/CarlosGrohmann/scripts_papers)  
+
+<a name="rauen2016"></a>Rauen, V.A.B., Grohmann, C.H., Goveia, S.S., Mioto, C.L., Marini, L.B., Paranhos Filho, A.C., Almeida, M.H.T., 2016. Geotecnologias na Determinação da Vulnerabilidade à Ocorrência de Vazamentos em Redes de Abastecimento de Água. _Geociências (São Paulo)_. 35:414-425  
+[http://www.revistageociencias.com.br](http://www.revistageociencias.com.br/35/volume35_3.html) (open access)  
 
 <a name="viana2016"></a>Viana, C.D., Endlein, A., Campanha, G.A.C., Grohmann, C.H., 2016. Algorithms for Extraction of Structural Attitudes from 3D Outcrop Models, _Computers & Geosciences_. 90:112-122
 [http://dx.doi.org/10.1016/j.cageo.2016.02.017](http://dx.doi.org/10.1016/j.cageo.2016.02.017)  
