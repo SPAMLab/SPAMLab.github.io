@@ -17,7 +17,7 @@ Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/
 Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
 
 <a name="lucas_himalaia"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.   
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net. 
 
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
@@ -38,6 +38,7 @@ Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Ma
 Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest.  
 _Remote Sensing_, 13(12):2401.  
 [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
+
 <a name="landslides_helen_pca5017"></a>
 Dias, H.C., Sandre, L.H., Alarcón, D.A.S., Grohmann, C.H., Quintanilha, J.A. - Landslide recognition using SVM, Random Forest, and Maximum Likelihood classifiers on high-resolution satellite images: A case study of Itaóca, southeastern Brazil. _Brazilian Journal of Geology_, 51(4):839-852.  
 [http://dx.doi.org/10.1590/2317-4889202120200105](http://dx.doi.org/10.1590/2317-4889202120200105) (open access)  
@@ -51,6 +52,7 @@ _Geosciences_, 11(10):425.
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
 _Natural Hazards_  
 [https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
+
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 ([link](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges))  
 
@@ -63,6 +65,7 @@ _Marine Environmental Research_, 163:105219.
 Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
 _Remote Sensing_, 13(18):3581.  
 [https://doi.org/10.3390/rs13183581](https://doi.org/10.3390/rs13183581) (open access)    
+
 <a name="demix_isprs"></a>
 Strobl, P.A., Bielski, C., Guth, P.L., Grohmann, C.H., Muller, J.-P., López-Vázquez, C., Gesch, D.B., Amatulli, G., Riazanoff, S., and Carabajal, C., 2021 - The Digital Elevation Model Intercomparison EXperiment DEMIX, a community-based approach at global DEM benchmarking.  
 Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2021, 395–400  
