@@ -43,10 +43,6 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Alynne Almeida Affonso</b> (<a href="http://orcid.org/0000-0002-2646-3922">ORCiD</a> | <a href="http://lattes.cnpq.br/3330746311709629">Lattes CV</a>) - High-resolution remote sensing of <i>igapó</i> forests in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. </td> 
   </tr> 
   <tr>
-    <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Camila Duelis Viana</b> (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
-  </tr>
-  <tr>
     <td width="17%"> <img src="/img/people/guilherme.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Guilherme Pereira Bento Garcia</b> (<a href="http://orcid.org/0000-0003-1209-7842">ORCiD</a> | <a href="http://lattes.cnpq.br/8143036335035110">Lattes CV</a>) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models. </td> 
   </tr>
@@ -123,6 +119,12 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 ## Former Students
 
 <table class="table-borderless" style="width:100%">
+
+  <tr>
+    <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Camila Duelis Viana</b> (PhD 2017-2021) (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
+  </tr>
+
 <tr>
     <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Elton Barbosa Gomes</b> (undergrad 2018) - Stability analysis of mass movement-prone areas based on High-resolution Digital Terrain Models.
