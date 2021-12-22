@@ -4,6 +4,11 @@ title: Datasets
 subtitle: Talk is cheap. Show us the data
 published: true
 ---
+Grohmann, C.H., 2021. Lagoinha Landslide, São Paulo State, Brazil. UAV Image Collection.  
+_GeoNadir.com_    
+Data provided by FAPESP grant [2016/06628-0](http://www.bv.fapesp.br/en/auxilios/96792/application-of-high-resolution-digital-elevation-models-in-geology-and-geomorphology/).  
+[https://data.geonadir.com/project-details/339](https://data.geonadir.com/project-details/339)  
+
 Grohmann, C.H., Garcia, G.P.B., Affonso, A.A., Albuquerque, R.W., 2019. Garopaba Dune Field, Santa Catarina State, Brazil. TLS point cloud.  
 _OpenTopography.org_ opentopoID: OTDS.102019.32722.1  
 Data provided by FAPESP grant [2016/06628-0](http://www.bv.fapesp.br/en/auxilios/96792/application-of-high-resolution-digital-elevation-models-in-geology-and-geomorphology/).  

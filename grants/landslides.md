@@ -4,6 +4,8 @@ title: Landslides
 subtitle: 
 ---
 #### News:
+[[publication](/pages/publications/index.html#landslides_helen_pca5017)]: Paper published in the [_Brazilian Journal of Geology_](http://dx.doi.org/10.1590/2317-4889202120200105)  
+[[publication](/pages/publications/index.html#helen_inventory_geosc)]: Paper published in [_Geosciences_](https://doi.org/10.3390/geosciences11100425)  
 [[publication](/pages/publications/index.html#landslides_helen_msc)]: Paper published in [_Natural Hazards_](https://doi.org/10.1007/s11069-021-04676-y)  
 [[publication](/pages/publications/index.html#isl_helen)]: Paper presented at the [_XIII International Symposium on Landslides_](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges)  
 <!-- [[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV -->

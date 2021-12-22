@@ -38,7 +38,7 @@ And here is an interactive 3D model of the outcrop (via sketchfab).
 #### Spammers:  
 **Mariana dos Santos Toledo Busarello** (undergrad 2017) - For her monograph, Mariana worked with the 3D reconstruction of the outcrop with SfM-MVS, acquiring structural data from the clastic dikes with ply2atti and compared the data from the 3D model with data collected in the field.  
 
-**Camila Duelis Viana** (PhD) - Camila acted as co-supervisor of Mariana's Bachelor degree final paper. Her experience with structural analysis from 3D models was essential for the successful development of the project.   
+**Camila Duelis Viana** (PhD 2017-2021) - Camila acted as co-supervisor of Mariana's Bachelor degree final paper. Her experience with structural analysis from 3D models was essential for the successful development of the project.   
 
 **Guilherme P. Bento Garcia** (PhD) - Even though this project is not directly related to his PhD, Guilherme helped us in all field campaigns and in the discussions of the results.  
 

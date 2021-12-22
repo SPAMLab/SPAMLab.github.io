@@ -63,10 +63,10 @@ Interactive 3D model of the outcrop (via sketchfab)
 
 
 #### Spammers:
-**Camila Duelis Viana (PhD)**  
+**Camila Duelis Viana** (PhD 2017-2021)  
 Camila is leading the project. She is responsible for generating the 3D models and developing the code for automatic detection of faults and fractures. As part of her PhD duties, she is also involved with supervision of undergrad students.
 
-**Fernanda A. Ferretti (undergrad 2018)**  
+**Fernanda A. Ferretti** (undergrad 2018)  
 For her undergraduate degree monograph, Fernanda worked with an abandoned basalt quarry (now a city park). She used structural data obtained from the 3D models to evaluate the slope stability.  
 
 
