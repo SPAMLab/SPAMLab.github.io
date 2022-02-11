@@ -136,6 +136,8 @@ make distclean
 
 Rode o configure de novo e compile. 
 
+E aí? Deu certo? Deixa um comentário aqui ou no YouTube!
+
 
 
 
