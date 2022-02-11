@@ -122,7 +122,9 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
   <tr>
     <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Camila Duelis Viana</b> (PhD 2017-2021) (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection </td> 
+    <td width="83%"> <b>Camila Duelis Viana</b> (PhD 2017-2021) (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection.<br> 
+    PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
+    DOI: <a href="https://doi.org/10.11606/T.44.2021.tde-18012022-122057">https://doi.org/10.11606/T.44.2021.tde-18012022-122057</a> </td> 
   </tr>
 
 <tr>
