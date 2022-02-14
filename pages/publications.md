@@ -16,19 +16,26 @@ Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/
 <a name="cuha_guilherme"></a> 
 Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
 
-<a name="lucas_himalaia"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net. 
-
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
 
 <a name="lucas_unet"></a>
-Soares, L.P., Dias, H.C., Grohmann, C.H. - Landslide Segmentation with U-Net: Evaluating Different Sampling Methods and Patch Sizes.  
-Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access) 
+Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
+<!-- Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  -->
 
 
 
+&nbsp;
+## 2022
+<a name="rafael_dl_amaz"></a>
+Albuquerque, R.W., Vieira, D.L.M., Ferreira, M.E., Soares, L.P., Olsen, S.I., Araujo, L.S., Vicente, L.E., Tymus, J.R.C., Balieiro, C.P., Matsumoto, M.H., Grohmann, C.H.,2022 -  Mapping Key Indicators of Forest Restoration in the Amazon Using a Low-Cost Drone and Artificial Intelligence.  
+_Remote Sensing_, 14(4):830.  
+[https://doi.org/10.3390/rs14040830](https://doi.org/10.3390/rs14040830) (open access)    
 
+
+<a name="lucas_himalaia"></a>
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
+_Landslides_ (accepted)
 
 
 &nbsp;

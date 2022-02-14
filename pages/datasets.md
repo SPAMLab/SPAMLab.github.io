@@ -4,6 +4,12 @@ title: Datasets
 subtitle: Talk is cheap. Show us the data
 published: true
 ---
+
+Grohmann, C.H. and Gomes, F., 2022. Digital Terrain and Surface Models of São Paulo.  
+_Kaggle_  
+[https://doi.org/10.34740/KAGGLE/DS/1915612](https://doi.org/10.34740/KAGGLE/DS/1915612)
+
+
 Grohmann, C.H., 2021. Lagoinha Landslide, São Paulo State, Brazil. UAV Image Collection.  
 _GeoNadir.com_    
 Data provided by FAPESP grant [2016/06628-0](http://www.bv.fapesp.br/en/auxilios/96792/application-of-high-resolution-digital-elevation-models-in-geology-and-geomorphology/).  
