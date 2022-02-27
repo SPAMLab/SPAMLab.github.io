@@ -27,15 +27,16 @@ Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentatio
 
 &nbsp;
 ## 2022
+<a name="lucas_himalaia"></a>
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
+_Landslides_  
+[https://doi.org/10.1007/s10346-022-01861-3](https://doi.org/10.1007/s10346-022-01861-3) (open access)    
+
+
 <a name="rafael_dl_amaz"></a>
 Albuquerque, R.W., Vieira, D.L.M., Ferreira, M.E., Soares, L.P., Olsen, S.I., Araujo, L.S., Vicente, L.E., Tymus, J.R.C., Balieiro, C.P., Matsumoto, M.H., Grohmann, C.H.,2022 -  Mapping Key Indicators of Forest Restoration in the Amazon Using a Low-Cost Drone and Artificial Intelligence.  
 _Remote Sensing_, 14(4):830.  
 [https://doi.org/10.3390/rs14040830](https://doi.org/10.3390/rs14040830) (open access)    
-
-
-<a name="lucas_himalaia"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
-_Landslides_ (accepted)
 
 
 &nbsp;

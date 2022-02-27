@@ -21,22 +21,24 @@ We'll keep this page updated with all the videos (including those not made by us
 - Publicando Ciência #10 - [O erro que todos cometemos nas figuras e gráficos ](https://youtu.be/_IUh0cQRun8)  
 - Publicando Ciência #09 - [Periódicos Predatórios ](https://youtu.be/DS0HydVh8Bg)  
 - Publicando Ciência #08 - [Preprints e Postprints - Acesso Aberto Verde ](https://youtu.be/VKj0NwHxY7E)  
-- Publicando ciência #07 - [O quê é ORCiD? Precisa mesmo ter um? (SIM!)](https://www.youtube.com/embed/vnAeelLZ--0)  
-- Publicando ciência #06 - [Análise de plágio de artigos científicos](https://www.youtube.com/embed/ZpEX6JTQU1o)  
-- Publicando ciência #05 - [Submissão de artigo no SciELO / ScholarOne](https://www.youtube.com/embed/9sm-BeWanUo)  
-- Publicando ciência #04 - [Tudo sobre Acesso Aberto (Open Access)](https://www.youtube.com/embed/Gx5JYjxyg5Y)  
-- Publicando ciência #03 - [Submissão de artigo no OJS](https://www.youtube.com/embed/6OAXx7KFxs0)  
-- Publicando ciência #02 - [Preparando a submissão do artigo](https://www.youtube.com/embed/cDS1_q8FxLU)  
-- Publicando ciência #01 - [Como funciona a revisão de um artigo científico?](https://www.youtube.com/embed/Q8c5bVG7fn4)  
+- Publicando ciência #07 - [O quê é ORCiD? Precisa mesmo ter um? (SIM!) ](https://www.youtube.com/embed/vnAeelLZ--0)  
+- Publicando ciência #06 - [Análise de plágio de artigos científicos ](https://www.youtube.com/embed/ZpEX6JTQU1o)  
+- Publicando ciência #05 - [Submissão de artigo no SciELO / ScholarOne ](https://www.youtube.com/embed/9sm-BeWanUo)  
+- Publicando ciência #04 - [Tudo sobre Acesso Aberto (Open Access) ](https://www.youtube.com/embed/Gx5JYjxyg5Y)  
+- Publicando ciência #03 - [Submissão de artigo no OJS ](https://www.youtube.com/embed/6OAXx7KFxs0)  
+- Publicando ciência #02 - [Preparando a submissão do artigo ](https://www.youtube.com/embed/cDS1_q8FxLU)  
+- Publicando ciência #01 - [Como funciona a revisão de um artigo científico? ](https://www.youtube.com/embed/Q8c5bVG7fn4)  
 <br>
 
 **Série Dicas do Guâno**  
-- [Copermicus DEM - download por FTP](https://youtu.be/WhK7kRyMMRc)  
-- [Copernicus DEM - como baixar e qual baixar (DTED ou DGED?)](https://youtu.be/_1giv7vpxhc)  
-- [ANÁLISE - Qual o melhor MDE gratuito e global?](https://youtu.be/rltgCF7R6wg)  
-- [O artigo mais importante sobre Modelos de Elevação](https://youtu.be/YQQY6LIxosU)  
-- [DEMIX - The Digital Elevation Model Intercomparison EXperiment](https://youtu.be/veZA4O1rU2)  
-- [3 dicas de ouro para SIG!](https://www.youtube.com/embed/Tt7cx2Oazj4)  
+- [ANÁLISE - Qual o melhor MDE gratuito e global? ](https://youtu.be/rltgCF7R6wg)  
+- [GRASS e QGIS no Mac! Como instalar sem complicações!! ](https://youtu.be/sSXQnMnbP9I)  
+- [Copermicus DEM - download por FTP ](https://youtu.be/WhK7kRyMMRc)  
+- [Copernicus DEM - como baixar e qual baixar (DTED ou DGED?) ](https://youtu.be/_1giv7vpxhc)  
+- [O artigo mais importante sobre Modelos de Elevação ](https://youtu.be/YQQY6LIxosU)  
+- [DEMIX - The Digital Elevation Model Intercomparison EXperiment ](https://youtu.be/veZA4O1rU2)  
+- [3 dicas de ouro para SIG! ](https://www.youtube.com/embed/Tt7cx2Oazj4)  
+- [Testei o Microfone FIFINE AMPLIGAME RGB! (MELHOR custo-benefício) ](https://youtu.be/htNW6Jwd5TQ)  
 <br>
 
 **Aulas QGIS**
@@ -75,24 +77,26 @@ We'll keep this page updated with all the videos (including those not made by us
 - GRASS GIS 09 - [Sensoriamento Remoto 01 ](https://youtu.be/RWKlvYh5EJc)
 - GRASS GIS 10 - [Sensoriamento Remoto 02 ](https://youtu.be/_B_fwlkR85w)
 - GRASS GIS 11 - [Análise Digital de Terreno ](https://youtu.be/21ksUZSgbY8)
+- GRASS GIS 12 - [Preview da versão 8.0 ](https://youtu.be/-uRrN-ZH-wQ)
+- GRASS GIS 13 - [Compilação no Linux ](https://youtu.be/wBCgtVSVXAc)
 <br>
 
 **Lives**
 - [Live Geocast - O fascinante mundo do GRASS-GIS ](https://youtu.be/_pohWjE4eiA)
-- [Ao Vivo no YouTube #6 - O Fascinante Mundo do GRASS](https://youtu.be/vp6frd89y9E)
-- [Ao Vivo no YouTube #11 - Aplicações do Python para o GRASS com o Prof. Carlos Grohmann](https://youtu.be/Zr3u9Y9EqMc)
-- [GGEO Live - 3D Cave Mapping](https://www.youtube.com/embed/U73C-In4dfs)  
+- [Ao Vivo no YouTube #6 - O Fascinante Mundo do GRASS ](https://youtu.be/vp6frd89y9E)
+- [Ao Vivo no YouTube #11 - Aplicações do Python para o GRASS com o Prof. Carlos Grohmann ](https://youtu.be/Zr3u9Y9EqMc)
+- [GGEO Live - 3D Cave Mapping ](https://www.youtube.com/embed/U73C-In4dfs)  
 <br>
 
 **Outros vídeos nossos**
-- [MS GRSS IEEE Student Chapter - Mathematical morphology in processing and analysis of the Digital Elevation Models](https://www.youtube.com/embed/XbZrg97AJA8)
-- [MS GRSS IEEE Student Chapter - UAV Remote Sensing](https://www.youtube.com/embed/U73C-In4dfs) With the participacion of our PhD student Camila Viana!  
-- [Garopaba dunes 3D model flight](https://www.youtube.com/embed/e4GEeGfH_ps)  
-- [Repórter ECO - mapeamento 3D da Caverna do Diabo](https://www.youtube.com/embed/nNgyycUB0j0?start=1193)  
-- [Sensoriamento Remoto no estudo de deslizamentos de terra](https://www.youtube.com/embed/vgR69PpUadk)  
-- [Comparativo de inventários de deslizamentos de terra](https://www.youtube.com/embed/Qq0pb4fWxaA)  
-- [Uso de drones em recuperação florestal](https://www.youtube.com/embed/OvqemJBT_L4)  
-- [Pesquisadores realizam mapeamento 3D da Caverna do Diabo](https://www.youtube.com/embed/GAReBMfJetY) (by [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/))  
-- [Garopaba dune field - fieldwork with Laser Scanner and UAV](https://www.youtube.com/embed/rATNm1UiQjc)  
-- [Devil's Cave - Second video with the full point cloud (1 billion points)](https://www.youtube.com/embed/giInjKLo17A)  
-- [Devil's Cave - First video of the simplified point cloud (17 million points)](https://www.youtube.com/embed/m2YZiTzs0yY)  
+- [MS GRSS IEEE Student Chapter - Mathematical morphology in processing and analysis of the Digital Elevation Models ](https://www.youtube.com/embed/XbZrg97AJA8)
+- [MS GRSS IEEE Student Chapter - UAV Remote Sensing ](https://www.youtube.com/embed/U73C-In4dfs) With the participacion of our PhD student Camila Viana!  
+- [Garopaba dunes 3D model flight ](https://www.youtube.com/embed/e4GEeGfH_ps)  
+- [Repórter ECO - mapeamento 3D da Caverna do Diabo ](https://www.youtube.com/embed/nNgyycUB0j0?start=1193)  
+- [Sensoriamento Remoto no estudo de deslizamentos de terra ](https://www.youtube.com/embed/vgR69PpUadk)  
+- [Comparativo de inventários de deslizamentos de terra ](https://www.youtube.com/embed/Qq0pb4fWxaA)  
+- [Uso de drones em recuperação florestal ](https://www.youtube.com/embed/OvqemJBT_L4)  
+- [Pesquisadores realizam mapeamento 3D da Caverna do Diabo ](https://www.youtube.com/embed/GAReBMfJetY) (by [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/))  
+- [Garopaba dune field - fieldwork with Laser Scanner and UAV ](https://www.youtube.com/embed/rATNm1UiQjc)  
+- [Devil's Cave - Second video with the full point cloud (1 billion points) ](https://www.youtube.com/embed/giInjKLo17A)  
+- [Devil's Cave - First video of the simplified point cloud (17 million points) ](https://www.youtube.com/embed/m2YZiTzs0yY)  
