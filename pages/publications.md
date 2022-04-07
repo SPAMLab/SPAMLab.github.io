@@ -27,11 +27,14 @@ Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentatio
 
 &nbsp;
 ## 2022
+<a name="lucas_chines"></a>
+Xu, G., Wang, Y., Wang, L., Soares, L.P., & Grohmann, C.H., 2022. Feature-based constraint deep CNN method for mapping rainfall-induced landslides in remote regions with mountainous terrain: An application to Brazil.  
+_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 15. [https://doi.org/10.1109/JSTARS.2022.3161383](https://doi.org/10.1109/JSTARS.2022.3161383)  
+
 <a name="lucas_himalaia"></a>
 Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
 _Landslides_  
 [https://doi.org/10.1007/s10346-022-01861-3](https://doi.org/10.1007/s10346-022-01861-3) (open access)    
-
 
 <a name="rafael_dl_amaz"></a>
 Albuquerque, R.W., Vieira, D.L.M., Ferreira, M.E., Soares, L.P., Olsen, S.I., Araujo, L.S., Vicente, L.E., Tymus, J.R.C., Balieiro, C.P., Matsumoto, M.H., Grohmann, C.H.,2022 -  Mapping Key Indicators of Forest Restoration in the Amazon Using a Low-Cost Drone and Artificial Intelligence.  

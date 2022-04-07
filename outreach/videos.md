@@ -18,6 +18,7 @@ We'll keep this page updated with all the videos (including those not made by us
 
 **Série Publicando Ciência** 
 
+- Publicando Ciência #11 - [MDPI: predatória ou não?](https://youtu.be/Cn2lUWj9y3A)  
 - Publicando Ciência #10 - [O erro que todos cometemos nas figuras e gráficos ](https://youtu.be/_IUh0cQRun8)  
 - Publicando Ciência #09 - [Periódicos Predatórios ](https://youtu.be/DS0HydVh8Bg)  
 - Publicando Ciência #08 - [Preprints e Postprints - Acesso Aberto Verde ](https://youtu.be/VKj0NwHxY7E)  
@@ -32,8 +33,11 @@ We'll keep this page updated with all the videos (including those not made by us
 
 **Série Dicas do Guâno**  
 - [ANÁLISE - Qual o melhor MDE gratuito e global? ](https://youtu.be/rltgCF7R6wg)  
+- [FABDEM: um modelo de TERRENO de cobertura global?](https://youtu.be/1QbYTCniepk)  
+- [MDE de 10m com UMA imagem Sentinel?](https://youtu.be/0-6itRD792w)  
+- [QGIS - Plugin para baixar MDEs](https://youtu.be/1gsV_wyfWJY)  
 - [GRASS e QGIS no Mac! Como instalar sem complicações!! ](https://youtu.be/sSXQnMnbP9I)  
-- [Copermicus DEM - download por FTP ](https://youtu.be/WhK7kRyMMRc)  
+- [Copernicus DEM - download por FTP ](https://youtu.be/WhK7kRyMMRc)  
 - [Copernicus DEM - como baixar e qual baixar (DTED ou DGED?) ](https://youtu.be/_1giv7vpxhc)  
 - [O artigo mais importante sobre Modelos de Elevação ](https://youtu.be/YQQY6LIxosU)  
 - [DEMIX - The Digital Elevation Model Intercomparison EXperiment ](https://youtu.be/veZA4O1rU2)  
