@@ -4,6 +4,13 @@ title: Datasets
 subtitle: Talk is cheap. Show us the data
 published: true
 ---
+
+
+This page has direct links to large datasets (point clouds, RPA images). If you are looking for the scripts and codes that go alogn with our articles, they are in GitHub, both in the [SPAMLab Repo](https://github.com/SPAMLab/data_sharing) and in [Prof. Grohmann's Repo](https://github.com/CarlosGrohmann/scripts_papers).  
+&nbsp;&nbsp;
+
+
+
 Grohmann, C.H. and Gomes, F., 2022. Digital Terrain and Surface Models of São Paulo.  
 _Kaggle_  
 [https://doi.org/10.34740/KAGGLE/DS/1915612](https://doi.org/10.34740/KAGGLE/DS/1915612)
