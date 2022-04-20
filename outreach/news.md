@@ -9,6 +9,11 @@ published: true
 Links to various media news articles about our projects.  
 <br>
 
+Landslides and Geological Risk ([see project](/grants/landslides))
+ - [GeoNadir - How drones are improving landslide risk management in Brazil](https://geonadir.com/drones-landslide-risk-management/)
+
+<br>
+
 3D mapping of Devil's Cave ([see project](/grants/cave_3d_tapagem))
  - ‪[Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/)
 
