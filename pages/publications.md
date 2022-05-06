@@ -19,14 +19,15 @@ Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial L
 <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
 
-<a name="lucas_unet"></a>
-Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
-<!-- Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  -->
-
-
-
 &nbsp;
 ## 2022
+<a name="lucas_unet"></a>
+Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
+_Remote Sensing_, 14(9):2237.  
+[https://doi.org/10.3390/rs14092237](https://doi.org/10.3390/rs14092237) (open access)    
+
+<!-- Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  -->
+
 <a name="lucas_chines"></a>
 Xu, G., Wang, Y., Wang, L., Soares, L.P., & Grohmann, C.H., 2022. Feature-based constraint deep CNN method for mapping rainfall-induced landslides in remote regions with mountainous terrain: An application to Brazil.  
 _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 15. [https://doi.org/10.1109/JSTARS.2022.3161383](https://doi.org/10.1109/JSTARS.2022.3161383)  
