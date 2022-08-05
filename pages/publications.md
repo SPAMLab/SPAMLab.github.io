@@ -9,15 +9,18 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## in revision
+<a name="guilherme_dl_caragua"></a> 
+Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H. - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.
+Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
+
+
 <a name="alynne_pca5017"></a>
 Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
 Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
 
-<a name="cuha_guilherme"></a> 
-Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
-
-<a name="praias_natal_pca5017"></a>
+<!-- <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
+ -->
 
 &nbsp;
 ## 2022
