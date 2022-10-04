@@ -25,7 +25,7 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 
 <table class="table-borderless" style="width:100%">
   <tr>
-    <td width="17%"> <img src="/img/people/anderson.jpg" class="img-circle" width="99%"> </td>
+    <td width="17%"> <img src="/img/people/vivian.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Vivian Cristina Dias (2022-??)</b> (<a href="http://orcid.org/0000-0003-4783-2632">ORCiD</a> | <a href="http://lattes.cnpq.br/3251107283245784">Lattes CV</a>) - Mapping and classification of watersheds affected by hydro geomorphological processes in the Serra do Mar Paulista: foundation for planning and mitigation actions. <br> scholarship: FAPESP grant [#2022/04233-9](https://bv.fapesp.br/55162)  </td> 
   </tr>
   <tr>
