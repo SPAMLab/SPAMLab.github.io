@@ -13,22 +13,29 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H. - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.
 Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
 
-
-<a name="alynne_pca5017"></a>
-Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
-Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access) 
-
 <!-- <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
  -->
 
 &nbsp;
 ## 2022
+<a name="cunha_guilherme"></a> 
+Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
+_Bulletin of Geodetic Sciences_ (aceito)  
+
+<a name="alynne_pca5017"></a>
+Affonso, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Tracking Land Use and Land Cover Changes in the Volta Grande Do Xingu (PARÁ - Brazil) Between 2000 and 2017 Through Three Pixel-Based Classification Methods7.  
+_IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium_, 5630-5633. [https://doi.org/10.1109/IGARSS46834.2022.9884422](https://doi.org/10.1109/IGARSS46834.2022.9884422)  
+<!-- Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access)  -->
+
+<a name="rafael_protocol"></a>
+Albuquerque, R.W., Matsumoto, M., Calmon, M., Ferreira, M., Vieira, D., Grohmann, C.H., 2022. A protocol for canopy cover monitoring on forest restoration projects using low-cost drones.  
+_Open Geosciences_, 14(1), 921-929. [https://doi.org/10.1515/geo-2022-0406](https://doi.org/10.1515/geo-2022-0406) (open access)  
+
 <a name="lucas_unet"></a>
-Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
+Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H., 2022 - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
 _Remote Sensing_, 14(9):2237.  
 [https://doi.org/10.3390/rs14092237](https://doi.org/10.3390/rs14092237) (open access)    
-
 <!-- Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  -->
 
 <a name="lucas_chines"></a>
