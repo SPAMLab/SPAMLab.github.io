@@ -17,7 +17,7 @@ We'll keep this page updated with all the videos (including those not made by us
 &nbsp;&nbsp;
 
 **Série Publicando Ciência** 
-
+- Publicando Ciência #14 - [Como fazer apresentações nota 10!](https://youtu.be/liWwSTnqv7g)  
 - Publicando Ciência #13 - [Fator de Impacto, Índice-H, Qualis](https://youtu.be/Li3K4gOx1_Y)  
 - Publicando Ciência #12 - ["A" CAPES ou "O" CAPES? "O" CNPq ou "A" CNPq?](https://youtu.be/fdsV0MGoAIc)  
 - Publicando Ciência #11 - [MDPI: predatória ou não?](https://youtu.be/Cn2lUWj9y3A)  
@@ -108,6 +108,7 @@ We'll keep this page updated with all the videos (including those not made by us
 **Outros vídeos nossos**
 - [MS GRSS IEEE Student Chapter - Mathematical morphology in processing and analysis of the Digital Elevation Models ](https://www.youtube.com/embed/XbZrg97AJA8)
 - [MS GRSS IEEE Student Chapter - UAV Remote Sensing ](https://www.youtube.com/embed/U73C-In4dfs) With the participacion of our PhD student Camila Viana!  
+- [Drone ajuda a prevenir as tragédias das chuvas](https://youtu.be/8rpZNWbAgGA)
 - [Garopaba dunes 3D model flight ](https://www.youtube.com/embed/e4GEeGfH_ps)  
 - [Repórter ECO - mapeamento 3D da Caverna do Diabo ](https://www.youtube.com/embed/nNgyycUB0j0?start=1193)  
 - [Sensoriamento Remoto no estudo de deslizamentos de terra ](https://www.youtube.com/embed/vgR69PpUadk)  
