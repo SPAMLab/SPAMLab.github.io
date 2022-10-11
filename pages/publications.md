@@ -20,11 +20,11 @@ Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - C
 &nbsp;
 ## 2022
 <a name="cunha_guilherme"></a> 
-Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
-_Bulletin of Geodetic Sciences_ (aceito)  
+Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H., 2022. Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
+_Bulletin of Geodetic Sciences_, 28(03). [https://doi.org/10.1590/s1982-21702022000300016](https://doi.org/10.1590/s1982-21702022000300016) (open access)  
 
 <a name="alynne_pca5017"></a>
-Affonso, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Tracking Land Use and Land Cover Changes in the Volta Grande Do Xingu (PARÁ - Brazil) Between 2000 and 2017 Through Three Pixel-Based Classification Methods7.  
+Affonso, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A., 2022. Tracking Land Use and Land Cover Changes in the Volta Grande Do Xingu (PARÁ - Brazil) Between 2000 and 2017 Through Three Pixel-Based Classification Methods7.  
 _IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium_, 5630-5633. [https://doi.org/10.1109/IGARSS46834.2022.9884422](https://doi.org/10.1109/IGARSS46834.2022.9884422)  
 <!-- Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access)  -->
 
