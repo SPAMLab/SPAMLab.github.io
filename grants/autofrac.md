@@ -5,14 +5,15 @@ subtitle: Automatic identification of geological structures in 3D models
 published: true
 ---
 #### News:
-
+[[repository](https://github.com/SPAMLab/jd-garcia-quarry)] - Github repo with RPA images, 3D meshes and point clouds  
+[[thesis](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php)] - Camila D. Viana PhD thesis  
 [[3D model](https://skfb.ly/6GMXw)] - A 3D model of the quarry is now available at Sketchfab!   
 [[blog post](/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV  
 &nbsp;
 &nbsp;
 
 #### About:
-In this project we use digital photogrammetry (SfM) with multiscale terrestrial and UAV images in various geological environments in order to extract brittle structures parameters (fractures and faults) of rock massifs, comparing with classic data sampling (scanlines, area sampling, circular window) assessing the limitations that may exist and proposing solutions.  
+In this project we used digital photogrammetry (SfM) with multiscale terrestrial and UAV images in various geological environments in order to extract brittle structures parameters (fractures and faults) of rock massifs, comparing with classic data sampling (scanlines, area sampling, circular window) assessing the limitations that may exist and proposing solutions.  
 &nbsp;
 &nbsp;
 

@@ -10,10 +10,14 @@ This page has direct links to large datasets (point clouds, RPA images). If you 
 &nbsp;&nbsp;
 
 
+Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., Barale, F., Ferretti, F.A., 2022. Jardim Garcia quarry. RPA images, 3D mesh and point coud.  
+_Zenodo_  
+[https://zenodo.org/badge/DOI/10.5281/zenodo.7220755.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.7220755.svg)  
+
 
 Grohmann, C.H. and Gomes, F., 2022. Digital Terrain and Surface Models of São Paulo.  
 _Kaggle_  
-[https://doi.org/10.34740/KAGGLE/DS/1915612](https://doi.org/10.34740/KAGGLE/DS/1915612)
+[https://doi.org/10.34740/KAGGLE/DS/1915612](https://doi.org/10.34740/KAGGLE/DS/1915612)  
 
 
 Grohmann, C.H., 2022. CEU Paz, São Paulo State, Brazil. UAV Image Collection.  
