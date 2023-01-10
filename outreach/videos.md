@@ -5,7 +5,7 @@ subtitle: Science at 30,000 words per second
 published: true
 ---
 ## Videos
-We have a [Youtube channel](https://www.youtube.com/c/SPAMLabUSP)!
+We have a [Youtube channel](https://www.youtube.com/@SPAMLabUSP)!
 
 Most of the videos are in Portuguese. 
 
@@ -16,11 +16,11 @@ We'll keep this page updated with all the videos (including those not made by us
 
 &nbsp;&nbsp;
 
-**Série Publicando Ciência** 
-- Publicando Ciência #14 - [Como fazer apresentações nota 10!](https://youtu.be/liWwSTnqv7g)  
-- Publicando Ciência #13 - [Fator de Impacto, Índice-H, Qualis](https://youtu.be/Li3K4gOx1_Y)  
-- Publicando Ciência #12 - ["A" CAPES ou "O" CAPES? "O" CNPq ou "A" CNPq?](https://youtu.be/fdsV0MGoAIc)  
-- Publicando Ciência #11 - [MDPI: predatória ou não?](https://youtu.be/Cn2lUWj9y3A)  
+**Série Publicando Ciência**  
+- Publicando Ciência #14 - [Como fazer apresentações nota 10! ](https://youtu.be/liWwSTnqv7g)  
+- Publicando Ciência #13 - [Fator de Impacto, Índice-H, Qualis ](https://youtu.be/Li3K4gOx1_Y)  
+- Publicando Ciência #12 - ["A" CAPES ou "O" CAPES? "O" CNPq ou "A" CNPq? ](https://youtu.be/fdsV0MGoAIc)  
+- Publicando Ciência #11 - [MDPI: predatória ou não? ](https://youtu.be/Cn2lUWj9y3A)  
 - Publicando Ciência #10 - [O erro que todos cometemos nas figuras e gráficos ](https://youtu.be/_IUh0cQRun8)  
 - Publicando Ciência #09 - [Periódicos Predatórios ](https://youtu.be/DS0HydVh8Bg)  
 - Publicando Ciência #08 - [Preprints e Postprints - Acesso Aberto Verde ](https://youtu.be/VKj0NwHxY7E)  
@@ -34,27 +34,32 @@ We'll keep this page updated with all the videos (including those not made by us
 <br>
 
 **Série Dicas do Guâno**  
-- [Processamento dados de DRONE com kit PPK e Emlid Studio](https://youtu.be/9_W8qV9ALVQ)  
-- [Nova ferramenta de perfil topográfico do QGIS](https://youtu.be/_H9mUnHBCic)  
-- [Dados LiDAR no Brasil - Download e visualização no QGIS](https://youtu.be/-ArDzgNT5MQ)  
-- [Hidrologia no GRASS e QGIS](https://youtu.be/o6iz79A-nt4)  
-- [Pós-processamento GNSS com Emlid Studio](https://youtu.be/DGQ2QvSLpVI)  
-- [Download das imagens Planet](https://youtu.be/ADgHtOt_oJQ)  
-- [Imagens Planet e plugin QGIS](https://youtu.be/IOXs180iFK4)  
-- [MDEs: problemas (artefatos) com projeção de LatLong para UTM](https://youtu.be/CZjS_F_Mj8w)  
-- [ANÁLISE - Qual o melhor MDE gratuito e global? ](https://youtu.be/rltgCF7R6wg)  
-- [FABDEM: um modelo de TERRENO de cobertura global?](https://youtu.be/1QbYTCniepk)  
-- [MDE de 10m com UMA imagem Sentinel?](https://youtu.be/0-6itRD792w)  
-- [QGIS - Plugin para baixar MDEs](https://youtu.be/1gsV_wyfWJY)  
-- [GRASS e QGIS no Mac! Como instalar sem complicações!! ](https://youtu.be/sSXQnMnbP9I)  
-- [Copernicus DEM - download por FTP ](https://youtu.be/WhK7kRyMMRc)  
-- [Copernicus DEM - como baixar e qual baixar (DTED ou DGED?) ](https://youtu.be/_1giv7vpxhc)  
-- [3 dicas de ouro para SIG! ](https://www.youtube.com/embed/Tt7cx2Oazj4)  
-- [Testei o Microfone FIFINE AMPLIGAME RGB! (MELHOR custo-benefício) ](https://youtu.be/htNW6Jwd5TQ)  
+- [Dica #21 - OpenDroneMap 2) Trabalhando com GCPs (pontos de controle) ](https://youtu.be/uyEz3tV_dak)  
+- [Dica #20 - OpenDroneMap 1) Gratuito e melhor que Metashape! ](https://youtu.be/abEk1yyxLcY)  
+- [Dica #19 - Processamento PPK no Metashape ](https://youtu.be/cZ3nxB3obwc)  
+- [Dica #18 - Processamento dados de DRONE com kit PPK e Emlid Studio ](https://youtu.be/9_W8qV9ALVQ)  
+- [Dica #18 - Nova ferramenta de perfil topográfico do QGIS ](https://youtu.be/_H9mUnHBCic)  
+- [Dica #17 - Dados LiDAR no Brasil - Download e visualização no QGIS ](https://youtu.be/-ArDzgNT5MQ)  
+- [Dica #16 - Hidrologia no GRASS e QGIS ](https://youtu.be/o6iz79A-nt4)  
+- [Dica #15 - Pós-processamento GNSS com Emlid Studio ](https://youtu.be/DGQ2QvSLpVI)  
+- [Dica #14 - ](https://youtu.be/)  
+- [Dica #13 - Download das imagens Planet ](https://youtu.be/ADgHtOt_oJQ)  
+- [Dica #12 - Imagens Planet e plugin QGIS ](https://youtu.be/IOXs180iFK4)  
+- [Dica #11 - MDEs: problemas (artefatos) com projeção de LatLong para UTM ](https://youtu.be/CZjS_F_Mj8w)  
+- [Dica #10 - Pixel não é o mesmo que Resolução Espacial ](https://youtu.be/5JyIGpLyWGI)  
+- [Dica #09 - FABDEM: um modelo de TERRENO de cobertura global? ](https://youtu.be/1QbYTCniepk)  
+- [Dica #08 - MDE de 10m com UMA imagem Sentinel? ](https://youtu.be/0-6itRD792w)  
+- [Dica #07 - QGIS - Plugin para baixar MDEs ](https://youtu.be/1gsV_wyfWJY)  
+- [Dica #06 - GRASS e QGIS no Mac! Como instalar sem complicações!! ](https://youtu.be/sSXQnMnbP9I)  
+- [Dica #05 - Copernicus DEM - download por FTP ](https://youtu.be/WhK7kRyMMRc)  
+- [Dica #04 - Copernicus DEM - como baixar e qual baixar (DTED ou DGED?) ](https://youtu.be/_1giv7vpxhc)  
+- [Dica #03 - ANÁLISE - Qual o melhor MDE gratuito e global? ](https://youtu.be/rltgCF7R6wg)  
+- [Dica #02 - O artigo mais importante sobre Modelos de Elevação ](https://youtu.be/YQQY6LIxosU)  
+- [Dica #01 - 3 dicas de ouro para SIG! ](https://www.youtube.com/embed/Tt7cx2Oazj4)  
+<!-- - [Testei o Microfone FIFINE AMPLIGAME RGB! (MELHOR custo-benefício) ](https://youtu.be/htNW6Jwd5TQ)   -->
 <br>
 
 **DEMIX project**
-- [O artigo mais importante sobre Modelos de Elevação ](https://youtu.be/YQQY6LIxosU)  
 - [DEMIX - The Digital Elevation Model Intercomparison EXperiment ](https://youtu.be/veZA4O1rU2)  
 <br>
 

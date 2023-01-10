@@ -18,6 +18,19 @@ Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - C
  -->
 
 &nbsp;
+## 2023
+<a name="alynne_class"></a> 
+Affonso, A.A., Mandai, S.S., Portella, T.P., Quintanilha, J.A., Conti, L.A., Grohmann, C.H., 2023 - A Comparison between Supervised Classification Methods: Study Case on
+Land Cover Change Detection Caused by a Hydroelectric Complex Installation in
+the Brazilian Amazon.  
+_Sustainability_, 15, 1309. [https://doi.org/10.3390/su15021309](https://doi.org/10.3390/su15021309) (open access)  
+
+<a name="methods_vertical"></a> 
+Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., 2023 - Remotely Piloted Aircraft‐based automated vertical surface survey.  
+_MethodsX_, 10, 101982. [https://doi.org/10.1016/j.mex.2022.101982](https://doi.org/10.1016/j.mex.2022.101982) (open access)  
+
+
+&nbsp;
 ## 2022
 <a name="cunha_guilherme"></a> 
 Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H., 2022. Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
