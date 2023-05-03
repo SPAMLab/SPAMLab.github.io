@@ -9,16 +9,20 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## in revision
-<a name="guilherme_dl_caragua"></a> 
-Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H. - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.
-Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
+<a name="demix_sg2"></a>
+Bielski, C., López-Vázquez, C., Grohmann, C.H., Guth, P.L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Reuter, H.I., Strobl, P., 2023 - DEMIX Wine Contest Method Ranks ALOS AW3D30, COPDEM, and FABDEM as Top 1" Global DEMs  
 
-<!-- <a name="praias_natal_pca5017"></a>
-Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
- -->
+<a name="amanda_sfm"></a> 
+Sousa, A.M., Viana, C.D., Garcia, G.P.B., Grohmann, C.H., 2023 - Monitoring geological risk areas in the city of São Paulo based on multi-temporal high resolution 3D models.  
+
 
 &nbsp;
 ## 2023
+<a name="guilherme_dl_caragua"></a> 
+Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H., 2023 - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.  
+_International Journal of Remote Sensing_  [https://doi.org/10.1080/01431161.2023.2197130](https://doi.org/10.1080/01431161.2023.2197130)  
+Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
+
 <a name="alynne_class"></a> 
 Affonso, A.A., Mandai, S.S., Portella, T.P., Quintanilha, J.A., Conti, L.A., Grohmann, C.H., 2023 - A Comparison between Supervised Classification Methods: Study Case on
 Land Cover Change Detection Caused by a Hydroelectric Complex Installation in
@@ -28,6 +32,22 @@ _Sustainability_, 15, 1309. [https://doi.org/10.3390/su15021309](https://doi.org
 <a name="methods_vertical"></a> 
 Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., 2023 - Remotely Piloted Aircraft‐based automated vertical surface survey.  
 _MethodsX_, 10, 101982. [https://doi.org/10.1016/j.mex.2022.101982](https://doi.org/10.1016/j.mex.2022.101982) (open access)  
+
+<!-- <a name="gmorph23_RPA"></a> 
+Grohmann, C.H., Garcia, G.P.B., Viana, C.D., Dias, H.C., Coelho, R.D., 2023 - RPA flight pattern and GCP influence on SfM-MVS modeling of a stable landslide in SE Brazil  
+_Geomorphometry 2023_, Iasi, Romania, [https://doi.org/10.5281/zenodo.7779223](https://doi.org/10.5281/zenodo.7779223)  
+
+<a name="gmorph23_demix_jupyter"></a> 
+Grohmann, C.H., 2023 - The DEMIX Wine Contest Jupyter notebook.  
+_Geomorphometry 2023_, Iasi, Romania, [https://doi.org/10.5281/zenodo.7779256](https://doi.org/10.5281/zenodo.7779256)  
+
+<a name="gmorph23_demix_hilshade"></a> 
+Grohmann, C.H., Guth, P.G., Trevisani, S., 2023 - Subjective Criteria for the DEMIX Wine Contest: Hillshade Maps  
+_Geomorphometry 2023_, Iasi, Romania, []()  
+
+<a name="gmorph23_demix_mapdiffs"></a> 
+Grohmann, C.H., Guth, P.G., Trevisani, S., 2023 - Geomorphometric and Geospatial Patterns in Differences Between ALOS and COPDEM  
+_Geomorphometry 2023_, Iasi, Romania, []()   -->
 
 
 &nbsp;

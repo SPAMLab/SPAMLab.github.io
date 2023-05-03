@@ -9,6 +9,11 @@ published: true
 This page has direct links to large datasets (point clouds, RPA images). If you are looking for the scripts and codes that go alogn with our articles, they are in GitHub, both in the [SPAMLab Repo](https://github.com/SPAMLab/data_sharing) and in [Prof. Grohmann's Repo](https://github.com/CarlosGrohmann/scripts_papers).  
 &nbsp;&nbsp;
 
+Grohmann, C.H., 2023. Viana Beach, Ilhabela, Brazil. UAV Image Collection.  
+_GeoNadir.com_    
+Data provided by FAPESP grant [2019/26568-0](https://bv.fapesp.br/52552).  
+[https://data.geonadir.com/project-details/339](https://data.geonadir.com/project-details/1723)  
+
 
 Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., Barale, F., Ferretti, F.A., 2022. Jardim Garcia quarry. RPA images, 3D mesh and point coud.  
 _Zenodo_  

@@ -17,36 +17,47 @@ PI: Carlos H. Grohmann
 Collabs: [Department of Geoinformatics, University of Salzburg (Z_GIS)](https://zgis.at/), 
 [Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html), [Unisinos](http://www.unisinos.br/), [Institute for Technological Research (IPT-SP)](https://www.ipt.br/EN)  
 
+<a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
+period: 2022-2024  
+funding: FAPESP ([2020/12050-6](https://bv.fapesp.br/55876))  
+PI: Anderson T.S. Ferreira  
+
 <a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
 period: 2022-2024  
 funding: [CNPq](http://www.cnpq.br) 311209/2021-1  
 PI: Carlos H. Grohmann  
+
+<a name="fruta_tadp"></a>**Trans-Amazon Drilling Project: origin and evolution of the forests, climate, and hydrology of the South American tropics.**  
+period: 2021-2026  
+funding: FAPESP ([2018/23899-2](https://bv.fapesp.br/55877))  
+PI: André O. Sawakuchi, IGc-USP  
 
 <a name="mauricio_jp2"></a>**Topographic construction along the northeastern Andes and the origin of the Transcontinental Amazon Basin.**  
 period: 2019-2024  
 funding: FAPESP ([2018/15613-1](https://bv.fapesp.br/55163))  
 PI: Mauricio Parra Amézquita, IEE-USP  
 
-<a name="fapesp_pire"></a>**PIRE: climate research education in the Americas using tree-ring speleothem examples (PIRE-CREATE).**  
-period: 2017-2022  
-funding: FAPESP ([2017/50085-3](https://bv.fapesp.br/50862))  
-PIs: Francisco William da Cruz Junior, IGc-USP + Mathias Vuille, UAlbany  
-Collab: [Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
-
 <a name="fapesp_core"></a>**Sea-level changes and global monsoon system: clues from marine cores in Brazil.**  
 period: 2019-2024  
 funding: FAPESP ([2016/24946-9](https://bv.fapesp.br/50863))  
 PI: Luigi Jovane, IO-USP  
 
-<a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
-period: 2017-2023  
-funding: FAPESP ([2013/50297-0](https://bv.fapesp.br/55165))  
-PIs: Cristina Miyaky, IB-USP + Ana Carolina Carnaval, CUNY  
+
 
 &nbsp;
 &nbsp;
 
 ### **Past**
+<a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
+period: 2017-2023  
+funding: FAPESP ([2013/50297-0](https://bv.fapesp.br/55165))  
+PIs: Cristina Miyaky, IB-USP + Ana Carolina Carnaval, CUNY  
+
+<a name="fapesp_pire"></a>**PIRE: climate research education in the Americas using tree-ring speleothem examples (PIRE-CREATE).**  
+period: 2017-2022  
+funding: FAPESP ([2017/50085-3](https://bv.fapesp.br/50862))  
+PIs: Francisco William da Cruz Junior, IGc-USP + Mathias Vuille, UAlbany  
+Collab: [Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
 
 <a name="cnpq_uav"></a>**UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
 period: 2017-2019  

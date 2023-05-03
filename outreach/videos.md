@@ -13,10 +13,10 @@ If you've ever been to the bottomless pit of procrastination also know as YouTub
 
 We'll keep this page updated with all the videos (including those not made by us, but about our projects), in reverse chronological order. Scroll down to go back in time.  
 
-
 &nbsp;&nbsp;
 
-**Série Publicando Ciência**  
+**Science Publishing**  
+- Publicando Ciência #15 - [Bibliografias com Google Scholar ](https://youtu.be/SCr1i-tdz8Y )  
 - Publicando Ciência #14 - [Como fazer apresentações nota 10! ](https://youtu.be/liWwSTnqv7g)  
 - Publicando Ciência #13 - [Fator de Impacto, Índice-H, Qualis ](https://youtu.be/Li3K4gOx1_Y)  
 - Publicando Ciência #12 - ["A" CAPES ou "O" CAPES? "O" CNPq ou "A" CNPq? ](https://youtu.be/fdsV0MGoAIc)  
@@ -33,11 +33,23 @@ We'll keep this page updated with all the videos (including those not made by us
 - Publicando ciência #01 - [Como funciona a revisão de um artigo científico? ](https://www.youtube.com/embed/Q8c5bVG7fn4)  
 <br>
 
-**Série Dicas do Guâno**  
-- [Dica #21 - OpenDroneMap 2) Trabalhando com GCPs (pontos de controle) ](https://youtu.be/uyEz3tV_dak)  
-- [Dica #20 - OpenDroneMap 1) Gratuito e melhor que Metashape! ](https://youtu.be/abEk1yyxLcY)  
-- [Dica #19 - Processamento PPK no Metashape ](https://youtu.be/cZ3nxB3obwc)  
-- [Dica #18 - Processamento dados de DRONE com kit PPK e Emlid Studio ](https://youtu.be/9_W8qV9ALVQ)  
+**Drones**  
+- [Fotogrametria com Mini 2 e Phantom 4 ](https://youtu.be/YCUPuM6d1Ac)  
+- [Mini2 para fotogrametria ](https://youtu.be/f7kRO6dFxaI)  
+- [Férias 3D ](https://youtu.be/LpaiQQnM8wQ)  
+- [Apps para mission planning ](https://youtu.be/YrrXjXTBlIA)  
+- [Aula de SfM-MVS ](https://youtu.be/EDyomn5d7LQ)  
+- [OpenDroneMap 4 - ODM x Metashape](https://youtu.be/uyEz3tV_dak)  
+- [OpenDroneMap 3 - Parâmetros e problemas de memória](https://youtu.be/uyEz3tV_dak)  
+- [OpenDroneMap 2 - Trabalhando com GCPs (pontos de controle) ](https://youtu.be/uyEz3tV_dak)  
+- [OpenDroneMap 1 - Gratuito e melhor que Metashape! ](https://youtu.be/abEk1yyxLcY)  
+- [Processamento PPK no Metashape ](https://youtu.be/cZ3nxB3obwc)  
+- [Processamento dados de drone com kit PPK e Emlid Studio ](https://youtu.be/9_W8qV9ALVQ)  
+<br>
+
+**GIS Tips**  
+- [Dica #20 - São Sebastião - imagem com 10cm ](https://youtu.be/Mu1g9maklt4)  
+- [Dica #19 - Hora de aposentar o SRTM! ](https://youtu.be/kbHinCAU3kM)  
 - [Dica #18 - Nova ferramenta de perfil topográfico do QGIS ](https://youtu.be/_H9mUnHBCic)  
 - [Dica #17 - Dados LiDAR no Brasil - Download e visualização no QGIS ](https://youtu.be/-ArDzgNT5MQ)  
 - [Dica #16 - Hidrologia no GRASS e QGIS ](https://youtu.be/o6iz79A-nt4)  
@@ -63,7 +75,15 @@ We'll keep this page updated with all the videos (including those not made by us
 - [DEMIX - The Digital Elevation Model Intercomparison EXperiment ](https://youtu.be/veZA4O1rU2)  
 <br>
 
-**Aulas QGIS**
+**Data analysis - 2022 Elections**
+- [Dados Eleições 2022 no python ](https://youtu.be/ktij9yZNALc)  
+- [Mapas dos resultados ](https://youtu.be/rk3_hlC8iEA)  
+- [Boletins de Urna ](https://youtu.be/9B4KGlVhrb8)  
+- [Relatório e mapa interativo ](https://youtu.be/tdZXnobIZcE)  
+<br>
+
+
+**QGIS**
 - [Apresentação do curso de SIG com Software Livre ](https://youtu.be/EyT5zhypBtc)
 - Aula QGIS 1 - [Introdução ao SIG e a Software Livre ](https://youtu.be/V61_LQZpz60)
 - Aula QGIS 2 - [Princípios de cartografia ](https://youtu.be/TNTPO1vTEoE)
@@ -110,7 +130,7 @@ We'll keep this page updated with all the videos (including those not made by us
 - [GGEO Live - 3D Cave Mapping ](https://www.youtube.com/embed/U73C-In4dfs)  
 <br>
 
-**Outros vídeos nossos**
+**Other videos**
 - [MS GRSS IEEE Student Chapter - Mathematical morphology in processing and analysis of the Digital Elevation Models ](https://www.youtube.com/embed/XbZrg97AJA8)
 - [MS GRSS IEEE Student Chapter - UAV Remote Sensing ](https://www.youtube.com/embed/U73C-In4dfs) With the participacion of our PhD student Camila Viana!  
 - [Drone ajuda a prevenir as tragédias das chuvas](https://youtu.be/8rpZNWbAgGA)
@@ -123,7 +143,7 @@ We'll keep this page updated with all the videos (including those not made by us
 - [Garopaba dune field - fieldwork with Laser Scanner and UAV ](https://www.youtube.com/embed/rATNm1UiQjc)  
 <br>
 
-**Trabalhos de campo**
+**Field Trips**
 - [Trabalho de campo com drone e kit PPK](https://youtu.be/F9bv55frFTs)  
 - [Devil's Cave - Second video with the full point cloud (1 billion points) ](https://www.youtube.com/embed/giInjKLo17A)  
 - [Devil's Cave - First video of the simplified point cloud (17 million points) ](https://www.youtube.com/embed/m2YZiTzs0yY)  

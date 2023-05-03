@@ -5,16 +5,25 @@ subtitle: Spammers assembled
 published: true
 ---
 
-### Prof. Carlos Henrique Grohmann
+### Staff 
 
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="20%"> <img src="/img/people/doodle_crop25.jpg" class="img-circle" width="99%"> </td>
-    <td width="80%"> I'm an Associate Professor (Geotechnologies) at the Institute of Energy and Environment, University of São Paulo, Brazil. My work is focused in Digital Terrain Analysis (Geomorphometry), free software (FOSS) and Remote Sensing. </td> 
+    <td width="80%"> <b>Prof. Carlos Henrique Grohmann</b> - I'm an Associate Professor (Geotechnologies) at the Institute of Energy and Environment, University of São Paulo, Brazil. My work is focused in Digital Terrain Analysis (Geomorphometry), free software (FOSS) and Remote Sensing. <br> 
+    My ORCiD is <a href="http://orcid.org/0000-0001-5073-5572">0000-0001-5073-5572</a>. My Lattes CV is available in <a href="http://lattes.cnpq.br/5846052449613692">Portuguese</a> or in <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4769337Z5&idiomaExibicao=2">English</a>. The Lattes Database is a Curriculum and institutions database of Science and Technology areas in Brazil.You can find more about me at my <a href="http://carlosgrohmann.com">website</a>.</td> 
   </tr>
+
+  <tr>
+    <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Prof. Camila Duelis Viana</b> (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) 
+     </td> 
+  </tr>
+
+
 </table>
 
-My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Lattes CV is available in [Portuguese](http://lattes.cnpq.br/5846052449613692) or in [English](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4769337Z5&idiomaExibicao=2). The Lattes Database is a Curriculum and institutions database of Science and Technology areas in Brazil.You can find more about me at my [website](http://carlosgrohmann.com).
+
 
 
 &nbsp;
@@ -47,10 +56,6 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="83%"> <b>Alynne Almeida Affonso</b> (<a href="http://orcid.org/0000-0002-2646-3922">ORCiD</a> | <a href="http://lattes.cnpq.br/3330746311709629">Lattes CV</a>) - High-resolution remote sensing of <i>igapó</i> forests in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. </td> 
   </tr> 
   <tr>
-    <td width="17%"> <img src="/img/people/guilherme.jpg" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Guilherme Pereira Bento Garcia</b> (<a href="http://orcid.org/0000-0003-1209-7842">ORCiD</a> | <a href="http://lattes.cnpq.br/8143036335035110">Lattes CV</a>) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models. </td> 
-  </tr>
-  <tr>
     <td width="17%"> <img src="/img/people/helen.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Helen Cristina Dias</b> (<a href="http://orcid.org/0000-0002-5006-7006">ORCiD</a> | <a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. <br> scholarship: FAPESP grant <a href="https://bv.fapesp.br/49547">#2019/17261-8</a></td> 
   </tr>
@@ -77,10 +82,12 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
     <td width="17%"> <img src="/img/people/amanda.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Amanda Mendes de Sousa</b>  (<a href="http://orcid.org/0000-0003-2264-5531">ORCiD</a> | <a href="http://lattes.cnpq.br/1341083329457480">Lattes CV</a>) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. </td> 
   </tr>
-  <tr>
-    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
-    <td width="83%"> <b>Denilson de Jesus</b> - Application of Free and Open-Source GIS tools in the Gelogical Survey of Brazil: improving quality, reducing costs and timeframes. </td> 
-  </tr>
+
+<tr>
+    <td width="17%"> <img src="/img/people/francesco.jpg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Francesco Barale</b> (MSc 2023-?) (<a href="http://orcid.org/0000-0002-2527-3617">ORCiD</a> | <a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - 3D modellingo of Pedra do Baú natural monument with RPA-LiDAR.
+    </td>
+</tr>
 
 </table>
 
@@ -117,6 +124,16 @@ My ORCiD is [0000-0001-5073-5572](http://orcid.org/0000-0001-5073-5572). My Latt
 ## Former Students
 
 <table class="table-borderless" style="width:100%">
+
+  <tr>
+    <td width="17%"> <img src="/img/people/guilherme.jpg" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Guilherme Pereira Bento Garcia</b> (PhD 2018-2023) (<a href="http://orcid.org/0000-0003-1209-7842">ORCiD</a> | <a href="http://lattes.cnpq.br/8143036335035110">Lattes CV</a>) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models. </td> 
+  </tr>
+
+  <tr>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Denilson de Jesus</b> - Application of Free and Open-Source GIS tools in the Gelogical Survey of Brazil: improving quality, reducing costs and timeframes. </td> 
+  </tr>
 
   <tr>
     <td width="17%"> <img src="/img/people/camila.jpg" class="img-circle" width="99%"> </td>

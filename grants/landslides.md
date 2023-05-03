@@ -6,15 +6,27 @@ subtitle:
 #### News:
 
 <!-- [[publication](/pages/publications/index.html#)]: Paper published in the []()  -->
+
 Our research was featured in [Jornal da USP](https://youtu.be/8rpZNWbAgGA)  
-[[publication](/pages/publications/index.html#cunha_guilherme)]: Paper published in the [Bulletin of Geodetic Sciences](https://doi.org/)  
+
+[[publication](/pages/publications/index.html#guilherme_dl_caragua)]: Paper published in the [International Journal of Remote Sensing](https://doi.org/10.1080/01431161.2023.2197130)  
+
+[[publication](/pages/publications/index.html#cunha_guilherme)]: Paper published in the [Bulletin of Geodetic Sciences](https://doi.org/10.1590/s1982-21702022000300016)  
+
 [[publication](/pages/publications/index.html#lucas_unet)]: Paper published in [Remote Sensing](https://doi.org/10.3390/rs14092237)  
+
 [[publication](/pages/publications/index.html#lucas_chines)]: Paper published in the [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://doi.org/10.1109/JSTARS.2022.3161383)  
+
 [[publication](/pages/publications/index.html#lucas_himalaia)]: Paper published in [Landslides](https://doi.org/10.1007/s10346-022-01861-3)  
+
 [[publication](/pages/publications/index.html#landslides_helen_pca5017)]: Paper published in the [_Brazilian Journal of Geology_](http://dx.doi.org/10.1590/2317-4889202120200105)  
+
 [[publication](/pages/publications/index.html#helen_inventory_geosc)]: Paper published in [_Geosciences_](https://doi.org/10.3390/geosciences11100425)  
+
 [[publication](/pages/publications/index.html#landslides_helen_msc)]: Paper published in [_Natural Hazards_](https://doi.org/10.1007/s11069-021-04676-y)  
+
 [[publication](/pages/publications/index.html#isl_helen)]: Paper presented at the [_XIII International Symposium on Landslides_](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges)  
+
 <!-- [[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV -->
 
 

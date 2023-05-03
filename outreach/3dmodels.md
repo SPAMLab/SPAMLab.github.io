@@ -12,6 +12,12 @@ Check out our 3D models and follow us for more!
 &nbsp;&nbsp;
 
 <div class="sketchfab-embed-wrapper">
+Lapa do Caboclo - Panel with Rock Art 
+    <iframe title="A 3D model" width="700" height="400" src="https://sketchfab.com/models/79cb447270c24836b779d608d8782512/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
+<div class="sketchfab-embed-wrapper">
 Arco do André Cave - 3D model from drone photos 
     <iframe title="A 3D model" width="700" height="400" src="https://sketchfab.com/models/a873f750875d4f37a3784ffddc9f5abc/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
