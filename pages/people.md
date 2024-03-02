@@ -1,4 +1,4 @@
-o---
+---
 layout: page
 title: People
 subtitle: Spammers assembled
