@@ -8,52 +8,108 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 &nbsp;&nbsp;
 
 
-## in revision
-<a name="guilherme_dl_caragua"></a> 
-Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H. - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.
-Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
-
-
-<!-- <a name="alynne_pca5017"></a>
-Affonso\*, A.A., Mandai, S.S., Portella, T.P., Grohmann, C.H., Quintanilha, J.A. - Assessing land use and land cover change in the Volta Grande do Xingu (Pará - Brazil) between 2000 and 2017.  
-Preprint available at [Research Square](https://doi.org/10.21203/rs.3.rs-172975/v1) (open access)  -->
+<!--  -->
 
 <!-- <a name="praias_natal_pca5017"></a>
 Silva, B.B.S., Sergipe, P.P., Silva, R.S., Quintanilha, J.A., Grohmann, C.H. - Classificação supervisionada de imagens de satélite como ferramenta para análise temporal da morfodinâmica costeira entre as praias de Areia Preta e do Forte, Natal (RN).  
  -->
-&nbsp;
-## 2022
 
+
+## 2024
+<a name="demix_sg2_ieee"></a> 
+ Bielski, C., López-Vázquez, C., Grohmann, C.H., Guth. P.L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Corseaux, A., Reuter, H., Strobl, P., 2024. Novel approach for ranking DEMs: Copernicus DEM improves one arc second open global topography. 
+ _IEEE Transactions on Geoscience & Remote Sensing_. 
+[https://doi.org/10.1109/TGRS.2024.3368015](https://doi.org/10.1109/TGRS.2024.3368015) (open access)  
+
+
+<a name="mauricio_biolcons"></a> 
+Vancine, M.H., Muylaert, R.L., Niebuhr, B.B., Oshima, J.E.F., Tonetti, V., Bernardo, R., Angelo, C., Rosa, M.R., Grohmann, C.H., Ribeiro, M.C., 2024. The Atlantic Forest of South America: Spatiotemporal dynamics of the vegetation and implications for conservation.  
+_Biological Conservation_, 291:110499,  
+[https://doi.org/10.1016/j.biocon.2024.110499](https://doi.org/10.1016/j.biocon.2024.110499) (open access)  
+
+
+<a name="helen_standards"></a> 
+Dias, H. C., Grohmann, C. H., 2024. Standards for shallow landslide identification in Brazil: Spatial trends and inventory mapping.  
+_Journal of South American Earth Sciences_, 135:104805.  
+[http://dx.doi.org/10.1016/j.jsames.2024.104805](http://dx.doi.org/10.1016/j.jsames.2024.104805) (paywalled)  
+
+
+## 2023
+<a name="alynne_sustainability"></a> 
+Affonso, A. A., Mandai, S. S., Portella, T. P., Quintanilha, J. A., Conti, L. A., Grohmann, C.H.,2023. A Comparison between Supervised Classification Methods: Study Case on Land Cover Change Detection Caused by a Hydroelectric Complex Installation in the Brazilian Amazon.  
+_Sustainability_, 15(2).  
+[http://dx.doi.org/10.3390/su15021309](http://dx.doi.org/10.3390/su15021309) (open access)    
+
+<a name="helen_gi"></a> 
+Dias, H. C., Hölbling, D., Dias, V. C., Grohmann, C. H. 2023. Application of Object-Based Image Analysis for Detecting and Differentiating between Shallow Landslides and Debris Flows. 
+_GI_Forum_, 11: 34–44.  
+[https://doi.org/10.1553/giscience2023_01_s34](https://doi.org/10.1553/giscience2023_01_s34) (open access)    
+
+<a name="helen_tranferability"></a> 
+Dias, H. C., Hölbling, D., Grohmann, C.H., 2023. Rainfall-Induced Shallow Landslide Recognition and Transferability Using Object-Based Image Analysis in Brazil. 
+_Remote Sensing_, 15: 5137.  
+[https://doi.org/10.3390/rs15215137](https://doi.org/10.3390/rs15215137) (open access)    
+
+<a name="anderson_bigdata"></a> 
+Ferreira, A. T. S., de Oliveira, R. C., Ribeiro, M. C. H., Grohmann, C. H., Siegle, E. 2023. Coastal Dynamics Analysis Based on Orbital Remote Sensing Big Data and Multivariate Statistical Models. 
+Coasts, 3(3): 160–174.  
+[http://dx.doi.org/10.3390/coasts3030010](http://dx.doi.org/10.3390/coasts3030010) (open access)    
+
+<a name="guilherme_dl_caragua"></a> 
+Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H., 2023. Relict landslide detection using deep-learning architectures for image segmentation in rainforest areas: a new framework.  
+_International Journal of Remote Sensing_, 44(7): 2168–2195.  
+[http://dx.doi.org/10.1080/01431161.2023.2197130](http://dx.doi.org/10.1080/01431161.2023.2197130) (paywalled)  
+Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693) (open access)  
+
+<a name="methodsx"></a> 
+Grohmann, C. H., Viana, C. D., Garcia, G. P. B., & Albuquerque, R. W. 2023. Remotely Piloted Aircraft‐based automated vertical surface survey.  
+_MethodsX_, 10: 101982.  
+[http://dx.doi.org/10.1016/j.mex.2022.101982](http://dx.doi.org/10.1016/j.mex.2022.101982) (open access)    
+
+<a name="amanda_msc"></a> 
+Sousa, A. M., Viana, C. D., Garcia, G. P. B., & Grohmann, C. H. 2023. Monitoring Geological Risk Areas in the City of São Paulo Based on Multi-Temporal High-Resolution 3D Models.  
+_Remote Sensing_, 15(12).  
+[http://dx.doi.org/10.3390/rs15123028](http://dx.doi.org/10.3390/rs15123028) (open access)    
+
+
+## 2022
 <a name="cunha_guilherme"></a> 
-Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H. - Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
-_Bulletin of Geodetic Sciences_ (aceito)  
+Garcia, G.P.B.,  Grohmann, C.H., Viana, C.D., Gomes, E., 2022. Using terrestrial laser scanner and RPA-based-photogrammetry for surface analysis of a landslide: a comparison.  
+_Bulletin of Geodetic Sciences_, 28(03).  
+[http://dx.doi.org/10.1590/s1982-21702022000300016](http://dx.doi.org/10.1590/s1982-21702022000300016) (open access)    
 
 <a name="lucas_unet"></a>
-Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H. - Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
+Soares, L.P., Dias, H.C., Garcia, G.P.B., Grohmann, C.H., 2022. Landslide Segmentation with Deep Learning: Evaluating Model Generalization in Rainfall-Induced Landslides in Brazil.  
 _Remote Sensing_, 14(9):2237.  
 [https://doi.org/10.3390/rs14092237](https://doi.org/10.3390/rs14092237) (open access)    
 <!-- Preprint available at [arXiv:2007.06672](https://arxiv.org/abs/2007.06672) [eess.IV] (open access)  -->
 
 <a name="lucas_chines"></a>
 Xu, G., Wang, Y., Wang, L., Soares, L.P., & Grohmann, C.H., 2022. Feature-based constraint deep CNN method for mapping rainfall-induced landslides in remote regions with mountainous terrain: An application to Brazil.  
-_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 15. [https://doi.org/10.1109/JSTARS.2022.3161383](https://doi.org/10.1109/JSTARS.2022.3161383)  
+_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 15.  
+[https://doi.org/10.1109/JSTARS.2022.3161383](https://doi.org/10.1109/JSTARS.2022.3161383) (paywalled)  
 
 <a name="lucas_himalaia"></a>
-Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P. - Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
+Meena, S.R., Soares, L.P., Grohmann, C.H., Westen, C., Bhuyan, K., Singh, R.P., 2022. Landslide detection in the Himalayas using machine learning algorithms and U-Net.  
 _Landslides_  
 [https://doi.org/10.1007/s10346-022-01861-3](https://doi.org/10.1007/s10346-022-01861-3) (open access)    
 
 <a name="rafael_dl_amaz"></a>
-Albuquerque, R.W., Vieira, D.L.M., Ferreira, M.E., Soares, L.P., Olsen, S.I., Araujo, L.S., Vicente, L.E., Tymus, J.R.C., Balieiro, C.P., Matsumoto, M.H., Grohmann, C.H.,2022 -  Mapping Key Indicators of Forest Restoration in the Amazon Using a Low-Cost Drone and Artificial Intelligence.  
+Albuquerque, R.W., Vieira, D.L.M., Ferreira, M.E., Soares, L.P., Olsen, S.I., Araujo, L.S., Vicente, L.E., Tymus, J.R.C., Balieiro, C.P., Matsumoto, M.H., Grohmann, C.H., 2022.  Mapping Key Indicators of Forest Restoration in the Amazon Using a Low-Cost Drone and Artificial Intelligence.  
 _Remote Sensing_, 14(4):830.  
 [https://doi.org/10.3390/rs14040830](https://doi.org/10.3390/rs14040830) (open access)    
+
+<a name="rafael_protocol"></a>
+Albuquerque, R.W., Matsumoto, M.H., Calmon, M., Ferreira, M.E., Vieira, D.L.M., Grohmann, C.H., 2022. A protocol for canopy cover monitoring on forest restoration projects using low-cost drones.  
+_Open Geosciences_, 14(1): 921–929.  
+[https://doi.org/10.1515/geo-2022-0406](https://doi.org/10.1515/geo-2022-0406) (open access)    
 
 
 &nbsp;
 ## 2021
 <a name="protocol_rafael"></a>
 Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
-Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021 - Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest.  
+Moura, C.J.R., Costa, J.V.S., Castello Branco, M.R., Grohmann, C.H., 2021. Forest Restoration Monitoring Protocol with a Low-Cost Remotely Piloted Aircraft: Lessons Learned from a Case Study in the Brazilian Atlantic Forest.  
 _Remote Sensing_, 13(12):2401.  
 [https://doi.org/10.3390/rs13122401](https://doi.org/10.3390/rs13122401) (open access)    
 
@@ -69,7 +125,7 @@ _Geosciences_, 11(10):425.
 <a name="landslides_helen_msc"></a>
 Dias, H.C., Gramani, M.F., Grohmann, C.H., Bateira, C., Vieira, B.C., 2021 - Statistical-based shallow landslide susceptibility assessment for a tropical environment: a case study in the southeastern coast of Brazil.  
 _Natural Hazards_  
-[https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y)  
+[https://doi.org/10.1007/s11069-021-04676-y](https://doi.org/10.1007/s11069-021-04676-y) (paywalled)  
 
 <a name="isl_helen"></a>Dias, H.C., H&ouml;lbling, D., Grohmann C.H., 2021. Landslide inventory mapping in Brazil: Status and challenges. In: XIII International Symposium on Landslides, Cartagena, Colombia.  
 ([link](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges))  
@@ -77,7 +133,7 @@ _Natural Hazards_
 <a name="pellets_anderson"></a>
 Ferreira, A.T.S., Siegle, E., Ribeiro, M.C.H, Grohmann, C.H., 2021 - The dynamics of plastic pellets on sandy beaches: a new methodological approach.  
 _Marine Environmental Research_, 163:105219.  
-[https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219)  
+[https://doi.org/10.1016/j.marenvres.2020.105219](https://doi.org/10.1016/j.marenvres.2020.105219) (paywalled)  
 
 <a name="demix_sg1_terms"></a>
 Guth, P.L., Niekerk, A.V., Grohmann, C.H., Muller, J.-P., Hawker, L., Florinsky, I.V., Gesch, D., Reuter, H.I., Herrera-Cruz, V., Riazanoff, S., Lópéz-Vázquez, C., Carabajal, C.C., Albinet, C., Strobl, P., 2021 - Digital Elevation Models: Terminology and Definitions.  
@@ -100,12 +156,12 @@ _Remote Sensing_, 13:377.
 ## 2020
 <a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon.  
 _Journal of Unmanned Vehicle Systems_, 8:207-223  
-[https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  
+[https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024) (paywalled)  
 
 <a name="garopaba_cageo"></a>
 Grohmann C.H., Garcia. G.P.B., Affonso, A.A., Albuquerque, R.W., 2020 - Aeolian dune modelling from airborne LiDAR, terrestrial LiDAR and Structure from Motion--Multi View Stereo.  
 _Computers & Geosciences_, 143:104569  
-[http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569)  
+[http://doi.org/10.1016/j.cageo.2020.104569](http://doi.org/10.1016/j.cageo.2020.104569) (paywalled)  
 Preprint available at [arXiv:1910.06186](https://arxiv.org/abs/1910.06186) [physics.geo-ph] (open access)  
 
 <a name="garopaba_gmorph"></a>

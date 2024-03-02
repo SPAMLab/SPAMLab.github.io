@@ -12,6 +12,12 @@ Check out our 3D models and follow us for more!
 &nbsp;&nbsp;
 
 <div class="sketchfab-embed-wrapper">
+Gruta do Janelão - Panel with Rock Art 
+    <iframe title="A 3D model" width="700" height="400" src="https://sketchfab.com/models/86be231880954d5fa5971cddcb5e33c0/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
+<div class="sketchfab-embed-wrapper">
 Lapa do Caboclo - Panel with Rock Art 
     <iframe title="A 3D model" width="700" height="400" src="https://sketchfab.com/models/79cb447270c24836b779d608d8782512/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

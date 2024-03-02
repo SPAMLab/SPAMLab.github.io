@@ -25,9 +25,7 @@ This is a non-extensive list of the software we are using at the lab, in no part
 
 [LasTools](https://rapidlasso.com/lastools/)
 
-[Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) 
-
-[Whitebox Tools](http://www.uoguelph.ca/~hydrogeo/WhiteboxTools/index.html) 
+[Whitebox](https://www.whiteboxgeo.com) 
 
 [OpenDroneMap](https://www.opendronemap.org)
 
@@ -43,8 +41,6 @@ This is a non-extensive list of the software we are using at the lab, in no part
 [Agisoft Metashape](http://www.agisoft.com)
 
 [Faro Scene](https://www.faro.com/products/product-design/faro-scene/)
-
-[Planlauf Terrain](https://planlaufterrain.com)
 
 [Spectra Precision Survey Office](http://www.spectraprecision.com/eng/survey-office.html)
 

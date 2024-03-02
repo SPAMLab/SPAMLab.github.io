@@ -5,17 +5,17 @@ subtitle: Putting taxpayers' money to good use
 ---
 ### **Current**
 
+<a name="fapesp_landslides2"></a>**Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil).**  
+period: 2024-2026  
+funding: FAPESP ([2023/11197-1](https://bv.fapesp.br/57077))  
+PI: Carlos H. Grohmann  
+Collabs: [Universitatea Alexandru Ioan Cuza din Iași, România](https://www.uaic.ro/), 
+[Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html)  
+
 <a name="fapesp_vivian"></a>**Mapping and classification of watersheds affected by hydro geomorphological processes in the Serra do Mar Paulista: foundation for planning and mitigation actions.**  
 period: 2022-2024  
 funding: FAPESP ([2022/04233-9](https://bv.fapesp.br/55162))  
-PI: Vivian C. Dias (Post-Doc)
-
-<a name="fapesp_landslides"></a>**High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
-period: 2021-2023  
-funding: FAPESP ([2019/26568-0](https://bv.fapesp.br/51900))  
-PI: Carlos H. Grohmann  
-Collabs: [Department of Geoinformatics, University of Salzburg (Z_GIS)](https://zgis.at/), 
-[Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html), [Unisinos](http://www.unisinos.br/), [Institute for Technological Research (IPT-SP)](https://www.ipt.br/EN)  
+PI: Vivian C. Dias (Post-Doc)  
 
 <a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
 period: 2022-2024  
@@ -23,7 +23,7 @@ funding: FAPESP ([2020/12050-6](https://bv.fapesp.br/55876))
 PI: Anderson T.S. Ferreira  
 
 <a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
-period: 2022-2024  
+period: 2022/03-2025/02  
 funding: [CNPq](http://www.cnpq.br) 311209/2021-1  
 PI: Carlos H. Grohmann  
 
@@ -48,6 +48,13 @@ PI: Luigi Jovane, IO-USP
 &nbsp;
 
 ### **Past**
+<a name="fapesp_landslides"></a>**High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
+period: 2021-2023  
+funding: FAPESP ([2019/26568-0](https://bv.fapesp.br/51900))  
+PI: Carlos H. Grohmann  
+Collabs: [Department of Geoinformatics, University of Salzburg (Z_GIS)](https://zgis.at/), 
+[Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html), [Unisinos](http://www.unisinos.br/), [Institute for Technological Research (IPT-SP)](https://www.ipt.br/EN)  
+
 <a name="fapesp_afbiota"></a>**Dimensions US-BIOTA São Paulo: a multidisciplinary framework for biodiversity prediction in the Brazilian Atlantic forest hotspot.**  
 period: 2017-2023  
 funding: FAPESP ([2013/50297-0](https://bv.fapesp.br/55165))  
@@ -59,15 +66,15 @@ funding: FAPESP ([2017/50085-3](https://bv.fapesp.br/50862))
 PIs: Francisco William da Cruz Junior, IGc-USP + Mathias Vuille, UAlbany  
 Collab: [Karstic Systems Lab (IGc-USP)](http://sites.igc.usp.br/gsa/laboratorios/sistemas-carsticos/)  
 
-<a name="cnpq_uav"></a>**UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
-period: 2017-2019  
+<a name="cnpq_universal_uav"></a>**UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
+period: 2019-2021  
 funding: [CNPq](http://www.cnpq.br) 423481/2018-5  
 PI: Carlos H. Grohmann  
 Collabs: [The Lecours Lab (Un. Florida)](https://www.thelecourslab.org), 
 [Marine Meiofauna Research Group (Unifesp Santos)](http://fonsecagfc.wixsite.com/np-meiofauna), [Geology Lab of the School of Technology (Unicamp)](https://wordpress.ft.unicamp.br/bernardotf/l-geo/), [Institute for Technological Research (IPT-SP)](https://www.ipt.br/EN)  
 
-<a name="cnpq_pq2019"></a>**Applications of Structure-from-Motion and Terrestrial LiDAR in Geology and Geomorphology.**  
-period: 2017-2019  
+<a name="cnpq_pq2018"></a>**Applications of Structure-from-Motion and Terrestrial LiDAR in Geology and Geomorphology.**  
+period: 2019/03-2022/02  
 funding: [CNPq](http://www.cnpq.br) 304413/2018-6  
 PI: Carlos H. Grohmann  
 
@@ -92,5 +99,13 @@ period:2010-2013
 funding: FAPESP ([2009/17675-5](https://bv.fapesp.br/7151))  
 PI: Carlos H. Grohmann  
 
+<a name="cnpq_pq2016"></a>**Geomorphometry and landscape evolution of the Amazon Basin**  
+period: 2016/03-2019/02  
+funding: CNPq (307647/2015-3)  
+PI: Carlos H. Grohmann  
 
+<a name="cnpq_pq2013"></a>**Digital Terrain Analysis of the Amazon Region**  
+period: 2013/03-2016/02  
+funding: CNPq (306294/2012-5)  
+PI: Carlos H. Grohmann  
 

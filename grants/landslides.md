@@ -7,7 +7,15 @@ subtitle:
 
 <!-- [[publication](/pages/publications/index.html#)]: Paper published in the []()  -->
 
-Our research was featured in [Jornal da USP](https://youtu.be/8rpZNWbAgGA)  
+Our research was featured in [Jornal da USP](https://youtu.be/8rpZNWbAgGA)   
+
+[[publication](/pages/publications/index.html#helen_standards)]: Paper published in the [Journal of South American Earth Sciences](http://dx.doi.org/10.1016/j.jsames.2024.104805)  
+
+[[publication](/pages/publications/index.html#helen_gi)]: Paper published in [GI_Forum](https://doi.org/10.1553/giscience2023_01_s34)  
+
+[[publication](/pages/publications/index.html#helen_tranfserability)]: Paper published in [Remote Sensing](https://doi.org/10.3390/rs15215137)  
+
+[[publication](/pages/publications/index.html#vivian_dhr8)]: Paper published in the [8th International Conference on Debris Flow Hazard Mitigation (DFHM8)](http://dx.doi.org/10.1051/e3sconf/202341505003)  
 
 [[publication](/pages/publications/index.html#guilherme_dl_caragua)]: Paper published in the [International Journal of Remote Sensing](https://doi.org/10.1080/01431161.2023.2197130)  
 
@@ -43,8 +51,8 @@ We have a continuous interest in landslides, with students working on their char
 
 
 <!-- {: style="text-align:center"} -->
-[![perus]({{site.baseurl}}/img/landslides/perus_3d.png "3D risk area"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
-*3D model of a landslide-risk area close to an urban area (made with UAV data)*  
+[![ttg]({{site.baseurl}}/img/landslides/ttg_screen.png "3D Landslide"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
+*3D model of a landslide near the coastal region of São Paulo State*  
 &nbsp;
 &nbsp;
 

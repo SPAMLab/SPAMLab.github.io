@@ -37,6 +37,11 @@ Data provided by FAPESP grant [2019/26568-0](https://bv.fapesp.br/52552).
 [https://data.geonadir.com/project-details/339](https://data.geonadir.com/project-details/798)  
 
 
+Lana, J.C., Jesus, D., Antonelli, T., 2021. Guia de procedimentos técnicos do Departamento de Gestão Territorial: setorização de áreas de risco geológico.  
+_Repositório Institucional de Geociências - Serviço Geológico do Brasil_  
+[https://rigeo.cprm.gov.br/jspui/handle/doc/22262](https://rigeo.cprm.gov.br/jspui/handle/doc/22262)  
+
+
 Grohmann, C.H., 2021. Lagoinha Landslide, São Paulo State, Brazil. UAV Image Collection.  
 _GeoNadir.com_    
 Data provided by FAPESP grant [2016/06628-0](https://bv.fapesp.br/44264).  

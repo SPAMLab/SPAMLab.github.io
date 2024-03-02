@@ -16,6 +16,10 @@ We'll keep this page updated with all the videos (including those not made by us
 &nbsp;&nbsp;
 
 **Science Publishing**  
+- Publicando Ciência #19 - [Cuidado com gráficos de pizza](https://youtu.be/xeCLzl4-StM)
+- Publicando Ciência #18 - [Novas regras deixam citação ABNT  menos tosca (mas nem tanto)](https://youtu.be/YieTKs7bx7Q)
+- Publicando Ciência #17 - [Festa do livro USP - PDF com todas as editoras](https://youtu.be/4UCFkteOgdY)
+- Publicando Ciência #16 - [IAs vão arruinar a ciência](https://youtu.be/l4WOHz3_noE)  
 - Publicando Ciência #15 - [Bibliografias com Google Scholar ](https://youtu.be/SCr1i-tdz8Y )  
 - Publicando Ciência #14 - [Como fazer apresentações nota 10! ](https://youtu.be/liWwSTnqv7g)  
 - Publicando Ciência #13 - [Fator de Impacto, Índice-H, Qualis ](https://youtu.be/Li3K4gOx1_Y)  
@@ -33,6 +37,15 @@ We'll keep this page updated with all the videos (including those not made by us
 - Publicando ciência #01 - [Como funciona a revisão de um artigo científico? ](https://www.youtube.com/embed/Q8c5bVG7fn4)  
 <br>
 
+
+**Science Stuff**  
+- [CNPq - Misoginia nos pareceres](https://youtu.be/p5Yq3fKYakk)
+- [CNPq - Duas sugestoes](https://youtu.be/UihstwC3VJA)
+- [CNPq - Nota informativa](https://youtu.be/R7LhapOMzEQ)
+- [CNPq - As falas do Galvão](https://youtu.be/6UjHAIOsRZI) 
+<br>
+
+
 **Drones**  
 - [Fotogrametria com Mini 2 e Phantom 4 ](https://youtu.be/YCUPuM6d1Ac)  
 - [Mini2 para fotogrametria ](https://youtu.be/f7kRO6dFxaI)  
@@ -47,7 +60,10 @@ We'll keep this page updated with all the videos (including those not made by us
 - [Processamento dados de drone com kit PPK e Emlid Studio ](https://youtu.be/9_W8qV9ALVQ)  
 <br>
 
+
 **GIS Tips**  
+- [Dica #22 - Ficou fácil! Portal facilita o download de dados espaciais!](https://youtu.be/j1r69n_BTdk)
+- [Dica #21 - Relative Elevation Models](https://youtu.be/XejiAVQdfog) 
 - [Dica #20 - São Sebastião - imagem com 10cm ](https://youtu.be/Mu1g9maklt4)  
 - [Dica #19 - Hora de aposentar o SRTM! ](https://youtu.be/kbHinCAU3kM)  
 - [Dica #18 - Nova ferramenta de perfil topográfico do QGIS ](https://youtu.be/_H9mUnHBCic)  
@@ -71,15 +87,28 @@ We'll keep this page updated with all the videos (including those not made by us
 <!-- - [Testei o Microfone FIFINE AMPLIGAME RGB! (MELHOR custo-benefício) ](https://youtu.be/htNW6Jwd5TQ)   -->
 <br>
 
+
 **DEMIX project**
+- [CopernicusDEM é o melhor!](https://youtu.be/-vrZzolC_Xs)  
+- [O artigo mais importante sobre Modelos de Elevação ](https://youtu.be/YQQY6LIxosU)  
 - [DEMIX - The Digital Elevation Model Intercomparison EXperiment ](https://youtu.be/veZA4O1rU2)  
 <br>
 
-**Data analysis - 2022 Elections**
+
+**Data analysis**
+- [Quantas pessoas cabem na Paulista](https://youtu.be/MJJgLO24_B4)  
 - [Dados Eleições 2022 no python ](https://youtu.be/ktij9yZNALc)  
 - [Mapas dos resultados ](https://youtu.be/rk3_hlC8iEA)  
 - [Boletins de Urna ](https://youtu.be/9B4KGlVhrb8)  
 - [Relatório e mapa interativo ](https://youtu.be/tdZXnobIZcE)  
+<br>
+
+
+**WhiteBox**
+- [Whitebox - o SIG mais rápido de todos! (e é de graça) ](https://youtu.be/s37cwmYJfm4)
+- [Whitebox Tools rodando via Python ](https://youtu.be/9nPzPFgLHxU)
+- [Whitebox Tools - Hidrologia AMAZÔNICA (quanto mede o rio Amazonas?) ](https://youtu.be/mH961S46T7s)
+- [WhiteboxWorkflows - python](https://youtu.be/3w3dZF9LcWw )
 <br>
 
 

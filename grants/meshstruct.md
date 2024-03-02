@@ -5,9 +5,14 @@ subtitle: Structural geology from 3D models
 <!-- subtitle: Forgot the compass? Take the outcrop home! Who needs compasses when you have meshes? -->
 ---
 #### News:  
-[[3D model](https://skfb.ly/6GVoy)] - A 3D model of the outcrop is now available at Sketchfab!   
+[[3D model](https://skfb.ly/6GVoy)] - A 3D model of the outcrop is now available at Sketchfab! 
+
+[[publication](/pages/publications/index.html#methodsx)]: Paper published in [MethodsX](http://dx.doi.org/10.1016/j.mex.2022.101982)  
+
 [[publication](/pages/publications/index.html#bjgeo_camila)]: Paper published in the [_Brazilian Journal of Geology_](https://doi.org/10.1590/2317-4889201800201898)  
+
 [[publication](/pages/publications/index.html#gmorph)]: Paper presented at the [_Geomorphometry 2018 conference_](https://doi.org/10.7287/peerj.preprints.27060v1)  
+
 [[blog post](/2017-12-05-mariana-defense)]: Mariana presents her Bachelor degree final paper  
 &nbsp;
 &nbsp;

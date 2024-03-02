@@ -11,3 +11,4 @@ gem 'jekyll-twitter-plugin', group: :jekyll_plugins
 # gem 'jekyll-target-blank'
 
 gem "jekyll", ">= 3.7.4"
+gem "webrick", "~> 1.8"

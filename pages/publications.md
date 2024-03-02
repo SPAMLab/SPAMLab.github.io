@@ -8,30 +8,67 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 &nbsp;&nbsp;
 
 
-## in revision
-<a name="demix_sg2"></a>
-Bielski, C., López-Vázquez, C., Grohmann, C.H., Guth, P.L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Reuter, H.I., Strobl, P., 2023 - DEMIX Wine Contest Method Ranks ALOS AW3D30, COPDEM, and FABDEM as Top 1" Global DEMs  
 
-<a name="amanda_sfm"></a> 
-Sousa, A.M., Viana, C.D., Garcia, G.P.B., Grohmann, C.H., 2023 - Monitoring geological risk areas in the city of São Paulo based on multi-temporal high resolution 3D models.  
+## 2024
+<a name="demix_sg2_ieee"></a> 
+ Bielski, C., López-Vázquez, C., Grohmann, C.H., Guth. P.L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Corseaux, A., Reuter, H., Strobl, P., 2024. Novel approach for ranking DEMs: Copernicus DEM improves one arc second open global topography. 
+ _IEEE Transactions on Geoscience & Remote Sensing_. 
+[https://doi.org/10.1109/TGRS.2024.3368015](https://doi.org/10.1109/TGRS.2024.3368015) (open access)  
 
 
-&nbsp;
+<a name="mauricio_biolcons"></a> 
+Vancine, M.H., Muylaert, R.L., Niebuhr, B.B., Oshima, J.E.F., Tonetti, V., Bernardo, R., Angelo, C., Rosa, M.R., Grohmann, C.H., Ribeiro, M.C., 2024. The Atlantic Forest of South America: Spatiotemporal dynamics of the vegetation and implications for conservation.  
+_Biological Conservation_, 291:110499,  
+[https://doi.org/10.1016/j.biocon.2024.110499](https://doi.org/10.1016/j.biocon.2024.110499) (open access)  
+
+
+<a name="helen_standards"></a> 
+Dias, H. C., Grohmann, C. H., 2024. Standards for shallow landslide identification in Brazil: Spatial trends and inventory mapping.  
+_Journal of South American Earth Sciences_, 135:104805.  
+[http://dx.doi.org/10.1016/j.jsames.2024.104805](http://dx.doi.org/10.1016/j.jsames.2024.104805) (paywalled)  
+
+
 ## 2023
+<a name="alynne_sustainability"></a> 
+Affonso, A. A., Mandai, S. S., Portella, T. P., Quintanilha, J. A., Conti, L. A., Grohmann, C.H.,2023. A Comparison between Supervised Classification Methods: Study Case on Land Cover Change Detection Caused by a Hydroelectric Complex Installation in the Brazilian Amazon.  
+_Sustainability_, 15(2).  
+[http://dx.doi.org/10.3390/su15021309](http://dx.doi.org/10.3390/su15021309) (open access)    
+
+<a name="helen_gi"></a> 
+Dias, H. C., Hölbling, D., Dias, V. C., Grohmann, C. H. 2023. Application of Object-Based Image Analysis for Detecting and Differentiating between Shallow Landslides and Debris Flows. 
+_GI_Forum_, 11: 34–44.  
+[https://doi.org/10.1553/giscience2023_01_s34](https://doi.org/10.1553/giscience2023_01_s34) (open access)    
+
+<a name="helen_tranfserability"></a> 
+Dias, H. C., Hölbling, D., Grohmann, C.H., 2023. Rainfall-Induced Shallow Landslide Recognition and Transferability Using Object-Based Image Analysis in Brazil. 
+_Remote Sensing_, 15: 5137.  
+[https://doi.org/10.3390/rs15215137](https://doi.org/10.3390/rs15215137) (open access)    
+
+<a name="vivian_dhr8"></a> 
+Dias, V. C. and Dias, H. C., Grohmann, C. H., 2023. Rainfall-induced debris flows and shallow landslides in Ribeira Valley, Brazil: Main characteristics and inventory mapping.  
+_8th International Conference on Debris Flow Hazard Mitigation (DFHM8)_
+[http://dx.doi.org/10.1051/e3sconf/202341505003](http://dx.doi.org/10.1051/e3sconf/202341505003) (open access)  
+
+<a name="anderson_bigdata"></a> 
+Ferreira, A. T. S., de Oliveira, R. C., Ribeiro, M. C. H., Grohmann, C. H., Siegle, E. 2023. Coastal Dynamics Analysis Based on Orbital Remote Sensing Big Data and Multivariate Statistical Models. 
+Coasts, 3(3): 160–174.  
+[http://dx.doi.org/10.3390/coasts3030010](http://dx.doi.org/10.3390/coasts3030010) (open access)    
+
 <a name="guilherme_dl_caragua"></a> 
-Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H., 2023 - Relict landslide detection in rainforest areas using a combination of k-means clustering algorithm and Deep-Learning semantic segmentation models.  
-_International Journal of Remote Sensing_  [https://doi.org/10.1080/01431161.2023.2197130](https://doi.org/10.1080/01431161.2023.2197130)  
-Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693v1) [cs.CV] (open access)  
+Garcia, G.P.B., Soares, L.P., Espadoto, M., Grohmann, C.H., 2023. Relict landslide detection using deep-learning architectures for image segmentation in rainforest areas: a new framework.  
+_International Journal of Remote Sensing_, 44(7): 2168–2195.  
+[http://dx.doi.org/10.1080/01431161.2023.2197130](http://dx.doi.org/10.1080/01431161.2023.2197130) (paywalled)  
+Preprint available at [arXiv:2208.02693](https://arxiv.org/abs/2208.02693) (open access)  
 
-<a name="alynne_class"></a> 
-Affonso, A.A., Mandai, S.S., Portella, T.P., Quintanilha, J.A., Conti, L.A., Grohmann, C.H., 2023 - A Comparison between Supervised Classification Methods: Study Case on
-Land Cover Change Detection Caused by a Hydroelectric Complex Installation in
-the Brazilian Amazon.  
-_Sustainability_, 15, 1309. [https://doi.org/10.3390/su15021309](https://doi.org/10.3390/su15021309) (open access)  
+<a name="methodsx"></a> 
+Grohmann, C. H., Viana, C. D., Garcia, G. P. B., & Albuquerque, R. W. 2023. Remotely Piloted Aircraft‐based automated vertical surface survey.  
+_MethodsX_, 10: 101982.  
+[http://dx.doi.org/10.1016/j.mex.2022.101982](http://dx.doi.org/10.1016/j.mex.2022.101982) (open access)    
 
-<a name="methods_vertical"></a> 
-Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., 2023 - Remotely Piloted Aircraft‐based automated vertical surface survey.  
-_MethodsX_, 10, 101982. [https://doi.org/10.1016/j.mex.2022.101982](https://doi.org/10.1016/j.mex.2022.101982) (open access)  
+<a name="amanda_msc"></a> 
+Sousa, A. M., Viana, C. D., Garcia, G. P. B., & Grohmann, C. H. 2023. Monitoring Geological Risk Areas in the City of São Paulo Based on Multi-Temporal High-Resolution 3D Models.  
+_Remote Sensing_, 15(12).  
+[http://dx.doi.org/10.3390/rs15123028](http://dx.doi.org/10.3390/rs15123028) (open access)    
 
 <!-- <a name="gmorph23_RPA"></a> 
 Grohmann, C.H., Garcia, G.P.B., Viana, C.D., Dias, H.C., Coelho, R.D., 2023 - RPA flight pattern and GCP influence on SfM-MVS modeling of a stable landslide in SE Brazil  
