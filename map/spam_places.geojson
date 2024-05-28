@@ -6,6 +6,20 @@
 
 { "type": "Feature", "properties": {"category": "research", 
 "Theme": "Landslides",
+"Proj_title": "Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil)", 
+"Proj_person": "Rebeca D. Coelho (PhD student)", 
+"Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
+"geometry": { "type": "Point", "coordinates": [ -45.658171, -23.779197 ] } },
+
+{ "type": "Feature", "properties": {"category": "research", 
+"Theme": "Landslides",
+"Proj_title": "3D modelling of Pedra do Baú natural monument with RPA-LiDAR", 
+"Proj_person": "Francesco Barale (MSc student)", 
+"Proj_link": "https://spamlab.github.io/grants/landslides/" }, 
+"geometry": { "type": "Point", "coordinates": [ -45.661200, -23.687700 ] } },
+
+{ "type": "Feature", "properties": {"category": "research", 
+"Theme": "Landslides",
 "Proj_title": "SfM-MVS and LiDAR modelling of the Toque-Toque landslide", 
 "Proj_person": "Guilherme P.B. Garcia (PhD student)", 
 "Proj_link": "https://spamlab.github.io/grants/landslides/" }, 

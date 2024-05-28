@@ -11,7 +11,7 @@ bigimg:
   - "/img/pmsp_laz/potree1.jpg" : "Sao Paulo City, Brazil, Airborne LiDAR point cloud"
 ---
 
-The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Energy and Environment](http://www.iee.usp.br) of the [University of São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  
+The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Astronomy, Geophysics and Atmospheric Sciences](http://www.iag.usp.br) of the [Universidade de São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  
 
 Here we do all kinds of Spatial Analysis, including GIS, Remote Sensing and Digital Terrain Analysis.
 
@@ -19,9 +19,8 @@ Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or
 
 See our projects pages and blog posts for more details on each activity.  
 
-Follow us on [Twitter](https://twitter.com/SPAM_Lab), [Instagram](https://www.instagram.com/spamlab.iee/), [YouTube](https://www.youtube.com/channel/UCWKii6esTHtTJ0jJcKeNdBQ) and [GitHub](https://github.com/spamlab).  
+Follow us on [Twitter](https://twitter.com/SPAM_Lab), [Instagram](https://www.instagram.com/spamlab.iee/), [YouTube](https://www.youtube.com/@SPAMLabUSP) and [GitHub](https://github.com/spamlab).  
 
-[///written.tech.reward](https://w3w.co/written.tech.reward)  
 
 <br><br>  
 

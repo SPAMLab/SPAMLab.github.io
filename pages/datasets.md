@@ -9,6 +9,14 @@ published: true
 This page has direct links to large datasets (point clouds, RPA images). If you are looking for the scripts and codes that go alogn with our articles, they are in GitHub, both in the [SPAMLab Repo](https://github.com/SPAMLab/data_sharing) and in [Prof. Grohmann's Repo](https://github.com/CarlosGrohmann/scripts_papers).  
 &nbsp;&nbsp;
 
+
+Coelho, R. D., Grohmann, C. H., Viana, C. D., Dias, V. (2024). Landslides of the 2023 summer event of São Sebastião, southeastern Brazil. Vector dataset (polygons and points). 
+_Zenodo_  
+Data provided by FAPESP grant [2023/11197-1](https://bv.fapesp.br/57077).  
+[https://doi.org/10.5281/zenodo.11120078 (version 2)](https://doi.org/10.5281/zenodo.11120078)  
+[https://doi.org/10.5281/zenodo.10558182 (version 1)](https://doi.org/10.5281/zenodo.10558182)  
+
+
 Grohmann, C.H., 2023. Viana Beach, Ilhabela, Brazil. UAV Image Collection.  
 _GeoNadir.com_    
 Data provided by FAPESP grant [2019/26568-0](https://bv.fapesp.br/52552).  

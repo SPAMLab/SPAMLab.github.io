@@ -66,27 +66,30 @@ We have a continuous interest in landslides, with students working on their char
 &nbsp;
 #### Spammers:
 
-**Amanda Mendes de Sousa** (MSc) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas  
+**Amanda Mendes de Sousa** (MSc 2019-2023) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas  
 
-**Guilherme Pereira Bento Garcia** (PhD) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
+**Elton Barbosa Gomes** (undergrad 2018) - Stability analysis of mass movement-prone areas based on High-resolution Digital Terrain Models   
 
-**Helen Cristina Dias** (PhD) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models  
-
-**Rebeca Durço Coelho** (PhD) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration  
-
-**Lucas Pedrosa Soares** (MSc) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning  
-
-**Luiz Fernando dos Santos** (MSc 2017-2020) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
+**Guilherme Pereira Bento Garcia** (PhD 2018-2023) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models  
 
 **Francesco Barale** (undergrad 2019) - Modelling of a small landslide with Terrstrial Laser Scanner.
 
-**Elton Barbosa Gomes** (undergrad 2018) - Stability analysis of mass movement-prone areas based on High-resolution Digital Terrain Models   
+**Helen Cristina Dias** (PhD 2019-2025) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models  
+
+**Lucas Pedrosa Soares** (MSc 2020-2022) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning  
+
+**Luiz Fernando dos Santos** (MSc 2017-2020) - Application of High-resolution Digital Terrain Models in slope stability and mass movement analysis  
+
+**Rebeca Durço Coelho** (PhD 2021-2025) - Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil)  
 
 **Vitor Batista dos Santos** (undergrad 2018) - Analysis and 3D modelling of landslides by terrestrial LiDAR and Structure-from-Motion   
 
 &nbsp;
 &nbsp;
 #### Grants:
+
+[FAPESP #2023/11197-1](/pages/grants#fapesp_landslides2) - **Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil).**  
+
 [FAPESP #2019/26568-0](/pages/grants#fapesp_landslides) - **High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
 
 [CNPq #423481/2018-5.](/pages/grants#cnpq_uav) - **UAV-based high-resolution imaging in geological, geomorphological and environmental analysis.**  
@@ -102,3 +105,5 @@ We have a continuous interest in landslides, with students working on their char
 [**Z_GIS - Centre of Competence for Geoinformatics (Un. Salzburg)**](http://zgis.at/)  
 
 [**Geomorphometry & Hydrogeomatics Research Group (Un. Guelph)**](https://jblindsay.github.io/ghrg/research_group.html)
+
+[**Universitatea Alexandru Ioan Cuza din Iași, România**](https://www.uaic.ro/)  

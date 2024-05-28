@@ -10,12 +10,7 @@ period: 2024-2026
 funding: FAPESP ([2023/11197-1](https://bv.fapesp.br/57077))  
 PI: Carlos H. Grohmann  
 Collabs: [Universitatea Alexandru Ioan Cuza din Iași, România](https://www.uaic.ro/), 
-[Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html)  
-
-<a name="fapesp_vivian"></a>**Mapping and classification of watersheds affected by hydro geomorphological processes in the Serra do Mar Paulista: foundation for planning and mitigation actions.**  
-period: 2022-2024  
-funding: FAPESP ([2022/04233-9](https://bv.fapesp.br/55162))  
-PI: Vivian C. Dias (Post-Doc)  
+[Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html)   
 
 <a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
 period: 2022-2024  
@@ -23,7 +18,7 @@ funding: FAPESP ([2020/12050-6](https://bv.fapesp.br/55876))
 PI: Anderson T.S. Ferreira  
 
 <a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
-period: 2022/03-2025/02  
+period: 2022-2025  
 funding: [CNPq](http://www.cnpq.br) 311209/2021-1  
 PI: Carlos H. Grohmann  
 
@@ -33,12 +28,12 @@ funding: FAPESP ([2018/23899-2](https://bv.fapesp.br/55877))
 PI: André O. Sawakuchi, IGc-USP  
 
 <a name="mauricio_jp2"></a>**Topographic construction along the northeastern Andes and the origin of the Transcontinental Amazon Basin.**  
-period: 2019-2024  
+period: 2019-2025  
 funding: FAPESP ([2018/15613-1](https://bv.fapesp.br/55163))  
 PI: Mauricio Parra Amézquita, IEE-USP  
 
 <a name="fapesp_core"></a>**Sea-level changes and global monsoon system: clues from marine cores in Brazil.**  
-period: 2019-2024  
+period: 2019-2026  
 funding: FAPESP ([2016/24946-9](https://bv.fapesp.br/50863))  
 PI: Luigi Jovane, IO-USP  
 
@@ -48,6 +43,11 @@ PI: Luigi Jovane, IO-USP
 &nbsp;
 
 ### **Past**
+<a name="fapesp_vivian"></a>**Mapping and classification of watersheds affected by hydro geomorphological processes in the Serra do Mar Paulista: foundation for planning and mitigation actions.**  
+period: 2022-2024  
+funding: FAPESP ([2022/04233-9](https://bv.fapesp.br/55162))  
+PI: Vivian C. Dias (Post-Doc) 
+
 <a name="fapesp_landslides"></a>**High-Resolution Remote Sensing, Deep Learning and Geomorphometry in Analyses of Mass Movements and Geological Risk.**  
 period: 2021-2023  
 funding: FAPESP ([2019/26568-0](https://bv.fapesp.br/51900))  
@@ -100,12 +100,12 @@ funding: FAPESP ([2009/17675-5](https://bv.fapesp.br/7151))
 PI: Carlos H. Grohmann  
 
 <a name="cnpq_pq2016"></a>**Geomorphometry and landscape evolution of the Amazon Basin**  
-period: 2016/03-2019/02  
+period: 2016-2019  
 funding: CNPq (307647/2015-3)  
 PI: Carlos H. Grohmann  
 
 <a name="cnpq_pq2013"></a>**Digital Terrain Analysis of the Amazon Region**  
-period: 2013/03-2016/02  
+period: 2013-2016  
 funding: CNPq (306294/2012-5)  
 PI: Carlos H. Grohmann  
 
