@@ -51,6 +51,10 @@ published: true
 ## PhD Students
 <table class="table-borderless" style="width:100%">
   <tr>
+    <td width="17%"> <img src="/img/logos/spamlab_avatar.png" class="img-circle" width="99%"> </td>
+    <td width="83%"> <b>Fabiana Pereira Lasmar</b> (PhD 2024-2026) (<a href="http://lattes.cnpq.br/4615214525403114">Lattes CV</a>) - Geotechnologies applied to environmental technical investigations. <br> </td> 
+  </tr>
+  <tr>
     <td width="17%"> <img src="/img/people/helen.jpg" class="img-circle" width="99%"> </td>
     <td width="83%"> <b>Helen Cristina Dias</b> (PhD 2019-2025) (<a href="http://orcid.org/0000-0002-5006-7006">ORCiD</a> | <a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. <br> scholarship: FAPESP grant <a href="https://bv.fapesp.br/49547">#2019/17261-8</a></td> 
   </tr>

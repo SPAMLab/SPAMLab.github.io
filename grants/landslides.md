@@ -3,11 +3,39 @@ layout: page
 title: Landslides
 subtitle: 
 ---
-#### News:
+#### About:
+Landslides are common geological phenomena in high-relief areas, occurring across a range of spatial and temporal scales, and are considered the main erosive process in the geomorphological evolution of such areas.  
+
+When occurring close to inhabited zones their destructive effects cannot be underestimated, as well as their capacity to modify the landscape and the huge amount of debris carried to streams and rivers, which may impact water distribution and the environment.  
+
+We have a continuous interest in landslides, with students working on their characterization from a morphological point of view with high-resolution DTMs, recognition and mapping with orbital mutispectral imagery, and evaluating the risk imposed by such events to urban settlements.   
+&nbsp;
+&nbsp;
+
+
+
+<!-- {: style="text-align:center"} -->
+[![ttg]({{site.baseurl}}/img/landslides/ttg_screen.png "3D Landslide"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
+*3D model of a landslide near the coastal region of São Paulo State*  
+&nbsp;
+&nbsp;
+
+[![cunha]({{site.baseurl}}/img/landslides/cunha_point_clouds.jpg "3D - Cunha"){:width="700px"}]({{site.baseurl}}/img/cunha_point_clouds.jpg)   
+*3D models of a small landslide - left: terrestrial LiDAR; right: UAV data*  
+
+
+
+
+&nbsp;
+&nbsp;
+#### Publications:
 
 <!-- [[publication](/pages/publications/index.html#)]: Paper published in the []()  -->
 
-Our research was featured in [Jornal da USP](https://youtu.be/8rpZNWbAgGA)   
+[[publication](/pages/publications/index.html#rebeca_inventario)]: Paper published in the [Brazilian Journal of Geology](https://doi.org/10.1590/2317-4889202420240006)  
+
+[[publication](/pages/publications/index.html#massi_esr)]: Paper published in [Earth-Science Reviews](https://doi.org/10.1016/j.earscirev.2024.104927)  
+
 
 [[publication](/pages/publications/index.html#helen_standards)]: Paper published in the [Journal of South American Earth Sciences](http://dx.doi.org/10.1016/j.jsames.2024.104805)  
 
@@ -36,29 +64,6 @@ Our research was featured in [Jornal da USP](https://youtu.be/8rpZNWbAgGA)
 [[publication](/pages/publications/index.html#isl_helen)]: Paper presented at the [_XIII International Symposium on Landslides_](https://www.issmge.org/publications/publication/landslide-inventory-mapping-in-brazil-status-and-challenges)  
 
 <!-- [[blog post]({{site.url}}/2018-04-24-garcia_lichi)]: "Garcia Garden" quarry - 3D modeling of a vertical wall with SfM and a UAV -->
-
-
-&nbsp;
-#### About:
-Landslides are common geological phenomena in high-relief areas, occurring across a range of spatial and temporal scales, and are considered the main erosive process in the geomorphological evolution of such areas.  
-
-When occurring close to inhabited zones their destructive effects cannot be underestimated, as well as their capacity to modify the landscape and the huge amount of debris carried to streams and rivers, which may impact water distribution and the environment.  
-
-We have a continuous interest in landslides, with students working on their characterization from a morphological point of view with high-resolution DTMs, recognition and mapping with orbital mutispectral imagery, and evaluating the risk imposed by such events to urban settlements.   
-&nbsp;
-&nbsp;
-
-
-
-<!-- {: style="text-align:center"} -->
-[![ttg]({{site.baseurl}}/img/landslides/ttg_screen.png "3D Landslide"){:width="700px"}]({{site.baseurl}}/img/perus_3d.png)   
-*3D model of a landslide near the coastal region of São Paulo State*  
-&nbsp;
-&nbsp;
-
-[![cunha]({{site.baseurl}}/img/landslides/cunha_point_clouds.jpg "3D - Cunha"){:width="700px"}]({{site.baseurl}}/img/cunha_point_clouds.jpg)   
-*3D models of a small landslide - left: terrestrial LiDAR; right: UAV data*  
-
 
 
 
@@ -107,3 +112,7 @@ We have a continuous interest in landslides, with students working on their char
 [**Geomorphometry & Hydrogeomatics Research Group (Un. Guelph)**](https://jblindsay.github.io/ghrg/research_group.html)
 
 [**Universitatea Alexandru Ioan Cuza din Iași, România**](https://www.uaic.ro/)  
+
+
+
+&nbsp;

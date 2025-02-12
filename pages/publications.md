@@ -10,6 +10,31 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## 2024
+
+<a name="rebeca_inventario"></a> 
+Coelho R.D., Viana C.D., Dias V.C., Grohmann C.H. 2024. Landslides of the 2023 summer event of São Sebastião, southeastern Brazil: spatial dataset.  
+_Brazilian Journal of Geology_, 54(2):e20240006. 
+[https://doi.org/10.1590/2317-4889202420240006](https://doi.org/10.1590/2317-4889202420240006) (open access)  
+
+
+<a name="demix_hydro"></a> 
+Guth P.L., Trevisani S., Grohmann C.H., Lindsay J., Gesch D., Hawker L., Bielski C., 2024. Ranking of 10 Global One-Arc-Second DEMs Reveals Limitations in Terrain Morphology Representation. 
+_Remote Sensing_. 2024; 16(17):3273.  
+[https://doi.org/10.3390/rs16173273](https://doi.org/10.3390/rs16173273)  
+
+
+<a name="massi_esr"></a> 
+Alvioli, M., Loche, M., Jacobs, L., Grohmann, C. H., Abraham, M. T., Gupta, K., Satyam, N., Scaringi, G., Bornaetxea, T., Rossi, M., Marchesini, I., Lombardo, L., Moreno, M., Steger, S., Camera, C., Bajni, G., Samodra, G., Wahyudi, E. E., Susyanto, N., et al. 2024. A benchmark dataset and workflow for landslide susceptibility zonation.  
+_Earth-Science Reviews_, 104927.  
+[https://doi.org/10.1016/j.earscirev.2024.104927](https://doi.org/10.1016/j.earscirev.2024.104927)  
+
+
+<a name="anderson_mex"></a> 
+Ferreira, A. T. S., Grohmann, C. H., Ribeiro, M. C. H., Santos, M. S. T., de Oliveira, R. C., Siegle, E. 2024. Beach surface model construction: A strategy approach with structure from motion-multi-view stereo.  
+_MethodsX_, 12: 102694.
+[https://doi.org/10.1016/j.mex.2024.102694](https://doi.org/10.1016/j.mex.2024.102694)  
+
+
 <a name="demix_sg2_ieee"></a> 
  Bielski, C., López-Vázquez, C., Grohmann, C.H., Guth. P.L., Hawker, L., Gesch, D., Trevisani, S., Herrera-Cruz, V., Riazanoff, S., Corseaux, A., Reuter, H., Strobl, P., 2024. Novel approach for ranking DEMs: Copernicus DEM improves one arc second open global topography. 
  _IEEE Transactions on Geoscience & Remote Sensing_. 

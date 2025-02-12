@@ -10,12 +10,25 @@ Links to various media news articles about our projects.
 <br>
 
 Landslides and Geological Risk ([see project](/grants/landslides))
+ - [Agência FAPESP](https://agencia.fapesp.br/grupo-da-usp-usa-imagens-de-alta-resolucao-para-criar-modelo-que-preve-risco-de-deslizamento-no-litoral/52823)
+
+ - [Jornal da USP](https://jornal.usp.br/ciencias/com-imagens-de-alta-resolucao-modelo-preve-risco-de-deslizamento-no-litoral-de-sp/)
+
+ - [Jornal Alesp](https://www.youtube.com/live/WNiSx68odhk?si=J5GZuHHY9cp1d6H8&t=2951)
+
+ - [TV Cultura - Jornal da Tarde](https://www.youtube.com/live/iaVUxj73RAM?si=fqXgBhPRZvN3JsGL&t=665 )
+
+ - [Radio Universitaria FM de Uberlândia](https://www.programatrocandoemmiudos.com.br/sites/default/files/2024-10/1001-PROGRAMA%20DO%20DIA.mp3)
+
  - [GeoNadir - How drones are improving landslide risk management in Brazil](https://geonadir.com/drones-landslide-risk-management/)
+
+ - [Jornal da USP](https://youtu.be/8rpZNWbAgGA)
+
 
 <br>
 
 3D mapping of Devil's Cave ([see project](/grants/cave_3d_tapagem))
- - ‪[Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/)
+ - [Agência FAPESP](http://agencia.fapesp.br/pesquisadores-realizam-mapeamento-3d-da-caverna-do-diabo/30966/)
 
  - [Jornal da USP](http://jornal.usp.br/ciencias/ciencias-humanas/pesquisadores-da-usp-realizam-mapeamento-3d-da-caverna-do-diabo/)
 
