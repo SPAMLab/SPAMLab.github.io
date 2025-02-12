@@ -17,6 +17,8 @@ O primeiro vídeo já está no ar e traz uma visão geral do processo de revisã
 
 Vai lá, assina o canal e deixa um joinha!
 
+<!--more-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q8c5bVG7fn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;

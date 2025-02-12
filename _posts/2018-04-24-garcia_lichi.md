@@ -14,6 +14,8 @@ tags:
 
 On March 28th and April 3rd we had two nice field trips to the "Garcia Garden" quarry. The goal was to acquire images with our drone to create a 3D model of the wall. The model will be used by Camila and Fernanda to determine the attitude (dip direction, dip) of fracture systems and later these will be compared with values obtained in the field. 
 
+<!--more-->
+
 The place is an inactive basalt quarry, now managed by the Municipality of Campinas, and is a local hotspot for rock climbing, drone flying and jogging. Shaped like a wide "U", it has one long East-West wall and two smaller North-South walls. Since we are in the Southern Hemisphere, the Sun goes from northeast to Northwest, so the E-W wall is always under the shadows, and the West wall will be lit in the morning and dark in the afternoons (and vice-versa for the East wall). This means that we need to leave early (Campinas is about 1 hour driving from the USP campus) and work fast before the West wall gets too dark. 
 
 We started by placing three fixed points on the ground: one in front of the wall, one a bit South of the first and one at the other side of the quarry. These points were surveyed with dGPS and we set up our Total Station over the first point to measure the orientation of recognizable features on the wal (we used climbing anchors). Back at the office, we used the dGPS coordinates and the Total Station data to calculate the real world (UTM) XYZ coordinates of the surveyed points. The coordinates will be used later to georreference the 3D model.  

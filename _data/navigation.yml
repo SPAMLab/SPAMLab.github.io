@@ -1,0 +1,53 @@
+- name: Publications
+  link: /#
+  dropdown:
+    - name: Papers
+      link: /pages/publications/
+    - name: Datasets
+      link: /pages/datasets/
+- name: Projects
+  link: /#
+  dropdown:
+    - name: Grants
+      link: /pages/grants/
+    - name: Map
+      link: /pages/map/
+    - name: Landslides
+      link: /pages/grants/landslides/
+    - name: Openstereo
+      link: /pages/grants/openstereo/
+    - name: Cave 3D 
+      link: /pages/grants/cave_3d/
+    - name: Dunes 4D
+      link: /pages/grants/dune_field/
+    - name: MeshFrac
+      link: /pages/grants/meshfrac/
+- name: Outreach
+  link: /#
+  dropdown:
+    - name: Videos
+      link: /pages/videos/
+    - name: 3D Models
+      link: /pages/3dmodels/
+    - name: Media
+      link: /pages/news/
+- name: About Us
+  link: /#
+  dropdown:
+    - name: People
+      link: /pages/people/
+    - name: Collabs
+      link: /pages/collabs/
+    - name: Social Media
+      link: /pages/social_feed/
+    - name: Tools
+      link: /pages/tools/
+- name: Blog
+  link: /#
+  dropdown:
+    - name: Posts
+      link: /blog/
+    - name: Archive
+      link: /archive/
+    - name: Tags
+      link: /tags/

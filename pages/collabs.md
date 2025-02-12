@@ -2,7 +2,9 @@
 layout: page
 title: Collabs
 subtitle: Our amazing friends
-published: true
+hero_image: "/img/headers/pawns.jpg"
+hero_darken: true
+show_sidebar: false
 ---
 
 [Geomorphometry & Hydrogeomatics Research Group (Un. Guelph)](https://jblindsay.github.io/ghrg/research_group.html)  

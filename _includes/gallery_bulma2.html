@@ -1,0 +1,23 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+
+/* To overwrite page's padding, to get bigger images */
+/* article {padding:2%;} */
+</style>
+
+<div class="columns is-multiline">
+{%- for image in site.static_files -%}
+{%- if image.path contains include.gallery_path -%}
+{%- unless image.path contains '.md' -%}
+{%- unless image.name contains 'thumb' -%}
+{%- capture img_url -%} {{- image.path -}} {%- endcapture -%}
+{%- capture thmb_url -%} {{- image.path | split:'.' | first | append:'_thumb.jpg' -}} {%- endcapture -%}
+<div class="column is-one-quarter-desktop is-half-tablet">
+{%- include image-modal_fx2.html link=thmb_url large_link=img_url alt="" -%}
+</div>
+{%- endunless -%}
+{%- endunless -%}
+{%- endif -%}
+{%- endfor -%}
+</div>

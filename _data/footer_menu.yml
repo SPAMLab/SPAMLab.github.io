@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Blog
+  link: /blog/
+- name: Instagram
+  link: https://www.instagram.com/spamlab.usp/
+- name: YouTube
+  link: https://www.youtube.com/@SPAMLabUSP
+- name: GitHub
+  link: https://github.com/spamlab
+- name: IAG-USP
+  link: https://www.iag.usp.br/

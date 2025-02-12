@@ -1,0 +1,33 @@
+style: is-light has-text-link
+height: is-small
+items:
+  - title: Publications
+    subtitle: 
+    icon: fa-regular fa-file-lines
+    icon_brand: false
+    description: >
+      Check the latest papers<br>  
+      by our team.
+    call_to_action_name: Enlighten me
+    call_to_action_link: /pages/publications/
+    facolor: "color:#0e6655"
+  - title: YouTube
+    subtitle: 
+    icon: fa-youtube
+    icon_brand: true
+    description: >
+      Videos about GIS, Open-Source Software,<br>  
+      Science Publishing and more
+    call_to_action_name: Show me
+    call_to_action_link: /pages/videos/
+    facolor: "color:#0e6655"
+  - title: Blog
+    subtitle: 
+    icon: fa-regular fa-file-lines
+    icon_brand: false
+    description: >
+      Somewhat randon and<br>  
+      inconsistent posts.
+    call_to_action_name: Ok, then
+    call_to_action_link: /blog
+    facolor: "color:#0e6655"

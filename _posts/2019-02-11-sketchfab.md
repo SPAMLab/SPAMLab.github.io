@@ -13,6 +13,8 @@ Now the SPAMLab has a [Sketchfab profile](https://sketchfab.com/spamlab)!
 
 Check out our 3D models and follow us for more!  
 
+<!--more-->
+
 Just a little preview for your enjoyment:  
 
 <div class="sketchfab-embed-wrapper"><iframe width="700" height="400" src="https://sketchfab.com/models/b8e339a519d04b948a54396d547941fa/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

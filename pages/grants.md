@@ -2,7 +2,11 @@
 layout: page
 title: Grants
 subtitle: Putting taxpayers' money to good use
+hero_image: "/img/headers/coins.jpg"
+hero_darken: true
+show_sidebar: false
 ---
+
 ### **Current**
 
 <a name="fapesp_landslides2"></a>**Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil).**  
@@ -11,11 +15,6 @@ funding: FAPESP ([2023/11197-1](https://bv.fapesp.br/57077))
 PI: Carlos H. Grohmann  
 Collabs: [Universitatea Alexandru Ioan Cuza din Iași, România](https://www.uaic.ro/), 
 [Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html)   
-
-<a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
-period: 2022-2024  
-funding: FAPESP ([2020/12050-6](https://bv.fapesp.br/55876))  
-PI: Anderson T.S. Ferreira  
 
 <a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
 period: 2022-2025  
@@ -38,11 +37,19 @@ funding: FAPESP ([2016/24946-9](https://bv.fapesp.br/50863))
 PI: Luigi Jovane, IO-USP  
 
 
-
-&nbsp;
-&nbsp;
+<br><br>
 
 ### **Past**
+<a name="fapesp_helenDR"></a>**Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models.**  
+period: 2019-2025
+funding: FAPESP ([2019/17261-8 ](https://bv.fapesp.br/59061)) (DSc scholarship)  
+PI: Helen Cristina Dias  
+
+<a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
+period: 2022-2024  
+funding: FAPESP ([2020/12050-6](https://bv.fapesp.br/55876))  
+PI: Anderson T.S. Ferreira  
+
 <a name="fapesp_vivian"></a>**Mapping and classification of watersheds affected by hydro geomorphological processes in the Serra do Mar Paulista: foundation for planning and mitigation actions.**  
 period: 2022-2024  
 funding: FAPESP ([2022/04233-9](https://bv.fapesp.br/55162))  
@@ -72,6 +79,11 @@ funding: [CNPq](http://www.cnpq.br) 423481/2018-5
 PI: Carlos H. Grohmann  
 Collabs: [The Lecours Lab (Un. Florida)](https://www.thelecourslab.org), 
 [Marine Meiofauna Research Group (Unifesp Santos)](http://fonsecagfc.wixsite.com/np-meiofauna), [Geology Lab of the School of Technology (Unicamp)](https://wordpress.ft.unicamp.br/bernardotf/l-geo/), [Institute for Technological Research (IPT-SP)](https://www.ipt.br/EN)  
+
+<a name="fapesp_lucasMS"></a>**Automatic segmentation of landslide scars in remote sensing imagery with deep learning.**  
+period: 2019-2021
+funding: FAPESP ([2019/17555-1](https://bv.fapesp.br/59062)) (MSc scholarship)  
+PI: Lucas Pedrosa Soares  
 
 <a name="cnpq_pq2018"></a>**Applications of Structure-from-Motion and Terrestrial LiDAR in Geology and Geomorphology.**  
 period: 2019/03-2022/02  

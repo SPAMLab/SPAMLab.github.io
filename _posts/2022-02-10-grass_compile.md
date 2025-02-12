@@ -13,6 +13,8 @@ tags:
 
 Este post acompanha o [vídeo sobre compilação do GRASS-GIS no Linux](https://youtu.be/wBCgtVSVXAc). 
 
+<!--more-->
+
 Estes são os pacotes a serem instalados antes da compilação:
 
 <pre>

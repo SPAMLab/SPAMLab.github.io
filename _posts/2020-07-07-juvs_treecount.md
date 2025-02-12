@@ -18,6 +18,8 @@ Our PhD student Rafael just published a paper!
 
 In it, he proposes and evaluates a semi-automated methodology for counting trees directly on Digital Surface Models in forest restoration areas in the Amazon.  
 
+<!--more-->
+
 Here's the citation:  
 
 Albuquerque,R.W.; Costa,M.O.; Ferreira,M.E.; Carrero,G.C.; Grohmann,C.H., 2020. Remotely piloted aircraft imagery for automatic tree counting in forest restoration areas: a case study in the Amazon. _Journal of Unmanned Vehicle Systems_, [https://doi.org/10.1139/juvs-2019-0024](https://doi.org/10.1139/juvs-2019-0024)  

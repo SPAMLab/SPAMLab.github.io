@@ -1,14 +1,10 @@
 ---
 layout: page
-title: SPAMLab
-subtitle: Spatial Analysis And Modelling Lab
-published: true
-bigimg:
-  - "/img/garcia_quarry/mesh.jpg" : "3D mesh, basalt quarry wall"
-  - "/img/garcia_quarry/texture.jpg" : "3D model with texture, basalt quarry wall"
-  - "/img/tapagem/diabo_captura_nuvem_super.jpg" : "Devil's Cave, LiDAR point cloud"
-  - "/img/tapagem/diabo_captura_nuvem_limpa.jpg" : "Devil's Cave, LiDAR point cloud (clean)"
-  - "/img/pmsp_laz/potree1.jpg" : "Sao Paulo City, Brazil, Airborne LiDAR point cloud"
+title: SPAMLab - Spatial Analysis And Modelling Lab
+hero_image: "/img/headers/petar_curv.jpg"
+hero_darken: true
+show_sidebar: false
+callouts: home_callouts
 ---
 
 The Spatial Analysis And Modelling Lab (SPAMLab) is hosted at the [Institute of Astronomy, Geophysics and Atmospheric Sciences](http://www.iag.usp.br) of the [Universidade de São Paulo](http://www.usp.br) (Brazil), and coordinated by [Prof. Carlos H. Grohmann](http://carlosgrohmann.com).  
@@ -19,7 +15,7 @@ Our current projects include: applications of UAVs (Unmanned Aerial Vehicles, or
 
 See our projects pages and blog posts for more details on each activity.  
 
-Follow us on [Twitter](https://twitter.com/SPAM_Lab), [Instagram](https://www.instagram.com/spamlab.iee/), [YouTube](https://www.youtube.com/@SPAMLabUSP) and [GitHub](https://github.com/spamlab).  
+Follow us on [Instagram](https://www.instagram.com/spamlab.usp/), [YouTube](https://www.youtube.com/@SPAMLabUSP) and [GitHub](https://github.com/spamlab).  
 
 
 <br><br>  

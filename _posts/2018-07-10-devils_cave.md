@@ -14,6 +14,8 @@ tags:
 
 On July 08-09-10 we had a great field trip to the Devil's Cave. The goal of this trip was to collect Terrestrial LiDAR (TLS) data of the touristic sector of the cave. 
 
+<!--more-->
+
 But before that, we needed to establish a series of fixed points with precise coordinates, which are used to georeference the cave point could to a real world coordinate system. We did this by occupying two positions with a [DGPS](https://en.wikipedia.org/wiki/Differential_GPS) and then by transporting the coordinates with classic surveying methods using a [Total Station](https://en.wikipedia.org/wiki/Total_station). 
 
 

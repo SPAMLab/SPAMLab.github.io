@@ -1,16 +1,22 @@
 ---
 layout: page
-title: Papers
+title: Publications
 subtitle: Trying not to perish
-published: true
+hero_image: "/img/headers/library_crop.jpg"
+hero_darken: true
+show_sidebar: false
 ---
 Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/pages/publications/).  
 &nbsp;&nbsp;
 
 
 
-## 2024
+## 2025
+<a name="ttg_drone"></a> 
+Grohmann, C.H., Garcia, G.P.B., Viana, C.D.,  Dias, H.C., Gramani, M.F., Santos, L.F., Sousa, A.M., Soares,  L.P., & Coelho, R.D., 2025. Landslide 3D reconstruction and  monitoring using oblique and nadiral drone aerial imagery. In _Earth  Observation Applications to Landslide Mapping, Monitoring and Modeling_  (pp. 199–214). Elsevier.  [https://doi.org/10.1016/b978-0-12-823868-4.00010-6](https://doi.org/10.1016/b978-0-12-823868-4.00010-6) (paywalled)
 
+<br>
+## 2024
 <a name="rebeca_inventario"></a> 
 Coelho R.D., Viana C.D., Dias V.C., Grohmann C.H. 2024. Landslides of the 2023 summer event of São Sebastião, southeastern Brazil: spatial dataset.  
 _Brazilian Journal of Geology_, 54(2):e20240006. 
@@ -52,7 +58,7 @@ Dias, H. C., Grohmann, C. H., 2024. Standards for shallow landslide identificati
 _Journal of South American Earth Sciences_, 135:104805.  
 [http://dx.doi.org/10.1016/j.jsames.2024.104805](http://dx.doi.org/10.1016/j.jsames.2024.104805) (paywalled)  
 
-
+<br>
 ## 2023
 <a name="alynne_sustainability"></a> 
 Affonso, A. A., Mandai, S. S., Portella, T. P., Quintanilha, J. A., Conti, L. A., Grohmann, C.H.,2023. A Comparison between Supervised Classification Methods: Study Case on Land Cover Change Detection Caused by a Hydroelectric Complex Installation in the Brazilian Amazon.  
@@ -112,7 +118,7 @@ Grohmann, C.H., Guth, P.G., Trevisani, S., 2023 - Geomorphometric and Geospatial
 _Geomorphometry 2023_, Iasi, Romania, []()   -->
 
 
-&nbsp;
+<br>
 ## 2022
 <a name="cunha_guilherme"></a> 
 Garcia, G.P.B., Gomes, E., Viana, C.D., Grohmann, C.H., 2022. Comparing Terrestrial Laser Scanner and RPA-based Photogrammetry to Generate a Landslide DEM.  
@@ -148,7 +154,7 @@ _Remote Sensing_, 14(4):830.
 [https://doi.org/10.3390/rs14040830](https://doi.org/10.3390/rs14040830) (open access)    
 
 
-&nbsp;
+<br>
 ## 2021
 <a name="protocol_rafael"></a>
 Albuquerque, R.W, Ferreira, M.E., Olsen, S.I., Tymus, J.R.C., Balieiro, C.P., Mansur, H.,
@@ -195,7 +201,7 @@ _Remote Sensing_, 13:377.
 [https://doi.org/10.3390/rs13030377](https://doi.org/10.3390/rs13030377) (open access)    
 
 
-&nbsp;
+<br>
 ## 2020
 <a name="treecount_rafael"></a>Albuquerque, R.W, Costa, M.O., Ferreira, M.E, Carrero, G.C., Grohmann, C.H., 2020 - Remotely Piloted Aircrafts Imagery for Automatic Tree Counting in Forest Restoration Areas: a Case Study in the Amazon.  
 _Journal of Unmanned Vehicle Systems_, 8:207-223  
@@ -213,7 +219,7 @@ _Proceedings of the Geomorphometry 2020 conference_
 [http://doi.org/10.30437/Geomorphometry2020](http://doi.org/10.30437/Geomorphometry2020) (open access)   
 
 
-&nbsp;
+<br>
 ## 2019
 <a name="sbsr_car"></a>Albuquerque, R.W.; Ferreira, M.E.; Girão, V.J.; Balieiro, C.P.; Mansur, H.; Costa, J.V.S.; Grohmann, C.H., 2019. Comparação de RPAS e TOPODATA no mapeamento de regiões declivosas previstas no Cadastro Ambiental Rural. _XIX Brazilian Symposium on Remote Sensing_. Santos, SP.  
 *download:* [Paper]({{site.baseurl}}/pub/SBSR2019/Albuquerque_etal_2019_SBSR_rpas_topodata_car_paper.pdf)  
@@ -246,7 +252,7 @@ Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https:
 
 
 
-&nbsp;
+<br>
 ## 2018 
 <!-- <a name="jsaes"></a>Garcia, G.P.B.; Grohmann, C.H., 2018. DEM-based Geomorphological Mapping and Landforms Characterization of a Tropical Karst Environment in Southeastern Brazil. _in review_   -->
 <!-- Preprint available at EarthArXiv: [https://doi.org/10.31223/osf.io/t6y2e](https://doi.org/10.31223/osf.io/t6y2e) (open access) -->
@@ -261,7 +267,7 @@ Preprint available at [arXiv:1709.05016](https://arxiv.org/abs/1709.05016) [phys
 <a name="bjgeo_camila"></a>Viana, C.D.; Grohmann, C.H.; Busarello, M.T.S.; Garcia, G.P.B., 2018. Structural analysis of clastic dikes using Structure from Motion - Multi-View Stereo: a case-study in the Paraná Basin, southeastern Brazil. _Brazilian Journal of Geology_, 48(4):839-852.  
 [https://doi.org/10.1590/2317-4889201800201898](https://doi.org/10.1590/2317-4889201800201898) (open access)
 
-&nbsp;
+<br>
 ## 2016 
 <a name="gdem_isprs"></a>Grohmann, C.H., 2016. Comparative Analysis of Global Digital Elevation Models and Ultra-Prominent Mountain Peaks. _ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences_. III-4:17-23  
 [http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016](http://dx.doi.org/10.5194/isprs-annals-III-4-17-2016) (open access)  
@@ -274,7 +280,7 @@ python script available on [GitHub](https://github.com/CarlosGrohmann/scripts_pa
 [http://dx.doi.org/10.1016/j.cageo.2016.02.017](http://dx.doi.org/10.1016/j.cageo.2016.02.017)  
 
 
-&nbsp;
+<br>
 ## 2015 
 <a name="cageo_derivatives"></a>Grohmann, C.H., 2015. Effects of spatial resolution on slope and aspect derivation for regional-scale analysis. _Computers & Geosciences_. 77:111-117  
 [http://dx.doi.org/10.1016/j.cageo.2015.02.003](http://dx.doi.org/10.1016/j.cageo.2015.02.003)  
@@ -282,7 +288,7 @@ python script available on [GitHub](https://github.com/CarlosGrohmann/scripts_pa
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/6XC29) (open access)  
 
 
-&nbsp;
+<br>
 ## 2013 
 <a name="ijgis_editorial"></a>Grohmann, C.H., Miliaresis, G., 2013. Geological applications of digital terrain analysis. (Editorial, Special Issue – Geological applications of digital terrain analysis). _International Journal of Geographical Information Science_. 27:1403-1404  
 [http://dx.doi.org/10.1080/13658816.2013.772617](http://dx.doi.org/10.1080/13658816.2013.772617)  
@@ -293,14 +299,14 @@ Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/HDM87
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/PR7UM) (open access)  
 
 
-&nbsp;
+<br>
 ## 2012 
 <a name="geousp_doc"></a>Grohmann, C.H., Riccomini, C., 2012. Análise digital de terreno e evolução de longo-termo de relevo do centro-leste brasileiro. _Geologia USP, Série Científica_. 12:129-150  
 [http://dx.doi.org/10.5327/Z1519-874X2012000200009](http://dx.doi.org/10.5327/Z1519-874X2012000200009) (open access)  
 Also available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/EKB4N) (open access)  
 
 
-&nbsp;
+<br>
 ## 2011 
 <a name="hess_isobase"></a>Grohmann, C.H., Riccomini, C., Chamani, M.A., 2011. Regional scale analysis of landform configuration with base-level (isobase) maps. _Hydrology and Earth System Sciences_. 15:1493-1504  
 [http://dx.doi.org/10.5194/hess-15-1493-2011](http://dx.doi.org/10.5194/hess-15-1493-2011) (open access)  
@@ -310,14 +316,14 @@ Also available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/EKB4N) (op
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/2DSJN) (open access)  
 
 
-&nbsp;
+<br>
 ## 2009 
 <a name="cageo_mw"></a>Grohmann, C.H., Riccomini,C., 2009. Comparison of roving-window and search-window techniques for characterising landscape morphometry. _Computers & Geosciences_. 35:2164-2169  
 [http://dx.doi.org/10.1016/j.cageo.2008.12.014](http://dx.doi.org/10.1016/j.cageo.2008.12.014)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/X6BRZ) (open access)  
 
 
-&nbsp;
+<br>
 ## 2008 
 <a name="rga_srtm"></a>Grohmann, C.H., Riccomini, C., Steiner, S.S., 2008. Aplicações dos modelos de elevação SRTM em geomorfologia. _Revista Geográfica Acadêmica_ 2:73-83  
 [https://revista.ufrr.br/rga](https://revista.ufrr.br/rga/issue/view/176) (open access)  
@@ -328,14 +334,14 @@ Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/AMN2T
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/BG8A7) (open access)  
 
 
-&nbsp;
+<br>
 ## 2007 
 <a name="cageo_mapc"></a>Grohmann, C.H., Riccomini, C., Alves, F.M., 2007. SRTM-based morphometric analysis of the Poços de Caldas Alkaline Massif, southeastern Brazil. _Computers & Geosciences_, 33 (1):10-19.  
 [http://dx.doi.org/10.1016/j.cageo.2006.05.002](http://dx.doi.org/10.1016/j.cageo.2006.05.002)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/HZ4CT) (open access)  
 
 
-&nbsp;
+<br>
 ## 2006 
 <a name="rse_tdx"></a>Grohmann,C.H., 2006. Resampling SRTM 03”-data with kriging. _GRASS/OSGeo News_, 4:20-25.  
 [https://grass.osgeo.org/newsletter](http://grass.osgeo.org/newsletter/GRASS_OSGeo_News_vol4-roughness.pdf)  
@@ -346,14 +352,14 @@ Available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/DBX3J) (open ac
 Available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/FSVMW) (open access)  
 
 
-&nbsp;
+<br>
 ## 2005 
 <a name="rse_tdx"></a>Grohmann, C.H., 2005. Trend-surfaces analysis of morphometric parameters: A case study in southeastern Brazil. _Computers & Geosciences_, 31 (8):1007-1014.   
 [http://dx.doi.org/10.1016/j.cageo.2005.02.011](http://dx.doi.org/10.1016/j.cageo.2005.02.011)  
 Postprint available at [EarthArXiv.org](https://dx.doi.org/10.17605/OSF.IO/9VU72) (open access)  
 
 
-&nbsp;
+<br>
 ## 2004 
 <a name="rse_tdx"></a>Grohmann, C.H. 2004. Morphometric analysis in Geographic Information Systems: applications of free software GRASS and R. _Computers & Geosciences_, 30 (9-10):1055-1067.  
 [http://dx.doi.org/10.1016/j.cageo.2004.08.002](http://dx.doi.org/10.1016/j.cageo.2004.08.002)  

@@ -18,6 +18,8 @@ tags:
 
 GIS routines often demands converting raster data to vector data.  
 
+<!--more-->
+
 | [![]({{site.baseurl}}/img/fix_geom/Raster_to_Vector.png "Click to see larger image"){:width="500px"}]({{site.baseurl}}/img/fix_geom/Raster_to_Vector.png) |
 |:--:| 
 | *Example of a vector file obtained from a raster* |

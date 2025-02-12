@@ -1,14 +1,18 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem "github-pages", group: :jekyll_plugins
+source "https://rubygems.org"
+gemspec
 
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
+gem 'github-pages'
 
-gem 'jekyll-twitter-plugin', group: :jekyll_plugins
+group :jekyll_plugins do
+    gem "jekyll-feed", "~> 0.6"
+    gem "jekyll-sitemap"
+    gem "jekyll-paginate"
+    gem "jekyll-seo-tag"
+    gem 'jekyll-redirect-from'
+    gem 'jekyll-target-blank'
+end
 
-# gem 'jekyll-target-blank'
 
-gem "jekyll", ">= 3.7.4"
 gem "webrick", "~> 1.8"

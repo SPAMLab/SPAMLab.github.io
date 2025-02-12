@@ -1,0 +1,21 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+
+/* To overwrite page's padding, to get bigger images */
+/* article {padding:2%;} */
+</style>
+<!-- https://codepen.io/jwjcmw/pen/GMQMPW -->
+
+<div class="columns is-multiline">
+{%- for image in site.static_files -%}
+{%- if image.path contains include.gallery_path -%}
+{%- unless image.path contains '.md' -%}
+{%- capture img_url -%} {{- image.path -}} {%- endcapture -%}
+<div class="column is-one-quarter-desktop is-half-tablet">
+{%- include image-modal_fx.html link=img_url alt="" -%}
+</div>
+{%- endunless -%}
+{%- endif -%}
+{%- endfor -%}
+</div>

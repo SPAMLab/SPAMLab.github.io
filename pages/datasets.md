@@ -2,12 +2,20 @@
 layout: page
 title: Datasets
 subtitle: Talk is cheap. Show us the data
-published: true
+hero_image: "/img/headers/datasets.jpg"
+hero_darken: true
+show_sidebar: false
 ---
 
 
 This page has direct links to large datasets (point clouds, RPA images). If you are looking for the scripts and codes that go alogn with our articles, they are in GitHub, both in the [SPAMLab Repo](https://github.com/SPAMLab/data_sharing) and in [Prof. Grohmann's Repo](https://github.com/CarlosGrohmann/scripts_papers).  
 &nbsp;&nbsp;
+
+
+Grohmann, C. H. (2025). Caverna do Diabo (Cav. da Tapagem / Devil's Cave) - Point Clouds  
+_Zenodo_  
+Data provided by FAPESP grant [2016/06628-0](https://bv.fapesp.br/44264)  
+[https://doi.org/10.5281/zenodo.14860981](https://doi.org/10.5281/zenodo.14860981)  
 
 
 Coelho, R. D., Grohmann, C. H., Viana, C. D., Dias, V. (2024). Landslides of the 2023 summer event of São Sebastião, southeastern Brazil. Vector dataset (polygons and points). 
@@ -25,6 +33,7 @@ Data provided by FAPESP grant [2019/26568-0](https://bv.fapesp.br/52552).
 
 Grohmann, C.H., Viana, C.D., Garcia, G.P.B., Albuquerque, R.W., Barale, F., Ferretti, F.A., 2022. Jardim Garcia quarry. RPA images, 3D mesh and point coud.  
 _Zenodo_  
+Data provided by FAPESP grant [2016/06628-0](https://bv.fapesp.br/44264).  
 [https://zenodo.org/badge/DOI/10.5281/zenodo.7220755.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.7220755.svg)  
 
 

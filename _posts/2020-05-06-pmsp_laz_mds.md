@@ -15,6 +15,8 @@ tags:
 
 In May 2020, despite all the limitations we were all facing during the COVID-19 global pandemic, our friends at São Paulo City Hall managed to release a new dataset of the city's LiDAR survey. While the first release "only" had the ground-classified points, this one has the full point clouds, with all LiDAR returns. And the points are colored based on high-resolution orthophotos!  
 
+<!--more-->
+
 To download the data, check [this other post]({{site.baseurl}}/blog/pmsp_lidar).  
 
 In this post I want to show the nice 3D viewer they implemented, based on [Potree](http://potree.org/) and the [Entwine Point Tile (EPT)](https://entwine.io/index.html). 
