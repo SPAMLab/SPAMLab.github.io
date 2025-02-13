@@ -161,7 +161,7 @@ show_sidebar: false
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/alynne.jpg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Alynne Almeida Affonso</b> (DSc 2018-2023) (<a href="http://orcid.org/0000-0002-2646-3922">ORCiD</a> | <a href="http://lattes.cnpq.br/3330746311709629">Lattes CV</a>) - High-resolution remote sensing of <i>igapó</i> forests in the Xingu River, eastern Amazonia - analysis of sedimentation patterns. <br> 
+  <td width="83%"> <b>Alynne Almeida Affonso</b> (DSc 2018-2023) (<a href="http://orcid.org/0000-0002-2646-3922">ORCiD</a> | <a href="http://lattes.cnpq.br/3330746311709629">Lattes CV</a>) - Characterization and monitoring of the flooding dynamics and seasonally flooded environments of the Volta Grande do Xingu through remote sensing. <br> 
   Scholarship: CAPES<br> 
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/106/106132/tde-02022024-211517/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
   DOI: <a href="https://doi.org/10.11606/T.106.2023.tde-02022024-211517">https://doi.org/10.11606/T.106.2023.tde-02022024-211517</a> </td> 
