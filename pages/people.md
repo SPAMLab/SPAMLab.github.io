@@ -85,11 +85,6 @@ show_sidebar: false
   </tr>
 
   <tr>
-  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/marcia.jpg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Márcia Valadares dos Santos</b> (DSc 2019-2025) (<a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
-  </tr>
-
-  <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/rebeca.jpeg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. </td> 
   </tr>    
@@ -192,6 +187,11 @@ show_sidebar: false
   </tr>
 </table>
 
+
+<!--   <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/marcia.jpg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Márcia Valadares dos Santos</b> (DSc 2019-2025) (<a href="http://lattes.cnpq.br/4630051898845467">Lattes CV</a>) - Environmental diagnostic and recovering evaluation of mining-degraded areas in the Itajaí region, Santa Catarina. </td> 
+  </tr> -->
 
 
 
