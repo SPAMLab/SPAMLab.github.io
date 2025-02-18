@@ -31,6 +31,8 @@
       link: /pages/3dmodels/
     - name: Media
       link: /pages/news/
+    - name: Summer School
+      link: /pages/summer2025/
 - name: About Us
   link: /#
   dropdown:

@@ -45,7 +45,7 @@ show_sidebar: false
   <tr>
     <td width="17%"> <figure class="image is-128x128"><img src="/img/people/gabriella2.jpeg" class="is-rounded" width="99%"> </figure></td>
     <td width="83%"> <b>Gabriella Labate Frugis (2025-?)</b> (<a href="https://orcid.org/0000-0001-8165-2403">ORCiD</a> | <a href="http://lattes.cnpq.br/6198714384192478">Lattes CV</a>) - Surface analysis for geological risk monitoring on São Sebastião Island, Ilhabela – SP, using high-resolution laser altimetry (LiDAR) models. <br> 
-    Scholarship: ?? </td> 
+    Scholarship: CAPES-PIPD</td> 
   </tr>
 
   <tr>
@@ -57,7 +57,7 @@ show_sidebar: false
   <tr>
     <td width="17%"> <figure class="image is-128x128"><img src="/img/people/anderson.jpg" class="is-rounded" width="99%"> </figure></td>
     <td width="83%"> <b>Anderson Targino da Silva Ferreira (2019-2021)</b> (<a href="http://orcid.org/0000-0002-0440-6273">ORCiD</a> | <a href="http://lattes.cnpq.br/2987031006640819">Lattes CV</a>) - Monitoring of microplastic (pellets) density of a sandy beach by coring, 3D modelling and meteoceanographic parameters. <br> 
-    Scholarship: CAPES-PIPD</td> 
+    Scholarship: CAPES-PNPD</td> 
   </tr>
 </table>
 
@@ -217,7 +217,7 @@ show_sidebar: false
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/denilson2.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Denilson de Jesus</b> (MSc 2020-2023) - Application of Free and Open-Source GIS tools in the Gelogical Survey of Brazil: improving quality, reducing costs and timeframes.<br> 
+  <td width="83%"> <b>Denilson de Jesus</b> (MSc 2020-2023) (<a href="http://lattes.cnpq.br/8955044720172019">Lattes CV</a>) - Application of Free and Open-Source GIS tools in the Gelogical Survey of Brazil: improving quality, reducing costs and timeframes.<br> 
   In cooperation with the <a href="https://www.sgb.gov.br/">Geological Survey of Brazil</a>  <br>
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-08052023-082430/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
   DOI: <a href="https://doi.org/10.11606/D.44.2023.tde-08052023-082430">https://doi.org/10.11606/D.44.2023.tde-08052023-082430</a> </td> 
