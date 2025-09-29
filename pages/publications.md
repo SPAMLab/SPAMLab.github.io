@@ -10,23 +10,48 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 &nbsp;&nbsp;
 
 
+## 2026
+<a name="alynne_3dmodels"></a> 
+Affonso, A.A., Freire, M.P., Sawakuchi, A.O., Grohmann, C.H. 2025. 3D modeling as a conservation tool to characterize endangered seasonally flooded ecosystems in the Volta Grande Do Xingu, Eastern Amazon, Pará, Brazil.  
+_Journal for Nature Conservation_, 127087.  
+[https://doi.org/10.1016/j.jnc.2025.127087](https://doi.org/10.1016/j.jnc.2025.127087) (paywalled)  
 
+<br> 
 ## 2025
+<a name="gedtm_peerj"></a> 
+Ho. Y., Grohmann. C.H., Lindsay. J., Reuter. H.I., Parente. L., Witjes. M., Hengl. T. 2025. GEDTM30: global ensemble digital terrain model at 30 m and derived multiscale terrain variables.  
+_PeerJ_ 13:e19673.  
+[https://doi.org/10.7717/peerj.19673](https://doi.org/10.7717/peerj.19673) (open access)  
+
+
+<a name="helen_inventory_ML"></a> 
+Dias, H.C., Hölbling, D., Grohmann, C.H. 2025. Examining the influence of different inventories on shallow landslide susceptibility modeling: An assessment using machine learning and statistical approaches. 
+_Geosciences_, 15(3), 77.  
+[https://doi.org/10.3390/geosciences15030077](https://doi.org/10.3390/geosciences15030077) (open access)  
+
+
+<a name="palm_oil_procam"></a> 
+Barros, P.H.B., Dias, F.G., Quintanilha, J.A., Grohmann, C.H. 2025. Mapping oil palm expansion in the Eastern Amazon using optical and radar imagery. 
+_Remote Sensing Applications Society and Environment_, 101506.  
+[https://doi.org/10.1016/j.rsase.2025.101506](https://doi.org/10.1016/j.rsase.2025.101506) (open access)  
+
+
 <a name="ttg_drone"></a> 
-Grohmann, C.H., Garcia, G.P.B., Viana, C.D.,  Dias, H.C., Gramani, M.F., Santos, L.F., Sousa, A.M., Soares,  L.P., & Coelho, R.D., 2025. Landslide 3D reconstruction and  monitoring using oblique and nadiral drone aerial imagery. In _Earth  Observation Applications to Landslide Mapping, Monitoring and Modeling_  (pp. 199–214). Elsevier.  [https://doi.org/10.1016/b978-0-12-823868-4.00010-6](https://doi.org/10.1016/b978-0-12-823868-4.00010-6) (paywalled)
+Grohmann, C.H., Garcia, G.P.B., Viana, C.D.,  Dias, H.C., Gramani, M.F., Santos, L.F., Sousa, A.M., Soares,  L.P., & Coelho, R.D., 2025. Landslide 3D reconstruction and  monitoring using oblique and nadiral drone aerial imagery. In _Earth  Observation Applications to Landslide Mapping, Monitoring and Modeling_  (pp. 199–214). Elsevier.   
+[https://doi.org/10.1016/b978-0-12-823868-4.00010-6](https://doi.org/10.1016/b978-0-12-823868-4.00010-6) (paywalled)  
 
 <br>
 ## 2024
 <a name="rebeca_inventario"></a> 
 Coelho R.D., Viana C.D., Dias V.C., Grohmann C.H. 2024. Landslides of the 2023 summer event of São Sebastião, southeastern Brazil: spatial dataset.  
-_Brazilian Journal of Geology_, 54(2):e20240006. 
+_Brazilian Journal of Geology_, 54(2):e20240006.   
 [https://doi.org/10.1590/2317-4889202420240006](https://doi.org/10.1590/2317-4889202420240006) (open access)  
 
 
 <a name="demix_hydro"></a> 
 Guth P.L., Trevisani S., Grohmann C.H., Lindsay J., Gesch D., Hawker L., Bielski C., 2024. Ranking of 10 Global One-Arc-Second DEMs Reveals Limitations in Terrain Morphology Representation. 
 _Remote Sensing_. 2024; 16(17):3273.  
-[https://doi.org/10.3390/rs16173273](https://doi.org/10.3390/rs16173273)  
+[https://doi.org/10.3390/rs16173273](https://doi.org/10.3390/rs16173273) (open access)  
 
 
 <a name="massi_esr"></a> 

@@ -71,48 +71,71 @@ show_sidebar: false
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/lucas.png" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Lucas Pedrosa Soares</b> (2025-?) (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Generative Models in Remote Sensing: A Hybrid Approach with Synthetic and Real Images for Landslide Scar Segmentation. <br> 
-  Scholarship: ?? </td> 
+  Scholarship: FAPESP (grant <a href="https://bv.fapesp.br/49547">#2025/04787-2 </a>)
+  </td> 
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/fabiana2.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Fabiana Pereira Lasmar</b> (DSc 2024-2026) (<a href="http://lattes.cnpq.br/4615214525403114">Lattes CV</a>) - Geotechnologies applied to environmental technical investigations. <br> </td> 
+  <td width="83%"> <b>Fabiana Pereira Lasmar</b> (DSc 2024-2026) (<a href="http://lattes.cnpq.br/4615214525403114">Lattes CV</a>) - Geotechnologies applied to environmental technical investigations. 
+  </td> 
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/chicao.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Francis Marney Policarpo de Souza</b> (DSc 2019-2025) (<a href="http://lattes.cnpq.br/9250611828386366">Lattes CV</a>) - Environmental Monitoring and Ecological Restoration of the MIF Project at FENP Using Remote Sensing and Artificial Intelligence. </td> 
+  <td width="83%"> <b>Francis Marney Policarpo de Souza</b> (DSc 2019-2025) (<a href="http://lattes.cnpq.br/9250611828386366">Lattes CV</a>) - Environmental Monitoring and Ecological Restoration of the MIF Project at FENP Using Remote Sensing and Artificial Intelligence. <br> 
+  Scholarship: CAPES
+  </td> 
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/rebeca.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. </td> 
+  <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. <br> 
+  Scholarship: CAPES
+  </td> 
   </tr>    
 </table>
 
 
 &nbsp;
-
 &nbsp;
 
 ## Master's Students
 <table class="table-borderless" style="width:100%">
-    <tr>
-  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/marina.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Marina Barros Santander</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/3329230322365164">Lattes CV</a>) - TBD.
+  <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/lobo2.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Alexandre Oliveira Lobo</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/9775877275786218">Lattes CV</a>) - TBD.<br> 
+  Scholarship: Petrobras
+  </td> 
+  </tr>
+
+  <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/carlao2.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Carlos Eduardo da Silva</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/6422531952401749">Lattes CV</a>) - Point Cloud processing to determine soil thickness and vegetation height at regional scale.
   </td>
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/laura2.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Laura Selvati do Patrocinio Justiniano</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/8970535331560313">Lattes CV</a>) - TBD.
-  </td>
+  <td width="83%"> <b>Laura Selvati do Patrocinio Justiniano</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/8970535331560313">Lattes CV</a>) - Landslide change detection analysis from multi-temporal RPA and lidar data.<br> 
+  Scholarship: CAPES</td>
   </tr>
 
   <tr>
-  <td width="17%"> <figure class="image is-128x128"><img src="/img/logos/spamlab_avatar.png" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Carlos Eduardo da Silva</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/xxx">Lattes CV</a>) - TBD.
-  </td>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/maithe.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Maithe Fragoso Alvim</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/6644142139980621">Lattes CV</a>) - Analysis of landslides in São Sebastião using Synthetic Aperture Radar Interferometry.<br> 
+  Scholarship: CAPES</td> 
+  </tr>
+
+  <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/marina2.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Marina Barros Santander</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/3329230322365164">Lattes CV</a>) - Analysis of uncertainty associated with negative sampling in landslide susceptibility mapping in São Sebastião, SP.<br> 
+  Scholarship: CAPES</td> 
+  </tr>
+
+  <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/pedrosimoes.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Pedro Machado Simões</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/9595049043563048">Lattes CV</a>) - TBD.</td> 
   </tr>
 </table>
 
@@ -123,19 +146,17 @@ show_sidebar: false
 
 
 
-
+<br>
 &nbsp;
 &nbsp;
 
-<!-- ## Undergrad Students
+## Undergrad Students
 <table class="table-borderless" style="width:100%">
-
-
   <tr>
-    <td width="17%"> <figure class="image"><img src="/img/logos/spamlab_avatar.png" class="is-rounded" width="99%"> </figure></td>
-    <td width="83%"> <b>Laine Melo de Carvalho</b> - Numerical Modelling of geological risk in Francisco Morato and Mauá. </td> 
+    <td width="17%"> <figure class="image is-128x128"><img src="/img/logos/spamlab_avatar.png" class="is-rounded" width="99%"> </figure></td>
+    <td width="83%"> <b>Samira Lisboa Santos</b> - Reproducibility of studies about landslide susceptibility: bibliometric analysis. </td> 
   </tr>
-</table> -->
+</table>
 
 
 
@@ -159,7 +180,8 @@ show_sidebar: false
   <td width="83%"> <b>Alynne Almeida Affonso</b> (DSc 2018-2023) (<a href="http://orcid.org/0000-0002-2646-3922">ORCiD</a> | <a href="http://lattes.cnpq.br/3330746311709629">Lattes CV</a>) - Characterization and monitoring of the flooding dynamics and seasonally flooded environments of the Volta Grande do Xingu through remote sensing. <br> 
   Scholarship: CAPES<br> 
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/106/106132/tde-02022024-211517/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/T.106.2023.tde-02022024-211517">https://doi.org/10.11606/T.106.2023.tde-02022024-211517</a> </td> 
+  DOI: <a href="https://doi.org/10.11606/T.106.2023.tde-02022024-211517">https://doi.org/10.11606/T.106.2023.tde-02022024-211517</a> 
+  </td> 
   </tr> 
 
   <tr>
@@ -167,7 +189,8 @@ show_sidebar: false
   <td width="83%"> <b>Guilherme Pereira Bento Garcia</b> (DSc 2018-2023) (<a href="http://orcid.org/0000-0003-1209-7842">ORCiD</a> | <a href="http://lattes.cnpq.br/8143036335035110">Lattes CV</a>) - Detection and monitoring of landslides on natural slopes from integrated application of multispectral images and high-resolution elevation models.<br> 
   Scholarship: CAPES<br> 
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-08052023-082430/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/T.44.2023.tde-03082023-071204">https://doi.org/10.11606/T.44.2023.tde-03082023-071204</a> </td> 
+  DOI: <a href="https://doi.org/10.11606/T.44.2023.tde-03082023-071204">https://doi.org/10.11606/T.44.2023.tde-03082023-071204</a> 
+  </td> 
   </tr>
 
   <tr>
@@ -175,7 +198,8 @@ show_sidebar: false
   <td width="83%"> <b>Rafael Walter de Albuquerque</b> (DSc 2019-2022) (<a href="http://orcid.org/0000-0002-4294-5876">ORCiD</a> | <a href="http://lattes.cnpq.br/1122324819287451">Lattes CV</a>) - Remotely Piloted Aircrafts in assessment and monitoring of areas in environmental recovery process. <br> 
   Scholarship: CAPES<br> 
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/106/106132/tde-27072022-144958/">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/T.106.2022.tde-27072022-144958">https://doi.org/10.11606/T.106.2022.tde-27072022-144958</a></td> 
+  DOI: <a href="https://doi.org/10.11606/T.106.2022.tde-27072022-144958">https://doi.org/10.11606/T.106.2022.tde-27072022-144958</a>
+  </td> 
   </tr> 
 
   <tr>
@@ -183,7 +207,8 @@ show_sidebar: false
   <td width="83%"> <b>Camila Duelis Viana</b> (DSc 2017-2021) (<a href="http://orcid.org/0000-0001-7093-0244">ORCiD</a> | <a href="http://lattes.cnpq.br/8408152690266564">Lattes CV</a> | <a href="https://cdviana.github.io/">site/blog</a>) - Application of multi-scale photogrammetry in structural data collection.<br> 
   In cooperation with the <a href="https://capital.sp.gov.br/">São Paulo City Hall</a>  <br>
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/T.44.2021.tde-18012022-122057">https://doi.org/10.11606/T.44.2021.tde-18012022-122057</a> </td> 
+  DOI: <a href="https://doi.org/10.11606/T.44.2021.tde-18012022-122057">https://doi.org/10.11606/T.44.2021.tde-18012022-122057</a> 
+  </td> 
   </tr>
 </table>
 
@@ -212,7 +237,8 @@ show_sidebar: false
   <td width="83%"> <b>Amanda Mendes de Sousa</b> (MSc 2019-2023) (<a href="http://orcid.org/0000-0003-2264-5531">ORCiD</a> | <a href="http://lattes.cnpq.br/1341083329457480">Lattes CV</a>) - Monitoring landslide susceptibility: using UAVs to generate 3D models for slope stability analysis in urban areas. <br> 
   In cooperation with the <a href="https://capital.sp.gov.br/">São Paulo City Hall</a>  <br>
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-12122023-082028/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/D.44.2023.tde-12122023-082028">https://doi.org/10.11606/D.44.2023.tde-12122023-082028</a> </td> 
+  DOI: <a href="https://doi.org/10.11606/D.44.2023.tde-12122023-082028">https://doi.org/10.11606/D.44.2023.tde-12122023-082028</a> 
+  </td> 
   </tr>
 
   <tr>
@@ -220,7 +246,8 @@ show_sidebar: false
   <td width="83%"> <b>Denilson de Jesus</b> (MSc 2020-2023) (<a href="http://lattes.cnpq.br/8955044720172019">Lattes CV</a>) - Application of Free and Open-Source GIS tools in the Gelogical Survey of Brazil: improving quality, reducing costs and timeframes.<br> 
   In cooperation with the <a href="https://www.sgb.gov.br/">Geological Survey of Brazil</a>  <br>
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-08052023-082430/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/D.44.2023.tde-08052023-082430">https://doi.org/10.11606/D.44.2023.tde-08052023-082430</a> </td> 
+  DOI: <a href="https://doi.org/10.11606/D.44.2023.tde-08052023-082430">https://doi.org/10.11606/D.44.2023.tde-08052023-082430</a> 
+  </td> 
   </tr>
 
   <tr>
@@ -228,7 +255,8 @@ show_sidebar: false
   <td width="83%"> <b>Lucas Pedrosa Soares</b> (MSc 2020-2022) (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Automatic segmentation of landslide scars in remote sensing imagery with deep learning. <br> 
   Scholarship: FAPESP (grant <a href="https://bv.fapesp.br/49430">#2019/17555-1</a>) <br>
   PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44137/tde-08072022-080909/">USP Digital Library of Theses and Dissertations<br> </a>
-  DOI: <a href="https://doi.org/10.11606/D.44.2022.tde-08072022-080909">https://doi.org/10.11606/D.44.2022.tde-08072022-080909</a></td> 
+  DOI: <a href="https://doi.org/10.11606/D.44.2022.tde-08072022-080909">https://doi.org/10.11606/D.44.2022.tde-08072022-080909</a>
+  </td> 
   </tr>
 
   <tr>
@@ -280,7 +308,8 @@ show_sidebar: false
   <td width="83%"> <b>Laine Melo de Carvalho</b> (2023) - Influence of slope and slope of the land on susceptibility to landslides in housing centers of RMSP. <br> 
   In cooperation with <a href="https://www.regea.com.br/">Regea | Geology, Engineering and Environmental Studies</a>  <br>
   <a href="https://igc.usp.br/2024/04/29/premiacao-dos-trabalhos-de-formatura-de-2023/">Awarded a distinction</a> as one of the best monographs of the year (grade 95/100).<br>
-  PDF available at the <a href="https://bdta.abcd.usp.br/item/003187124">Digital Library of Academic Works at USP</a></td> 
+  PDF available at the <a href="https://bdta.abcd.usp.br/item/003187124">Digital Library of Academic Works at USP</a>
+  </td> 
   </tr>
 
   <tr>
