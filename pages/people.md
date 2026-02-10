@@ -77,23 +77,17 @@ show_sidebar: false
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/fabiana2.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Fabiana Pereira Lasmar</b> (DSc 2024-2026) (<a href="http://lattes.cnpq.br/4615214525403114">Lattes CV</a>) - Geotechnologies applied to environmental technical investigations. 
+  <td width="83%"> <b>Fabiana Pereira Lasmar</b> (DSc 2024-?) (<a href="http://lattes.cnpq.br/4615214525403114">Lattes CV</a>) - Geotechnologies applied to environmental technical investigations. 
   </td> 
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/chicao.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Francis Marney Policarpo de Souza</b> (DSc 2019-2025) (<a href="http://lattes.cnpq.br/9250611828386366">Lattes CV</a>) - Environmental Monitoring and Ecological Restoration of the MIF Project at FENP Using Remote Sensing and Artificial Intelligence. <br> 
+  <td width="83%"> <b>Francis Marney Policarpo de Souza</b> (DSc 2024-?) (<a href="http://lattes.cnpq.br/9250611828386366">Lattes CV</a>) - Environmental Monitoring and Ecological Restoration of the MIF Project at FENP Using Remote Sensing and Artificial Intelligence. <br> 
   Scholarship: CAPES
   </td> 
   </tr>
 
-  <tr>
-  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/rebeca.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. <br> 
-  Scholarship: CAPES
-  </td> 
-  </tr>    
 </table>
 
 
@@ -168,10 +162,18 @@ show_sidebar: false
 ### DSc
 
 <table class="table-borderless" style="width:100%">
+    <tr>
+  <td width="17%"> <figure class="image is-128x128"><img src="/img/people/rebeca.jpeg" class="is-rounded" width="99%"> </figure></td>
+  <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. <br> 
+  Scholarship: CAPES
+  </td> 
+  </tr>    
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/helen.jpg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Helen Cristina Dias</b> (DSc 2019-2025) (<a href="http://orcid.org/0000-0002-5006-7006">ORCiD</a> | <a href="http://lattes.cnpq.br/6662222026617086">Lattes CV</a>) - Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models. <br> 
   Scholarship: FAPESP (grant <a href="https://bv.fapesp.br/49547">#2019/17261-8</a>)<br> 
+  PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/106/106132/tde-17032025-170118/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
+  DOI: <a href="https://doi.org/10.11606/T.106.2025.tde-17032025-170118">https://doi.org/10.11606/T.106.2025.tde-17032025-170118</a> 
   </td> 
   </tr>
 
@@ -228,7 +230,9 @@ show_sidebar: false
 <table class="table-borderless" style="width:100%">
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/francesco.jpg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Francesco Barale</b> (MSc 2023-2025) (<a href="http://orcid.org/0000-0002-2527-3617">ORCiD</a> | <a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - 3D modelling of Pedra do Baú natural monument with RPA-LiDAR.
+  <td width="83%"> <b>Francesco Barale</b> (MSc 2023-2025) (<a href="http://orcid.org/0000-0002-2527-3617">ORCiD</a> | <a href="http://lattes.cnpq.br/0059823974469880">Lattes CV</a>) - 3D modelling of Pedra do Baú natural monument with RPA-LiDAR.<br>
+  PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44145/tde-27112025-140635/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
+  DOI: <a href="https://doi.org/10.11606/D.44.2025.tde-27112025-140635">https://doi.org/10.11606/D.44.2025.tde-27112025-140635</a> 
   </td>
   </tr>
 

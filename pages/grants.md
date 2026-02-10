@@ -10,26 +10,26 @@ show_sidebar: false
 ### **Current**
 
 <a name="fapesp_landslides2"></a>**Multi-Scale Geomorphometric Analysis of Mass Movements in São Sebastião (SP, Brazil).**  
-period: 2024-2026  
+period: 2024-2027  
 funding: FAPESP ([2023/11197-1](https://bv.fapesp.br/57077))  
 PI: Carlos H. Grohmann  
 Collabs: [Universitatea Alexandru Ioan Cuza din Iași, România](https://www.uaic.ro/), 
 [Geomorphometry & Hydrogeomatics Research Group, University of Guelph](https://jblindsay.github.io/ghrg/research_group.html)   
 
-<a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
-period: 2022-2025  
-funding: [CNPq](http://www.cnpq.br) 311209/2021-1  
+<a name="cnpq_pq2025"></a>**Mass Movements Analysis in São Sebastião (SP): Geomorphometry and Machine Learning.**  
+period: 2025/08-2029/07  
+funding: [CNPq](http://www.cnpq.br) 300033/2025-7  
 PI: Carlos H. Grohmann  
+
+<a name="matheus_lidar"></a>**TLiDAR Technology for Forest Monitoring in São Paulo: Supporting Public Policies for Climate Change Mitigation.**  
+period: 2025-2029  
+funding: FAPESP ([2024/15211-1](https://bv.fapesp.br/61849))  
+PI: Matheus Pinheiro Ferreira, ESALQ-USP  
 
 <a name="fruta_tadp"></a>**Trans-Amazon Drilling Project: origin and evolution of the forests, climate, and hydrology of the South American tropics.**  
 period: 2021-2026  
 funding: FAPESP ([2018/23899-2](https://bv.fapesp.br/55877))  
 PI: André O. Sawakuchi, IGc-USP  
-
-<a name="mauricio_jp2"></a>**Topographic construction along the northeastern Andes and the origin of the Transcontinental Amazon Basin.**  
-period: 2019-2025  
-funding: FAPESP ([2018/15613-1](https://bv.fapesp.br/55163))  
-PI: Mauricio Parra Amézquita, IEE-USP  
 
 <a name="fapesp_core"></a>**Sea-level changes and global monsoon system: clues from marine cores in Brazil.**  
 period: 2019-2026  
@@ -40,10 +40,20 @@ PI: Luigi Jovane, IO-USP
 <br><br>
 
 ### **Past**
+<a name="cnpq_pq2022"></a>**Artificial Intelligence and High-Resolution Remote Sensing applied to the study of mass movements, geological risks and coastal habitats.**  
+period: 2022-2025  
+funding: [CNPq](http://www.cnpq.br) 311209/2021-1  
+PI: Carlos H. Grohmann  
+
 <a name="fapesp_helenDR"></a>**Analysis of manual and semi-automatic shallow landslides inventories and its suitability in predictive models.**  
 period: 2019-2025
 funding: FAPESP ([2019/17261-8 ](https://bv.fapesp.br/59061)) (DSc scholarship)  
 PI: Helen Cristina Dias  
+
+<a name="mauricio_jp2"></a>**Topographic construction along the northeastern Andes and the origin of the Transcontinental Amazon Basin.**  
+period: 2019-2025  
+funding: FAPESP ([2018/15613-1](https://bv.fapesp.br/55163))  
+PI: Mauricio Parra Amézquita, IEE-USP  
 
 <a name="fapesp_anderson"></a>**Microplastic's geochronology in coastal sediment: analysis based on optically stimulated luminescence (LOE), stable isotopes (13C), thermal analysis, and GNSS positioning.**  
 period: 2022-2024  

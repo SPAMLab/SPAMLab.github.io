@@ -11,12 +11,19 @@ Note: This page shows the publications by Prof. Carlos Grohmann and his students
 
 
 ## 2026
+<a name="rebeca_mdt"></a> 
+Coelho, R.D., Frugis, G.L., Viana, C.D., Grohmann, C.H. 2026.  High-Resolution Digital Terrain Model and Land-Surface Parameters of São Sebastião and Ilhabela, Southeastern Brazil.  
+_Geoscience Data Journal_, 13,2: e70057.  
+[https://doi.org/10.1002/gdj3.70057](https://doi.org/10.1002/gdj3.70057)  (open access)   
+
+<br> 
 <a name="alynne_3dmodels"></a> 
 Affonso, A.A., Freire, M.P., Sawakuchi, A.O., Grohmann, C.H. 2025. 3D modeling as a conservation tool to characterize endangered seasonally flooded ecosystems in the Volta Grande Do Xingu, Eastern Amazon, Pará, Brazil.  
 _Journal for Nature Conservation_, 127087.  
 [https://doi.org/10.1016/j.jnc.2025.127087](https://doi.org/10.1016/j.jnc.2025.127087) (paywalled)  
 
 <br> 
+
 ## 2025
 <a name="gedtm_peerj"></a> 
 Ho. Y., Grohmann. C.H., Lindsay. J., Reuter. H.I., Parente. L., Witjes. M., Hengl. T. 2025. GEDTM30: global ensemble digital terrain model at 30 m and derived multiscale terrain variables.  
