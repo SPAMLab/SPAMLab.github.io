@@ -16,7 +16,7 @@ Coelho, R.D., Frugis, G.L., Viana, C.D., Grohmann, C.H. 2026.  High-Resolution D
 _Geoscience Data Journal_, 13,2: e70057.  
 [https://doi.org/10.1002/gdj3.70057](https://doi.org/10.1002/gdj3.70057)  (open access)   
 
-<br> 
+
 <a name="alynne_3dmodels"></a> 
 Affonso, A.A., Freire, M.P., Sawakuchi, A.O., Grohmann, C.H. 2025. 3D modeling as a conservation tool to characterize endangered seasonally flooded ecosystems in the Volta Grande Do Xingu, Eastern Amazon, Pará, Brazil.  
 _Journal for Nature Conservation_, 127087.  

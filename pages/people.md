@@ -165,7 +165,9 @@ show_sidebar: false
     <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/rebeca.jpeg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Rebeca Durço Coelho</b> (DSc 2021-2025) (<a href="http://orcid.org/0000-0003-2131-8862">ORCiD</a> | <a href="http://lattes.cnpq.br/6253625584264789">Lattes CV</a>) - Study of Morphometry and Geotechnical Properties in Landslides Deflagration. <br> 
-  Scholarship: CAPES
+  Scholarship: CAPES<br>
+  PDF available at the <a href="https://www.teses.usp.br/teses/disponiveis/44/44145/tde-09022026-091903/pt-br.php">USP Digital Library of Theses and Dissertations<br> </a>
+  DOI: <a href="https://doi.org/10.11606/T.44.2025.tde-09022026-091903">https://doi.org/10.11606/T.44.2025.tde-09022026-091903</a> 
   </td> 
   </tr>    
   <tr>
