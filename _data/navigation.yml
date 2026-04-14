@@ -3,6 +3,8 @@
   dropdown:
     - name: Papers
       link: /pages/publications/
+    - name: Thesis / Dissertations
+      link: /pages/thesis/
     - name: Datasets
       link: /pages/datasets/
 - name: Projects
@@ -31,11 +33,17 @@
       link: /pages/3dmodels/
     - name: Media
       link: /pages/news/
-    - name: Summer School
+    - name: Summer School 2025
       link: /pages/summer2025/
 - name: About Us
   link: /#
   dropdown:
+    - name: Code of Conduct
+      link: /pages/manual/
+    - name: Expectations
+      link: /pages/expectations/
+    - name: Mental Health
+      link: /pages/health/
     - name: People
       link: /pages/people/
     - name: Collabs

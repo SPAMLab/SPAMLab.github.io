@@ -13,7 +13,7 @@ This is a non-extensive list of the software we are using at the lab, in no part
 
 ## Free and Open-Source Software (FOSS)
 
-[GRASS-GIS](https://grass.osgeo.org) 
+[GRASS](https://grass.osgeo.org) 
 
 [QGIS](https://www.qgis.org) 
 
@@ -27,7 +27,7 @@ This is a non-extensive list of the software we are using at the lab, in no part
 
 [Cloud Compare](https://www.danielgm.net/cc/)
 
-[OpenDroneMap](https://www.opendronemap.org)
+[WebODM](https://webodm.org/)
 
 [Linux](https://www.linux.org)
 
@@ -38,6 +38,9 @@ This is a non-extensive list of the software we are using at the lab, in no part
 [Jupyter](https://jupyter.org/)
 
 [Spyder](https://www.spyder-ide.org/)
+
+[Zotero](https://www.zotero.org/)
+
 
 <br>
 ## Proprietary Software

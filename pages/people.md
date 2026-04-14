@@ -297,11 +297,13 @@ show_sidebar: false
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/enzo2.jpg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Enzo Franceschi Genesi</b> (2024) - Preparation of an inventory of the 1967 landslides in Caraguatatuba based on aerial photos and digital photogrammetry. </td> 
+    PDF available at the <a href="https://bdta.abcd.usp.br/item/003232493">Digital Library of Academic Works at USP</a>
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/laura2.jpeg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Laura Selvati do Patrocinio Justiniano</b> (2024) - Temporal analysis of landslides in São Sebastião - SP: Application of the Structure from Motion technique - Multi View Stereo. </td> 
+  PDF available at the <a href="https://bdta.abcd.usp.br/item/003234971">Digital Library of Academic Works at USP</a>
   </tr>
 
   <tr>
