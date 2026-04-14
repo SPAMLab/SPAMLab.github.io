@@ -44,7 +44,7 @@ show_sidebar: false
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <figure class="image is-128x128"><img src="/img/people/gabriella2.jpeg" class="is-rounded" width="99%"> </figure></td>
-    <td width="83%"> <b>Gabriella Labate Frugis (2025-?)</b> (<a href="https://orcid.org/0000-0001-8165-2403">ORCiD</a> | <a href="http://lattes.cnpq.br/6198714384192478">Lattes CV</a>) - Surface analysis for geological risk monitoring on São Sebastião Island, Ilhabela – SP, using high-resolution laser altimetry (LiDAR) models. <br> 
+    <td width="83%"> <b>Gabriella Labate Frugis (2025-?)</b> (<a href="https://orcid.org/0009-0009-8053-9914">ORCiD</a> | <a href="http://lattes.cnpq.br/6198714384192478">Lattes CV</a>) - Surface analysis for geological risk monitoring on São Sebastião Island, Ilhabela – SP, using high-resolution laser altimetry (LiDAR) models. <br> 
     Scholarship: CAPES-PIPD</td> 
   </tr>
 
@@ -71,7 +71,7 @@ show_sidebar: false
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/lucas.png" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Lucas Pedrosa Soares</b> (2025-?) (<a href="http://orcid.org/0000-0002-6980-597X">ORCiD</a> | <a href="http://lattes.cnpq.br/0242746303744589">Lattes CV</a> | <a href="https://lpsmlgeo.github.io/">site/blog</a>) - Generative Models in Remote Sensing: A Hybrid Approach with Synthetic and Real Images for Landslide Scar Segmentation. <br> 
-  Scholarship: FAPESP (grant <a href="https://bv.fapesp.br/49547">#2025/04787-2 </a>)
+  Scholarship: FAPESP (grant <a href="https://bv.fapesp.br/pt/bolsas/228255/modelos-generativos-em-sensoriamento-remoto-uma-abordagem-hibrida-com-imagens-sinteticas-e-reais-par/">#2025/04787-2 </a>)
   </td> 
   </tr>
 
@@ -98,7 +98,7 @@ show_sidebar: false
 <table class="table-borderless" style="width:100%">
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/lobo2.jpeg" class="is-rounded" width="99%"> </figure></td>
-  <td width="83%"> <b>Alexandre Oliveira Lobo</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/9775877275786218">Lattes CV</a>) - TBD.<br> 
+  <td width="83%"> <b>Alexandre Oliveira Lobo</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/9775877275786218">Lattes CV</a>) - Three-dimensional modeling of outcrops using Structure from Motion-Multi View Stereo and data integration in a virtual environment for  carbonate reservoir analysis.<br> 
   Scholarship: Petrobras
   </td> 
   </tr>
@@ -124,7 +124,7 @@ show_sidebar: false
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/marina2.jpeg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Marina Barros Santander</b> (MSc 2025-?) (<a href="http://lattes.cnpq.br/3329230322365164">Lattes CV</a>) - Analysis of uncertainty associated with negative sampling in landslide susceptibility mapping in São Sebastião, SP.<br> 
-  Scholarship: CAPES</td> 
+  Scholarship: CAPES (2025) / FAPESP (grant <a href="https://bv.fapesp.br/pt/bolsas/237625/analise-da-incerteza-associada-a-amostragem-negativa-no-mapeamento-de-suscetibilidade-a-deslizamento/">#2025/22341-1 </a>)</td> 
   </tr>
 
   <tr>
@@ -297,11 +297,13 @@ show_sidebar: false
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/enzo2.jpg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Enzo Franceschi Genesi</b> (2024) - Preparation of an inventory of the 1967 landslides in Caraguatatuba based on aerial photos and digital photogrammetry. </td> 
+    PDF available at the <a href="https://bdta.abcd.usp.br/item/003232493">Digital Library of Academic Works at USP</a>
   </tr>
 
   <tr>
   <td width="17%"> <figure class="image is-128x128"><img src="/img/people/laura2.jpeg" class="is-rounded" width="99%"> </figure></td>
   <td width="83%"> <b>Laura Selvati do Patrocinio Justiniano</b> (2024) - Temporal analysis of landslides in São Sebastião - SP: Application of the Structure from Motion technique - Multi View Stereo. </td> 
+  PDF available at the <a href="https://bdta.abcd.usp.br/item/003234971">Digital Library of Academic Works at USP</a>
   </tr>
 
   <tr>

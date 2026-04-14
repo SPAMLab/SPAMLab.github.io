@@ -9,8 +9,17 @@ show_sidebar: false
 Note: This page shows the publications by Prof. Carlos Grohmann and his students/colleagues related to GIS, Spatial Analisys, Geomorphometry, etc. For a full list of Prof. Grohmann's publications, please refer to his [ORCID](http://orcid.org/0000-0001-5073-5572), [Lattes CV](http://lattes.cnpq.br/5846052449613692) or personal [website](http://carlosgrohmann.com/pages/publications/).  
 &nbsp;&nbsp;
 
+We keep a **Zotero** group with all the bibliography we use [here](https://www.zotero.org/groups/6509728/spamlab).
+&nbsp;&nbsp;
 
 ## 2026
+
+<a name="mauricio_ecology"></a> 
+Vancine, M.H., Niebuhr, B.B., Muylaert, R.L., de Oshima, J., Tonetti, V., Bernardo, R., Alves, R.S.C., Zanette, E.M., Souza, V.C., Giovanelli, J.G.R., Ribeiro, J.W., De Angelo, C., Grohmann, C.H., Galetti, M., Ribeiro, M.C. 2026. ATLANTIC SPATIAL: A dataset of landscape, topographic, hydrological, and anthropogenic metrics for the Atlantic Forest.  
+_Ecology_, 107(4), e70360.  
+[https://doi.org/10.1002/ecy.70360](https://doi.org/10.1002/ecy.70360) (open access)  
+
+
 <a name="rebeca_mdt"></a> 
 Coelho, R.D., Frugis, G.L., Viana, C.D., Grohmann, C.H. 2026.  High-Resolution Digital Terrain Model and Land-Surface Parameters of São Sebastião and Ilhabela, Southeastern Brazil.  
 _Geoscience Data Journal_, 13,2: e70057.  

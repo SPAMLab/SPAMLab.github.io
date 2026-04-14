@@ -11,7 +11,7 @@ show_sidebar: false
 
 [Z_GIS - Centre of Competence for Geoinformatics (Un. Salzburg)](http://zgis.at/)  
 
-[The Lecours Lab (Un. Florida)](https://www.thelecourslab.org)  
+[The Lecours Lab (Université du Québec à Chicoutimi)](https://www.thelecourslab.org)  
 
 [CPRM - Geological Survey of Brazil](https://www.cprm.gov.br/en/)  
 
