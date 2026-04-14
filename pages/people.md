@@ -44,7 +44,7 @@ show_sidebar: false
 <table class="table-borderless" style="width:100%">
   <tr>
     <td width="17%"> <figure class="image is-128x128"><img src="/img/people/gabriella2.jpeg" class="is-rounded" width="99%"> </figure></td>
-    <td width="83%"> <b>Gabriella Labate Frugis (2025-?)</b> (<a href="https://orcid.org/0000-0001-8165-2403">ORCiD</a> | <a href="http://lattes.cnpq.br/6198714384192478">Lattes CV</a>) - Surface analysis for geological risk monitoring on São Sebastião Island, Ilhabela – SP, using high-resolution laser altimetry (LiDAR) models. <br> 
+    <td width="83%"> <b>Gabriella Labate Frugis (2025-?)</b> (<a href="https://orcid.org/0009-0009-8053-9914">ORCiD</a> | <a href="http://lattes.cnpq.br/6198714384192478">Lattes CV</a>) - Surface analysis for geological risk monitoring on São Sebastião Island, Ilhabela – SP, using high-resolution laser altimetry (LiDAR) models. <br> 
     Scholarship: CAPES-PIPD</td> 
   </tr>
 
